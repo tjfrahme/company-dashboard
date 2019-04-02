@@ -1,0 +1,2881 @@
+ticker,company_id,currency,fyear,indicatorId,indicatorName,period,period_end_date,value
+XRX,378247,USD,nan,0-31,Last Closing Price,,2019-03-29,31.98
+XRX,378247,,nan,0-64,Common Shares Outstanding,,2018-10-31,238282707
+XRX,378247,,nan,0-65,Preferred Shares Outstanding,,,
+XRX,378247,,2017.0,0-66,"Average Shares Outstanding, basic",TTM,2017-12-31,254341000
+XRX,378247,,2017.0,0-67,"Average Shares Outstanding, diluted",TTM,2017-12-31,256570000
+XRX,378247,USD,2018.0,1-1,Revenues,TTM,2018-09-30,10044000000
+XRX,378247,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-09-30,5922000000
+XRX,378247,USD,2018.0,1-4,Gross Profit,TTM,2018-09-30,4122000000
+XRX,378247,USD,2018.0,1-11,Operating Expenses,TTM,2018-09-30,3124000000
+XRX,378247,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-09-30,2529000000
+XRX,378247,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-09-30,420000000
+XRX,378247,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,998000000
+XRX,378247,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-09-30,134000000
+XRX,378247,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,864000000
+XRX,378247,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,685000000
+XRX,378247,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,664000000
+XRX,378247,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,64000000
+XRX,378247,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,58000000
+XRX,378247,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,1157000000
+XRX,378247,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,1290000000
+XRX,378247,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,4970000000
+XRX,378247,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,968000000
+XRX,378247,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,15353000000
+XRX,378247,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,1121000000
+XRX,378247,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,410000000
+XRX,378247,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,2736000000
+XRX,378247,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,4815000000
+XRX,378247,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,9917000000
+XRX,378247,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,214000000
+XRX,378247,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+XRX,378247,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,5402000000
+XRX,378247,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,34000000
+XRX,378247,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,5436000000
+XRX,378247,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,526000000
+XRX,378247,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,-334000000
+XRX,378247,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,766000000
+XRX,378247,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-56000000
+XRX,378247,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,-19000000
+XRX,378247,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-272000000
+XRX,378247,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-1370000000
+XRX,378247,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,-645000000
+XRX,378247,,nan,4-11,Market Capitalisation,TTM,,7620280970
+XRX,378247,,nan,4-10,EBITDA,TTM,,1524000000
+XRX,378247,,nan,4-6,Total Debt,TTM,,5225000000
+XRX,378247,,nan,4-25,Free Cash Flow,TTM,,470000000
+XRX,378247,,nan,4-0,Gross Margin,TTM,,0.41040
+XRX,378247,,nan,4-1,Operating Margin,TTM,,0.09940
+XRX,378247,,nan,4-2,Net Profit Margin,TTM,,0.00700
+XRX,378247,,nan,4-7,Return on Equity,TTM,,0.01290
+XRX,378247,,nan,4-9,Return on Assets,TTM,,0.00460
+XRX,378247,,nan,4-28,Free Cash Flow to Net Income,TTM,,6.71430
+XRX,378247,,nan,4-3,Current Ratio,TTM,,1.81650
+XRX,378247,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.82430
+XRX,378247,,nan,4-5,Debt to Assets Ratio,TTM,,0.34030
+XRX,378247,,nan,4-12,"Earnings per Share, Basic",,,
+XRX,378247,,nan,4-13,"Earnings per Share, Diluted",,,
+XRX,378247,,nan,4-17,Sales per Share,,,
+XRX,378247,,nan,4-18,Book Value per Share,,,
+XRX,378247,,nan,4-26,Free Cash Flow per Share,,,
+XRX,378247,,nan,4-29,Dividends per Share,,,
+XRX,378247,,nan,4-14,Price to Earnings Ratio,,,
+XRX,378247,,nan,4-15,Price to Sales Ratio,,,
+XRX,378247,,nan,4-16,Price to Book Value,,,
+XRX,378247,,nan,4-27,Price to Free Cash Flow,,,
+XRX,378247,,nan,4-11,Market Capitalisation,TTM,,7620280970
+XRX,378247,,nan,4-20,Enterprise Value,TTM,,11722280970
+XRX,378247,,nan,4-21,EV/EBITDA,TTM,,7.69
+XRX,378247,,nan,4-22,EV/Sales,TTM,,1.17
+XRX,378247,,nan,4-31,EV/FCF,TTM,,24.94
+XRX,378247,,nan,4-23,Book to Market Value,TTM,,0.71
+XRX,378247,,nan,4-24,Operating Income/EV,TTM,,0.08510
+XRX,378247,,nan,4-30,Pietroski F-Score,,,
+ORCL,257930,USD,nan,0-31,Last Closing Price,,2019-03-29,53.71
+ORCL,257930,,nan,0-64,Common Shares Outstanding,,2018-12-14,3588919000
+ORCL,257930,,nan,0-65,Preferred Shares Outstanding,,,
+ORCL,257930,,2019.0,0-66,"Average Shares Outstanding, basic",TTM,2018-11-30,3948000000
+ORCL,257930,,2019.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-11-30,4050250000
+ORCL,257930,USD,2019.0,1-1,Revenues,TTM,2018-11-30,39893000000
+ORCL,257930,USD,2019.0,1-2,Cost of Goods Sold,TTM,2018-11-30,8149000000
+ORCL,257930,USD,2019.0,1-4,Gross Profit,TTM,2018-11-30,31744000000
+ORCL,257930,USD,2019.0,1-11,Operating Expenses,TTM,2018-11-30,17515000000
+ORCL,257930,USD,2019.0,1-12,"Selling, General and Administrative",TTM,2018-11-30,9763000000
+ORCL,257930,USD,2019.0,1-15,Research & Development Expenses,TTM,2018-11-30,6085000000
+ORCL,257930,USD,2019.0,1-19,Operating Income (EBIT),TTM,2018-11-30,14229000000
+ORCL,257930,USD,2019.0,1-21,"Interest Expense, net",TTM,2018-11-30,2129000000
+ORCL,257930,USD,2019.0,1-28,Pretax Income (adjusted),TTM,2018-11-30,13339000000
+ORCL,257930,USD,2019.0,1-43,Pretax Income,TTM,2018-11-30,12879000000
+ORCL,257930,USD,2019.0,1-44,Income Taxes,TTM,2018-11-30,8814000000
+ORCL,257930,USD,2019.0,1-49,Income from Continuing Operations,TTM,2018-11-30,4065000000
+ORCL,257930,USD,2019.0,1-58,Net Income (common shareholders),TTM,2018-11-30,4065000000
+ORCL,257930,USD,2019.0,2-1,Cash and Cash-equivalents,TTM,2018-11-30,49391000000
+ORCL,257930,USD,2019.0,2-5,"Receivables, net",TTM,2018-11-30,3975000000
+ORCL,257930,USD,2019.0,2-21,Total Current Assets,TTM,2018-11-30,56938000000
+ORCL,257930,USD,2019.0,2-22,"Property, Plant and Equipment, net",TTM,2018-11-30,6003000000
+ORCL,257930,USD,2019.0,2-41,Total Assets,TTM,2018-11-30,118318000000
+ORCL,257930,USD,2019.0,2-43,Accounts payable,TTM,2018-11-30,587000000
+ORCL,257930,USD,2019.0,2-47,Current Debt,TTM,2018-11-30,6477000000
+ORCL,257930,USD,2019.0,2-57,Total Current Liabilities,TTM,2018-11-30,20315000000
+ORCL,257930,USD,2019.0,2-58,Non-current Debt,TTM,2018-11-30,51561000000
+ORCL,257930,USD,2019.0,2-73,Total Liabilities,TTM,2018-11-30,87263000000
+ORCL,257930,USD,2019.0,2-74,Preferred Equity,TTM,2018-11-30,0
+ORCL,257930,USD,2019.0,2-76,Common Stock,TTM,2018-11-30,27430000000
+ORCL,257930,USD,2019.0,2-82,Equity before minorities,TTM,2018-11-30,30572000000
+ORCL,257930,USD,2019.0,2-83,Minority Interest,TTM,2018-11-30,483000000
+ORCL,257930,USD,2019.0,2-84,Total Equity,TTM,2018-11-30,31055000000
+ORCL,257930,USD,2019.0,3-2,Depreciation & Amortisation,TTM,2018-11-30,2825000000
+ORCL,257930,USD,2019.0,3-7,Change in Working Capital,TTM,2018-11-30,7467000000
+ORCL,257930,USD,2019.0,3-13,Operating Cash Flow,TTM,2018-11-30,15238000000
+ORCL,257930,USD,2019.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-11-30,-1468000000
+ORCL,257930,USD,2019.0,3-31,Investing Cash Flow,TTM,2018-11-30,7355000000
+ORCL,257930,USD,2019.0,3-32,Dividends paid,TTM,2018-11-30,-3017000000
+ORCL,257930,USD,2019.0,3-43,Financing Cash Flow,TTM,2018-11-30,-32835000000
+ORCL,257930,USD,2019.0,3-46,Net Change in Cash,TTM,2018-11-30,-10486000000
+ORCL,257930,,nan,4-11,Market Capitalisation,TTM,,192760839490
+ORCL,257930,,nan,4-10,EBITDA,TTM,,17054000000
+ORCL,257930,,nan,4-6,Total Debt,TTM,,58038000000
+ORCL,257930,,nan,4-25,Free Cash Flow,TTM,,14239000000
+ORCL,257930,,nan,4-0,Gross Margin,TTM,,0.79570
+ORCL,257930,,nan,4-1,Operating Margin,TTM,,0.35670
+ORCL,257930,,nan,4-2,Net Profit Margin,TTM,,0.10190
+ORCL,257930,,nan,4-7,Return on Equity,TTM,,0.13090
+ORCL,257930,,nan,4-9,Return on Assets,TTM,,0.03440
+ORCL,257930,,nan,4-28,Free Cash Flow to Net Income,TTM,,3.50280
+ORCL,257930,,nan,4-3,Current Ratio,TTM,,2.80280
+ORCL,257930,,nan,4-4,Liabilities to Equity Ratio,TTM,,2.81000
+ORCL,257930,,nan,4-5,Debt to Assets Ratio,TTM,,0.49050
+ORCL,257930,,nan,4-12,"Earnings per Share, Basic",TTM,,1.03
+ORCL,257930,,nan,4-13,"Earnings per Share, Diluted",TTM,,1.00
+ORCL,257930,,nan,4-17,Sales per Share,TTM,,10.10
+ORCL,257930,,nan,4-18,Book Value per Share,TTM,,7.74
+ORCL,257930,,nan,4-26,Free Cash Flow per Share,TTM,,3.61
+ORCL,257930,,nan,4-29,Dividends per Share,TTM,,0.76
+ORCL,257930,,nan,4-14,Price to Earnings Ratio,TTM,,52.16
+ORCL,257930,,nan,4-15,Price to Sales Ratio,TTM,,5.32
+ORCL,257930,,nan,4-16,Price to Book Value,TTM,,6.83
+ORCL,257930,,nan,4-27,Price to Free Cash Flow,TTM,,14.89
+ORCL,257930,,nan,4-11,Market Capitalisation,TTM,,192760839490
+ORCL,257930,,nan,4-20,Enterprise Value,TTM,,201890839490
+ORCL,257930,,nan,4-21,EV/EBITDA,TTM,,11.84
+ORCL,257930,,nan,4-22,EV/Sales,TTM,,5.06
+ORCL,257930,,nan,4-31,EV/FCF,TTM,,14.18
+ORCL,257930,,nan,4-23,Book to Market Value,TTM,,0.16
+ORCL,257930,,nan,4-24,Operating Income/EV,TTM,,0.07050
+ORCL,257930,,nan,4-30,Pietroski F-Score,TTM,,5.00
+WIN,625612,USD,nan,0-31,Last Closing Price,,2019-03-29,0.30
+WIN,625612,,nan,0-64,Common Shares Outstanding,,2018-11-06,42935942
+WIN,625612,,nan,0-65,Preferred Shares Outstanding,,,
+WIN,625612,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,74825000
+WIN,625612,,2015.0,0-67,"Average Shares Outstanding, diluted",TTM,2015-09-30,597225000
+WIN,625612,,nan,1-1,Revenues,,,
+WIN,625612,,nan,1-2,Cost of Goods Sold,,,
+WIN,625612,,nan,1-4,Gross Profit,,,
+WIN,625612,,nan,1-11,Operating Expenses,,,
+WIN,625612,,nan,1-12,"Selling, General and Administrative",,,
+WIN,625612,,nan,1-15,Research & Development Expenses,,,
+WIN,625612,,nan,1-19,Operating Income (EBIT),,,
+WIN,625612,,nan,1-21,"Interest Expense, net",,,
+WIN,625612,,nan,1-28,Pretax Income (adjusted),,,
+WIN,625612,,nan,1-43,Pretax Income,,,
+WIN,625612,,nan,1-44,Income Taxes,,,
+WIN,625612,,nan,1-49,Income from Continuing Operations,,,
+WIN,625612,,nan,1-58,Net Income (common shareholders),,,
+WIN,625612,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,37300000
+WIN,625612,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,649000000
+WIN,625612,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,957600000
+WIN,625612,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,5049200000
+WIN,625612,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,10710100000
+WIN,625612,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,483400000
+WIN,625612,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,223900000
+WIN,625612,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,1374700000
+WIN,625612,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,10207800000
+WIN,625612,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,12071000000
+WIN,625612,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+WIN,625612,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+WIN,625612,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,-1360900000
+WIN,625612,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,0
+WIN,625612,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,-1360900000
+WIN,625612,,nan,3-2,Depreciation & Amortisation,,,
+WIN,625612,,nan,3-7,Change in Working Capital,,,
+WIN,625612,,nan,3-13,Operating Cash Flow,,,
+WIN,625612,,nan,3-14,Net Change in PP&E & Intangibles,,,
+WIN,625612,,nan,3-31,Investing Cash Flow,,,
+WIN,625612,,nan,3-32,Dividends paid,,,
+WIN,625612,,nan,3-43,Financing Cash Flow,,,
+WIN,625612,,nan,3-46,Net Change in Cash,,,
+WIN,625612,,nan,4-11,Market Capitalisation,TTM,,12880783
+WIN,625612,,nan,4-10,EBITDA,,,
+WIN,625612,,nan,4-6,Total Debt,TTM,,10431700000
+WIN,625612,,nan,4-25,Free Cash Flow,,,
+WIN,625612,,nan,4-0,Gross Margin,,,
+WIN,625612,,nan,4-1,Operating Margin,,,
+WIN,625612,,nan,4-2,Net Profit Margin,,,
+WIN,625612,,nan,4-7,Return on Equity,,,
+WIN,625612,,nan,4-9,Return on Assets,,,
+WIN,625612,,nan,4-28,Free Cash Flow to Net Income,,,
+WIN,625612,,nan,4-3,Current Ratio,TTM,,0.69660
+WIN,625612,,nan,4-4,Liabilities to Equity Ratio,TTM,,-8.86990
+WIN,625612,,nan,4-5,Debt to Assets Ratio,TTM,,0.97400
+WIN,625612,,nan,4-12,"Earnings per Share, Basic",,,
+WIN,625612,,nan,4-13,"Earnings per Share, Diluted",,,
+WIN,625612,,nan,4-17,Sales per Share,,,
+WIN,625612,,nan,4-18,Book Value per Share,TTM,,-18.19
+WIN,625612,,nan,4-26,Free Cash Flow per Share,,,
+WIN,625612,,nan,4-29,Dividends per Share,,,
+WIN,625612,,nan,4-14,Price to Earnings Ratio,,,
+WIN,625612,,nan,4-15,Price to Sales Ratio,,,
+WIN,625612,,nan,4-16,Price to Book Value,TTM,,-0.02
+WIN,625612,,nan,4-27,Price to Free Cash Flow,,,
+WIN,625612,,nan,4-11,Market Capitalisation,TTM,,12880783
+WIN,625612,,nan,4-20,Enterprise Value,TTM,,10407280783
+WIN,625612,,nan,4-21,EV/EBITDA,,,
+WIN,625612,,nan,4-22,EV/Sales,,,
+WIN,625612,,nan,4-31,EV/FCF,,,
+WIN,625612,,nan,4-23,Book to Market Value,TTM,,-105.65
+WIN,625612,,nan,4-24,Operating Income/EV,,,
+WIN,625612,,nan,4-30,Pietroski F-Score,,,
+WMT,239962,USD,nan,0-31,Last Closing Price,,2019-03-29,97.53
+WMT,239962,,nan,0-64,Common Shares Outstanding,,2018-11-28,2905260059
+WMT,239962,,nan,0-65,Preferred Shares Outstanding,,,
+WMT,239962,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-10-31,2944000000
+WMT,239962,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-10-31,2961000000
+WMT,239962,USD,2018.0,1-1,Revenues,TTM,2018-10-31,511879000000
+WMT,239962,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-10-31,383034000000
+WMT,239962,USD,2018.0,1-4,Gross Profit,TTM,2018-10-31,128845000000
+WMT,239962,USD,2018.0,1-11,Operating Expenses,TTM,2018-10-31,108488000000
+WMT,239962,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-10-31,108488000000
+WMT,239962,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-10-31,0
+WMT,239962,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-10-31,20357000000
+WMT,239962,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-10-31,2023000000
+WMT,239962,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-10-31,9764000000
+WMT,239962,USD,2018.0,1-43,Pretax Income,TTM,2018-10-31,8760000000
+WMT,239962,USD,2018.0,1-44,Income Taxes,TTM,2018-10-31,3031000000
+WMT,239962,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-10-31,5729000000
+WMT,239962,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-10-31,5158000000
+WMT,239962,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-10-31,9174000000
+WMT,239962,USD,2018.0,2-5,"Receivables, net",TTM,2018-10-31,5785000000
+WMT,239962,USD,2018.0,2-21,Total Current Assets,TTM,2018-10-31,69446000000
+WMT,239962,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-10-31,104358000000
+WMT,239962,USD,2018.0,2-41,Total Assets,TTM,2018-10-31,226583000000
+WMT,239962,USD,2018.0,2-43,Accounts payable,TTM,2018-10-31,49729000000
+WMT,239962,USD,2018.0,2-47,Current Debt,TTM,2018-10-31,11095000000
+WMT,239962,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-10-31,85751000000
+WMT,239962,USD,2018.0,2-58,Non-current Debt,TTM,2018-10-31,49896000000
+WMT,239962,USD,2018.0,2-73,Total Liabilities,TTM,2018-10-31,147114000000
+WMT,239962,USD,2018.0,2-74,Preferred Equity,TTM,2018-10-31,0
+WMT,239962,USD,2018.0,2-76,Common Stock,TTM,2018-10-31,291000000
+WMT,239962,USD,2018.0,2-82,Equity before minorities,TTM,2018-10-31,71996000000
+WMT,239962,USD,2018.0,2-83,Minority Interest,TTM,2018-10-31,7473000000
+WMT,239962,USD,2018.0,2-84,Total Equity,TTM,2018-10-31,79469000000
+WMT,239962,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-10-31,10649000000
+WMT,239962,USD,2018.0,3-7,Change in Working Capital,TTM,2018-10-31,1710000000
+WMT,239962,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-10-31,28585000000
+WMT,239962,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-10-31,-9772000000
+WMT,239962,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-10-31,-23760000000
+WMT,239962,USD,2018.0,3-32,Dividends paid,TTM,2018-10-31,-6107000000
+WMT,239962,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-10-31,-2538000000
+WMT,239962,USD,2018.0,3-46,Net Change in Cash,TTM,2018-10-31,1903000000
+WMT,239962,,nan,4-11,Market Capitalisation,TTM,,283350013554
+WMT,239962,,nan,4-10,EBITDA,TTM,,31006000000
+WMT,239962,,nan,4-6,Total Debt,TTM,,60991000000
+WMT,239962,,nan,4-25,Free Cash Flow,TTM,,19913000000
+WMT,239962,,nan,4-0,Gross Margin,TTM,,0.25170
+WMT,239962,,nan,4-1,Operating Margin,TTM,,0.03980
+WMT,239962,,nan,4-2,Net Profit Margin,TTM,,0.01120
+WMT,239962,,nan,4-7,Return on Equity,TTM,,0.07210
+WMT,239962,,nan,4-9,Return on Assets,TTM,,0.02530
+WMT,239962,,nan,4-28,Free Cash Flow to Net Income,TTM,,3.47580
+WMT,239962,,nan,4-3,Current Ratio,TTM,,0.80990
+WMT,239962,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.85120
+WMT,239962,,nan,4-5,Debt to Assets Ratio,TTM,,0.26920
+WMT,239962,,nan,4-12,"Earnings per Share, Basic",TTM,,1.75
+WMT,239962,,nan,4-13,"Earnings per Share, Diluted",TTM,,1.74
+WMT,239962,,nan,4-17,Sales per Share,TTM,,173.87
+WMT,239962,,nan,4-18,Book Value per Share,TTM,,24.46
+WMT,239962,,nan,4-26,Free Cash Flow per Share,TTM,,6.76
+WMT,239962,,nan,4-29,Dividends per Share,TTM,,2.07
+WMT,239962,,nan,4-14,Price to Earnings Ratio,TTM,,55.67
+WMT,239962,,nan,4-15,Price to Sales Ratio,TTM,,0.56
+WMT,239962,,nan,4-16,Price to Book Value,TTM,,3.61
+WMT,239962,,nan,4-27,Price to Free Cash Flow,TTM,,14.42
+WMT,239962,,nan,4-11,Market Capitalisation,TTM,,283350013554
+WMT,239962,,nan,4-20,Enterprise Value,TTM,,342640013554
+WMT,239962,,nan,4-21,EV/EBITDA,TTM,,11.05
+WMT,239962,,nan,4-22,EV/Sales,TTM,,0.67
+WMT,239962,,nan,4-31,EV/FCF,TTM,,17.21
+WMT,239962,,nan,4-23,Book to Market Value,TTM,,0.28
+WMT,239962,,nan,4-24,Operating Income/EV,TTM,,0.05940
+WMT,239962,,nan,4-30,Pietroski F-Score,TTM,,3.00
+SHLD,100266,USD,nan,0-31,Last Closing Price,,2019-03-29,0.74
+SHLD,100266,,nan,0-64,Common Shares Outstanding,,2018-12-07,109236080
+SHLD,100266,,nan,0-65,Preferred Shares Outstanding,,,
+SHLD,100266,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-11-30,108475000
+SHLD,100266,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-11-30,108475000
+SHLD,100266,USD,2018.0,1-1,Revenues,TTM,2018-11-30,13465000000
+SHLD,100266,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-11-30,10811000000
+SHLD,100266,USD,2018.0,1-4,Gross Profit,TTM,2018-11-30,2654000000
+SHLD,100266,USD,2018.0,1-11,Operating Expenses,TTM,2018-11-30,4593000000
+SHLD,100266,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-11-30,4322000000
+SHLD,100266,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-11-30,0
+SHLD,100266,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-11-30,-1939000000
+SHLD,100266,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-11-30,684000000
+SHLD,100266,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-11-30,-2277000000
+SHLD,100266,USD,2018.0,1-43,Pretax Income,TTM,2018-11-30,-2293000000
+SHLD,100266,USD,2018.0,1-44,Income Taxes,TTM,2018-11-30,-589000000
+SHLD,100266,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-11-30,-1704000000
+SHLD,100266,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-11-30,-1704000000
+SHLD,100266,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-11-30,526000000
+SHLD,100266,USD,2018.0,2-5,"Receivables, net",TTM,2018-11-30,354000000
+SHLD,100266,USD,2018.0,2-21,Total Current Assets,TTM,2018-11-30,3795000000
+SHLD,100266,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-11-30,1495000000
+SHLD,100266,USD,2018.0,2-41,Total Assets,TTM,2018-11-30,6677000000
+SHLD,100266,USD,2018.0,2-43,Accounts payable,TTM,2018-11-30,102000000
+SHLD,100266,USD,2018.0,2-47,Current Debt,TTM,2018-11-30,1447000000
+SHLD,100266,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-11-30,3448000000
+SHLD,100266,USD,2018.0,2-58,Non-current Debt,TTM,2018-11-30,1779000000
+SHLD,100266,USD,2018.0,2-73,Total Liabilities,TTM,2018-11-30,11988000000
+SHLD,100266,USD,2018.0,2-74,Preferred Equity,TTM,2018-11-30,0
+SHLD,100266,USD,2018.0,2-76,Common Stock,TTM,2018-11-30,0
+SHLD,100266,USD,2018.0,2-82,Equity before minorities,TTM,2018-11-30,-5311000000
+SHLD,100266,USD,2018.0,2-83,Minority Interest,TTM,2018-11-30,0
+SHLD,100266,USD,2018.0,2-84,Total Equity,TTM,2018-11-30,-5311000000
+SHLD,100266,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-11-30,271000000
+SHLD,100266,USD,2018.0,3-7,Change in Working Capital,TTM,2018-11-30,807000000
+SHLD,100266,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-11-30,-1064000000
+SHLD,100266,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-11-30,578000000
+SHLD,100266,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-11-30,578000000
+SHLD,100266,USD,2018.0,3-32,Dividends paid,TTM,2018-11-30,0
+SHLD,100266,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-11-30,939000000
+SHLD,100266,USD,2018.0,3-46,Net Change in Cash,TTM,2018-11-30,453000000
+SHLD,100266,,nan,4-11,Market Capitalisation,TTM,,80834699
+SHLD,100266,,nan,4-10,EBITDA,TTM,,-1668000000
+SHLD,100266,,nan,4-6,Total Debt,TTM,,3226000000
+SHLD,100266,,nan,4-25,Free Cash Flow,TTM,,306000000
+SHLD,100266,,nan,4-0,Gross Margin,TTM,,0.19710
+SHLD,100266,,nan,4-1,Operating Margin,TTM,,-0.14400
+SHLD,100266,,nan,4-2,Net Profit Margin,TTM,,-0.12660
+SHLD,100266,,nan,4-7,Return on Equity,TTM,,0.32080
+SHLD,100266,,nan,4-9,Return on Assets,TTM,,-0.25520
+SHLD,100266,,nan,4-28,Free Cash Flow to Net Income,TTM,,-0.17960
+SHLD,100266,,nan,4-3,Current Ratio,TTM,,1.10060
+SHLD,100266,,nan,4-4,Liabilities to Equity Ratio,TTM,,-2.25720
+SHLD,100266,,nan,4-5,Debt to Assets Ratio,TTM,,0.48320
+SHLD,100266,,nan,4-12,"Earnings per Share, Basic",TTM,,-15.71
+SHLD,100266,,nan,4-13,"Earnings per Share, Diluted",TTM,,-15.71
+SHLD,100266,,nan,4-17,Sales per Share,TTM,,124.13
+SHLD,100266,,nan,4-18,Book Value per Share,TTM,,-48.96
+SHLD,100266,,nan,4-26,Free Cash Flow per Share,TTM,,2.82
+SHLD,100266,,nan,4-29,Dividends per Share,TTM,,0.00
+SHLD,100266,,nan,4-14,Price to Earnings Ratio,TTM,,-0.05
+SHLD,100266,,nan,4-15,Price to Sales Ratio,TTM,,0.01
+SHLD,100266,,nan,4-16,Price to Book Value,TTM,,-0.02
+SHLD,100266,,nan,4-27,Price to Free Cash Flow,TTM,,0.26
+SHLD,100266,,nan,4-11,Market Capitalisation,TTM,,80834699
+SHLD,100266,,nan,4-20,Enterprise Value,TTM,,2780834699
+SHLD,100266,,nan,4-21,EV/EBITDA,TTM,,-1.67
+SHLD,100266,,nan,4-22,EV/Sales,TTM,,0.21
+SHLD,100266,,nan,4-31,EV/FCF,TTM,,9.09
+SHLD,100266,,nan,4-23,Book to Market Value,TTM,,-65.70
+SHLD,100266,,nan,4-24,Operating Income/EV,TTM,,-0.69730
+SHLD,100266,,nan,4-30,Pietroski F-Score,TTM,,2.00
+VZ,101219,USD,nan,0-31,Last Closing Price,,2019-03-29,59.13
+VZ,101219,,nan,0-64,Common Shares Outstanding,,2019-01-31,4132045883
+VZ,101219,,nan,0-65,Preferred Shares Outstanding,,,
+VZ,101219,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,4128000000
+VZ,101219,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,4132000000
+VZ,101219,USD,2018.0,1-1,Revenues,TTM,2018-12-31,130863000000
+VZ,101219,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,55508000000
+VZ,101219,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,75355000000
+VZ,101219,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,48486000000
+VZ,101219,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,31083000000
+VZ,101219,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+VZ,101219,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,26869000000
+VZ,101219,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,4833000000
+VZ,101219,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,24214000000
+VZ,101219,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,19623000000
+VZ,101219,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,3584000000
+VZ,101219,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,16039000000
+VZ,101219,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,15528000000
+VZ,101219,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,2745000000
+VZ,101219,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,25102000000
+VZ,101219,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,34636000000
+VZ,101219,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,89286000000
+VZ,101219,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,264829000000
+VZ,101219,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,0
+VZ,101219,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,7190000000
+VZ,101219,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,37930000000
+VZ,101219,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,105873000000
+VZ,101219,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,210472000000
+VZ,101219,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+VZ,101219,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+VZ,101219,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,52792000000
+VZ,101219,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,1565000000
+VZ,101219,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,54357000000
+VZ,101219,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,17403000000
+VZ,101219,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,-1177000000
+VZ,101219,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,34339000000
+VZ,101219,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-18087000000
+VZ,101219,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-17934000000
+VZ,101219,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-9772000000
+VZ,101219,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-15377000000
+VZ,101219,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,1028000000
+VZ,101219,,nan,4-11,Market Capitalisation,TTM,,244327873062
+VZ,101219,,nan,4-10,EBITDA,TTM,,44272000000
+VZ,101219,,nan,4-6,Total Debt,TTM,,113063000000
+VZ,101219,,nan,4-25,Free Cash Flow,TTM,,21424000000
+VZ,101219,,nan,4-0,Gross Margin,TTM,,0.57580
+VZ,101219,,nan,4-1,Operating Margin,TTM,,0.20530
+VZ,101219,,nan,4-2,Net Profit Margin,TTM,,0.12260
+VZ,101219,,nan,4-7,Return on Equity,TTM,,0.29510
+VZ,101219,,nan,4-9,Return on Assets,TTM,,0.06060
+VZ,101219,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.33570
+VZ,101219,,nan,4-3,Current Ratio,TTM,,0.91320
+VZ,101219,,nan,4-4,Liabilities to Equity Ratio,TTM,,3.87200
+VZ,101219,,nan,4-5,Debt to Assets Ratio,TTM,,0.42690
+VZ,101219,,nan,4-12,"Earnings per Share, Basic",TTM,,3.76
+VZ,101219,,nan,4-13,"Earnings per Share, Diluted",TTM,,3.76
+VZ,101219,,nan,4-17,Sales per Share,TTM,,31.70
+VZ,101219,,nan,4-18,Book Value per Share,TTM,,12.79
+VZ,101219,,nan,4-26,Free Cash Flow per Share,TTM,,5.19
+VZ,101219,,nan,4-29,Dividends per Share,TTM,,2.37
+VZ,101219,,nan,4-14,Price to Earnings Ratio,TTM,,15.72
+VZ,101219,,nan,4-15,Price to Sales Ratio,TTM,,1.87
+VZ,101219,,nan,4-16,Price to Book Value,TTM,,4.49
+VZ,101219,,nan,4-27,Price to Free Cash Flow,TTM,,11.39
+VZ,101219,,nan,4-11,Market Capitalisation,TTM,,244327873062
+VZ,101219,,nan,4-20,Enterprise Value,TTM,,356210873062
+VZ,101219,,nan,4-21,EV/EBITDA,TTM,,8.05
+VZ,101219,,nan,4-22,EV/Sales,TTM,,2.72
+VZ,101219,,nan,4-31,EV/FCF,TTM,,16.63
+VZ,101219,,nan,4-23,Book to Market Value,TTM,,0.22
+VZ,101219,,nan,4-24,Operating Income/EV,TTM,,0.07540
+VZ,101219,,nan,4-30,Pietroski F-Score,TTM,,5.00
+GE,244314,USD,nan,0-31,Last Closing Price,,2019-03-29,9.99
+GE,244314,,nan,0-64,Common Shares Outstanding,,2019-01-31,8705080100
+GE,244314,,nan,0-65,Preferred Shares Outstanding,,2018-12-31,5939875
+GE,244314,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,8691000000
+GE,244314,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,8691000000
+GE,244314,USD,2018.0,1-1,Revenues,TTM,2018-12-31,121615000000
+GE,244314,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,92671000000
+GE,244314,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,28944000000
+GE,244314,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,18575000000
+GE,244314,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,18111000000
+GE,244314,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+GE,244314,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,10369000000
+GE,244314,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,5059000000
+GE,244314,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,4779000000
+GE,244314,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,-20134000000
+GE,244314,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,583000000
+GE,244314,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,-20717000000
+GE,244314,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,-22801000000
+GE,244314,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,68855000000
+GE,244314,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,19874000000
+GE,244314,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,126527000000
+GE,244314,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,50749000000
+GE,244314,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,309129000000
+GE,244314,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,17153000000
+GE,244314,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,12849000000
+GE,244314,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,128249000000
+GE,244314,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,95234000000
+GE,244314,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,257266000000
+GE,244314,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,6000000
+GE,244314,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+GE,244314,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,30982000000
+GE,244314,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,20882000000
+GE,244314,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,51864000000
+GE,244314,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,8224000000
+GE,244314,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,-93000000
+GE,244314,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,4248000000
+GE,244314,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-3176000000
+GE,244314,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,18238000000
+GE,244314,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-4474000000
+GE,244314,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-31033000000
+GE,244314,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,-9175000000
+GE,244314,,nan,4-11,Market Capitalisation,TTM,,86963750199
+GE,244314,,nan,4-10,EBITDA,TTM,,18593000000
+GE,244314,,nan,4-6,Total Debt,TTM,,108083000000
+GE,244314,,nan,4-25,Free Cash Flow,TTM,,14741000000
+GE,244314,,nan,4-0,Gross Margin,,,
+GE,244314,,nan,4-1,Operating Margin,,,
+GE,244314,,nan,4-2,Net Profit Margin,,,
+GE,244314,,nan,4-7,Return on Equity,,,
+GE,244314,,nan,4-9,Return on Assets,,,
+GE,244314,,nan,4-28,Free Cash Flow to Net Income,TTM,,-0.65680
+GE,244314,,nan,4-3,Current Ratio,TTM,,0.98660
+GE,244314,,nan,4-4,Liabilities to Equity Ratio,TTM,,4.96040
+GE,244314,,nan,4-5,Debt to Assets Ratio,TTM,,0.34960
+GE,244314,,nan,4-12,"Earnings per Share, Basic",,,
+GE,244314,,nan,4-13,"Earnings per Share, Diluted",,,
+GE,244314,,nan,4-17,Sales per Share,,,
+GE,244314,,nan,4-18,Book Value per Share,TTM,,3.56
+GE,244314,,nan,4-26,Free Cash Flow per Share,TTM,,1.70
+GE,244314,,nan,4-29,Dividends per Share,TTM,,0.51
+GE,244314,,nan,4-14,Price to Earnings Ratio,TTM,,-3.81
+GE,244314,,nan,4-15,Price to Sales Ratio,TTM,,0.71
+GE,244314,,nan,4-16,Price to Book Value,TTM,,1.67
+GE,244314,,nan,4-27,Price to Free Cash Flow,TTM,,5.89
+GE,244314,,nan,4-11,Market Capitalisation,TTM,,86963750199
+GE,244314,,nan,4-20,Enterprise Value,TTM,,147073750199
+GE,244314,,nan,4-21,EV/EBITDA,TTM,,7.91
+GE,244314,,nan,4-22,EV/Sales,TTM,,1.21
+GE,244314,,nan,4-31,EV/FCF,TTM,,9.98
+GE,244314,,nan,4-23,Book to Market Value,TTM,,0.60
+GE,244314,,nan,4-24,Operating Income/EV,TTM,,0.07050
+GE,244314,,nan,4-30,Pietroski F-Score,TTM,,3.00
+BK,467599,USD,nan,0-31,Last Closing Price,,2019-03-29,50.43
+BK,467599,,nan,0-64,Common Shares Outstanding,,2018-09-30,988777495
+BK,467599,,nan,0-65,Preferred Shares Outstanding,,2018-09-30,35826
+BK,467599,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,1012925250
+BK,467599,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,1017530750
+BK,467599,USD,2018.0,1-1,Revenues,TTM,2018-09-30,16115000000
+BK,467599,,nan,1-2,Cost of Goods Sold,,,
+BK,467599,,nan,1-4,Gross Profit,,,
+BK,467599,,nan,1-11,Operating Expenses,,,
+BK,467599,,nan,1-12,"Selling, General and Administrative",,,
+BK,467599,,nan,1-15,Research & Development Expenses,,,
+BK,467599,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,5197000000
+BK,467599,,nan,1-21,"Interest Expense, net",,,
+BK,467599,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,5197000000
+BK,467599,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,4902000000
+BK,467599,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,335000000
+BK,467599,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,4567000000
+BK,467599,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,4393000000
+BK,467599,,nan,2-1,Cash and Cash-equivalents,,,
+BK,467599,,nan,2-5,"Receivables, net",,,
+BK,467599,,nan,2-21,Total Current Assets,,,
+BK,467599,,nan,2-22,"Property, Plant and Equipment, net",,,
+BK,467599,,nan,2-41,Total Assets,,,
+BK,467599,,nan,2-43,Accounts payable,,,
+BK,467599,,nan,2-47,Current Debt,,,
+BK,467599,,nan,2-57,Total Current Liabilities,,,
+BK,467599,,nan,2-58,Non-current Debt,,,
+BK,467599,,nan,2-73,Total Liabilities,,,
+BK,467599,,nan,2-74,Preferred Equity,,,
+BK,467599,,nan,2-76,Common Stock,,,
+BK,467599,,nan,2-82,Equity before minorities,,,
+BK,467599,,nan,2-83,Minority Interest,,,
+BK,467599,,nan,2-84,Total Equity,,,
+BK,467599,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,1441000000
+BK,467599,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,-1292000000
+BK,467599,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,4077000000
+BK,467599,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-1060000000
+BK,467599,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,468000000
+BK,467599,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-1191000000
+BK,467599,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-6005000000
+BK,467599,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,-1485000000
+BK,467599,,nan,4-11,Market Capitalisation,TTM,,49864049073
+BK,467599,,nan,4-10,EBITDA,TTM,,6638000000
+BK,467599,,nan,4-6,Total Debt,TTM,,0
+BK,467599,,nan,4-25,Free Cash Flow,TTM,,3951000000
+BK,467599,,nan,4-0,Gross Margin,,,
+BK,467599,,nan,4-1,Operating Margin,TTM,,0.32250
+BK,467599,,nan,4-2,Net Profit Margin,TTM,,0.28340
+BK,467599,,nan,4-7,Return on Equity,,,
+BK,467599,,nan,4-9,Return on Assets,,,
+BK,467599,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.86510
+BK,467599,,nan,4-3,Current Ratio,,,
+BK,467599,,nan,4-4,Liabilities to Equity Ratio,,,
+BK,467599,,nan,4-5,Debt to Assets Ratio,,,
+BK,467599,,nan,4-12,"Earnings per Share, Basic",TTM,,4.34
+BK,467599,,nan,4-13,"Earnings per Share, Diluted",TTM,,4.32
+BK,467599,,nan,4-17,Sales per Share,TTM,,15.91
+BK,467599,,nan,4-18,Book Value per Share,,,
+BK,467599,,nan,4-26,Free Cash Flow per Share,TTM,,3.90
+BK,467599,,nan,4-29,Dividends per Share,TTM,,1.18
+BK,467599,,nan,4-14,Price to Earnings Ratio,TTM,,11.63
+BK,467599,,nan,4-15,Price to Sales Ratio,TTM,,3.17
+BK,467599,,nan,4-16,Price to Book Value,,,
+BK,467599,,nan,4-27,Price to Free Cash Flow,TTM,,12.93
+BK,467599,,nan,4-11,Market Capitalisation,TTM,,49864049073
+BK,467599,,nan,4-20,Enterprise Value,,,
+BK,467599,,nan,4-21,EV/EBITDA,,,
+BK,467599,,nan,4-22,EV/Sales,,,
+BK,467599,,nan,4-31,EV/FCF,,,
+BK,467599,,nan,4-23,Book to Market Value,,,
+BK,467599,,nan,4-24,Operating Income/EV,,,
+BK,467599,,nan,4-30,Pietroski F-Score,,,
+UNP,367644,USD,nan,0-31,Last Closing Price,,2019-03-29,167.20
+UNP,367644,,nan,0-64,Common Shares Outstanding,,2019-02-01,722877817
+UNP,367644,,nan,0-65,Preferred Shares Outstanding,,,
+UNP,367644,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,750900000
+UNP,367644,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,754300000
+UNP,367644,USD,2018.0,1-1,Revenues,TTM,2018-12-31,22832000000
+UNP,367644,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,10030000000
+UNP,367644,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,12802000000
+UNP,367644,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,4285000000
+UNP,367644,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,0
+UNP,367644,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+UNP,367644,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,8517000000
+UNP,367644,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,870000000
+UNP,367644,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,7741000000
+UNP,367644,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,7741000000
+UNP,367644,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,1775000000
+UNP,367644,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,5966000000
+UNP,367644,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,5966000000
+UNP,367644,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,1333000000
+UNP,367644,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,1755000000
+UNP,367644,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,4163000000
+UNP,367644,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,52679000000
+UNP,367644,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,59147000000
+UNP,367644,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,3160000000
+UNP,367644,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,1466000000
+UNP,367644,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,4626000000
+UNP,367644,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,20925000000
+UNP,367644,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,38724000000
+UNP,367644,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+UNP,367644,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+UNP,367644,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,20423000000
+UNP,367644,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,0
+UNP,367644,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,20423000000
+UNP,367644,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,2191000000
+UNP,367644,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,221000000
+UNP,367644,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,8686000000
+UNP,367644,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-3374000000
+UNP,367644,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-3411000000
+UNP,367644,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-2299000000
+UNP,367644,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-5222000000
+UNP,367644,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,53000000
+UNP,367644,,nan,4-11,Market Capitalisation,TTM,,120865171002
+UNP,367644,,nan,4-10,EBITDA,TTM,,10708000000
+UNP,367644,,nan,4-6,Total Debt,TTM,,22391000000
+UNP,367644,,nan,4-25,Free Cash Flow,TTM,,5780000000
+UNP,367644,,nan,4-0,Gross Margin,TTM,,0.56070
+UNP,367644,,nan,4-1,Operating Margin,TTM,,0.37300
+UNP,367644,,nan,4-2,Net Profit Margin,TTM,,0.26130
+UNP,367644,,nan,4-7,Return on Equity,TTM,,0.29210
+UNP,367644,,nan,4-9,Return on Assets,TTM,,0.10090
+UNP,367644,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.96880
+UNP,367644,,nan,4-3,Current Ratio,TTM,,0.89990
+UNP,367644,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.89610
+UNP,367644,,nan,4-5,Debt to Assets Ratio,TTM,,0.37860
+UNP,367644,,nan,4-12,"Earnings per Share, Basic",TTM,,7.95
+UNP,367644,,nan,4-13,"Earnings per Share, Diluted",TTM,,7.91
+UNP,367644,,nan,4-17,Sales per Share,TTM,,30.41
+UNP,367644,,nan,4-18,Book Value per Share,TTM,,27.20
+UNP,367644,,nan,4-26,Free Cash Flow per Share,TTM,,7.70
+UNP,367644,,nan,4-29,Dividends per Share,TTM,,3.06
+UNP,367644,,nan,4-14,Price to Earnings Ratio,TTM,,21.04
+UNP,367644,,nan,4-15,Price to Sales Ratio,TTM,,5.50
+UNP,367644,,nan,4-16,Price to Book Value,TTM,,6.15
+UNP,367644,,nan,4-27,Price to Free Cash Flow,TTM,,21.72
+UNP,367644,,nan,4-11,Market Capitalisation,TTM,,120865171002
+UNP,367644,,nan,4-20,Enterprise Value,TTM,,141923171002
+UNP,367644,,nan,4-21,EV/EBITDA,TTM,,13.25
+UNP,367644,,nan,4-22,EV/Sales,TTM,,6.22
+UNP,367644,,nan,4-31,EV/FCF,TTM,,24.55
+UNP,367644,,nan,4-23,Book to Market Value,TTM,,0.17
+UNP,367644,,nan,4-24,Operating Income/EV,TTM,,0.06000
+UNP,367644,,nan,4-30,Pietroski F-Score,TTM,,5.00
+GM,125620,USD,nan,0-31,Last Closing Price,,2019-03-29,37.10
+GM,125620,,nan,0-64,Common Shares Outstanding,,2019-01-25,1409478926
+GM,125620,,nan,0-65,Preferred Shares Outstanding,,2014-09-30,156000000
+GM,125620,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,1411000000
+GM,125620,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,1431000000
+GM,125620,USD,2018.0,1-1,Revenues,TTM,2018-12-31,147049000000
+GM,125620,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,132954000000
+GM,125620,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,14095000000
+GM,125620,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,9650000000
+GM,125620,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,9650000000
+GM,125620,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+GM,125620,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,4445000000
+GM,125620,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,655000000
+GM,125620,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,8549000000
+GM,125620,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,8549000000
+GM,125620,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,474000000
+GM,125620,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,8075000000
+GM,125620,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,7916000000
+GM,125620,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,26810000000
+GM,125620,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,0
+GM,125620,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,75293000000
+GM,125620,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,82317000000
+GM,125620,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,227339000000
+GM,125620,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,22297000000
+GM,125620,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,31891000000
+GM,125620,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,82237000000
+GM,125620,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,73060000000
+GM,125620,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,184562000000
+GM,125620,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+GM,125620,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+GM,125620,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,38860000000
+GM,125620,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,3917000000
+GM,125620,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,42777000000
+GM,125620,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,13669000000
+GM,125620,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,-1376000000
+GM,125620,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,15256000000
+GM,125620,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-14633000000
+GM,125620,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-20763000000
+GM,125620,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-2242000000
+GM,125620,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,11454000000
+GM,125620,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,5648000000
+GM,125620,,nan,4-11,Market Capitalisation,TTM,,52291668155
+GM,125620,,nan,4-10,EBITDA,,,
+GM,125620,,nan,4-6,Total Debt,TTM,,104951000000
+GM,125620,,nan,4-25,Free Cash Flow,,,
+GM,125620,,nan,4-0,Gross Margin,,,
+GM,125620,,nan,4-1,Operating Margin,,,
+GM,125620,,nan,4-2,Net Profit Margin,,,
+GM,125620,,nan,4-7,Return on Equity,TTM,,0.18710
+GM,125620,,nan,4-9,Return on Assets,TTM,,0.03520
+GM,125620,,nan,4-28,Free Cash Flow to Net Income,,,
+GM,125620,,nan,4-3,Current Ratio,TTM,,0.91560
+GM,125620,,nan,4-4,Liabilities to Equity Ratio,TTM,,4.31450
+GM,125620,,nan,4-5,Debt to Assets Ratio,TTM,,0.46160
+GM,125620,,nan,4-12,"Earnings per Share, Basic",,,
+GM,125620,,nan,4-13,"Earnings per Share, Diluted",,,
+GM,125620,,nan,4-17,Sales per Share,,,
+GM,125620,,nan,4-18,Book Value per Share,TTM,,27.54
+GM,125620,,nan,4-26,Free Cash Flow per Share,,,
+GM,125620,,nan,4-29,Dividends per Share,TTM,,1.59
+GM,125620,,nan,4-14,Price to Earnings Ratio,TTM,,6.61
+GM,125620,,nan,4-15,Price to Sales Ratio,TTM,,0.36
+GM,125620,,nan,4-16,Price to Book Value,TTM,,1.22
+GM,125620,,nan,4-27,Price to Free Cash Flow,TTM,,32.10
+GM,125620,,nan,4-11,Market Capitalisation,TTM,,52291668155
+GM,125620,,nan,4-20,Enterprise Value,TTM,,141071708155
+GM,125620,,nan,4-21,EV/EBITDA,TTM,,7.79
+GM,125620,,nan,4-22,EV/Sales,TTM,,0.96
+GM,125620,,nan,4-31,EV/FCF,TTM,,86.49
+GM,125620,,nan,4-23,Book to Market Value,TTM,,0.82
+GM,125620,,nan,4-24,Operating Income/EV,TTM,,0.03150
+GM,125620,,nan,4-30,Pietroski F-Score,TTM,,5.00
+AIG,251769,USD,nan,0-31,Last Closing Price,,2019-03-29,43.06
+AIG,251769,,nan,0-64,Common Shares Outstanding,,2018-10-29,884648470
+AIG,251769,,nan,0-65,Preferred Shares Outstanding,,,
+AIG,251769,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,903323610
+AIG,251769,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,902617277
+AIG,251769,USD,2018.0,1-1,Revenues,TTM,2018-09-30,47464000000
+AIG,251769,,nan,1-2,Cost of Goods Sold,,,
+AIG,251769,,nan,1-4,Gross Profit,,,
+AIG,251769,,nan,1-11,Operating Expenses,,,
+AIG,251769,,nan,1-12,"Selling, General and Administrative",,,
+AIG,251769,,nan,1-15,Research & Development Expenses,,,
+AIG,251769,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,2750000000
+AIG,251769,,nan,1-21,"Interest Expense, net",,,
+AIG,251769,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,1560000000
+AIG,251769,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,1827000000
+AIG,251769,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,7835000000
+AIG,251769,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,-6008000000
+AIG,251769,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,-6044000000
+AIG,251769,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,2741000000
+AIG,251769,,nan,2-5,"Receivables, net",,,
+AIG,251769,,nan,2-21,Total Current Assets,,,
+AIG,251769,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,0
+AIG,251769,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,504860000000
+AIG,251769,,nan,2-43,Accounts payable,,,
+AIG,251769,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,0
+AIG,251769,,nan,2-57,Total Current Liabilities,,,
+AIG,251769,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,34594000000
+AIG,251769,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,445683000000
+AIG,251769,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+AIG,251769,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+AIG,251769,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,58586000000
+AIG,251769,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,591000000
+AIG,251769,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,59177000000
+AIG,251769,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,4881000000
+AIG,251769,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,0
+AIG,251769,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,239000000
+AIG,251769,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,0
+AIG,251769,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,9383000000
+AIG,251769,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-1146000000
+AIG,251769,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,762000000
+AIG,251769,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,10386000000
+AIG,251769,,nan,4-11,Market Capitalisation,TTM,,38092963118
+AIG,251769,,nan,4-10,EBITDA,TTM,,7631000000
+AIG,251769,,nan,4-6,Total Debt,TTM,,34594000000
+AIG,251769,,nan,4-25,Free Cash Flow,TTM,,-204000000
+AIG,251769,,nan,4-0,Gross Margin,,,
+AIG,251769,,nan,4-1,Operating Margin,TTM,,0.05790
+AIG,251769,,nan,4-2,Net Profit Margin,TTM,,-0.12750
+AIG,251769,,nan,4-7,Return on Equity,TTM,,-0.10230
+AIG,251769,,nan,4-9,Return on Assets,TTM,,-0.01200
+AIG,251769,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.03370
+AIG,251769,,nan,4-3,Current Ratio,,,
+AIG,251769,,nan,4-4,Liabilities to Equity Ratio,TTM,,7.53140
+AIG,251769,,nan,4-5,Debt to Assets Ratio,TTM,,0.06850
+AIG,251769,,nan,4-12,"Earnings per Share, Basic",TTM,,-6.69
+AIG,251769,,nan,4-13,"Earnings per Share, Diluted",TTM,,-6.70
+AIG,251769,,nan,4-17,Sales per Share,TTM,,52.54
+AIG,251769,,nan,4-18,Book Value per Share,TTM,,64.86
+AIG,251769,,nan,4-26,Free Cash Flow per Share,TTM,,-0.23
+AIG,251769,,nan,4-29,Dividends per Share,TTM,,1.27
+AIG,251769,,nan,4-14,Price to Earnings Ratio,TTM,,-6.44
+AIG,251769,,nan,4-15,Price to Sales Ratio,TTM,,0.82
+AIG,251769,,nan,4-16,Price to Book Value,TTM,,0.66
+AIG,251769,,nan,4-27,Price to Free Cash Flow,TTM,,-190.67
+AIG,251769,,nan,4-11,Market Capitalisation,TTM,,38092963118
+AIG,251769,,nan,4-20,Enterprise Value,TTM,,70536963118
+AIG,251769,,nan,4-21,EV/EBITDA,TTM,,9.24
+AIG,251769,,nan,4-22,EV/Sales,TTM,,1.49
+AIG,251769,,nan,4-31,EV/FCF,TTM,,-345.77
+AIG,251769,,nan,4-23,Book to Market Value,TTM,,1.55
+AIG,251769,,nan,4-24,Operating Income/EV,TTM,,0.03900
+AIG,251769,,nan,4-30,Pietroski F-Score,,,
+LOW,186050,USD,nan,0-31,Last Closing Price,,2019-03-29,109.47
+LOW,186050,,nan,0-64,Common Shares Outstanding,,2018-11-30,802957007
+LOW,186050,,nan,0-65,Preferred Shares Outstanding,,,
+LOW,186050,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-11-30,818000000
+LOW,186050,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-11-30,819000000
+LOW,186050,USD,2018.0,1-1,Revenues,TTM,2018-11-30,71156000000
+LOW,186050,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-11-30,47059000000
+LOW,186050,USD,2018.0,1-4,Gross Profit,TTM,2018-11-30,24097000000
+LOW,186050,USD,2018.0,1-11,Operating Expenses,TTM,2018-11-30,18413000000
+LOW,186050,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-11-30,16908000000
+LOW,186050,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-11-30,0
+LOW,186050,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-11-30,5684000000
+LOW,186050,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-11-30,620000000
+LOW,186050,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-11-30,5064000000
+LOW,186050,USD,2018.0,1-43,Pretax Income,TTM,2018-11-30,5064000000
+LOW,186050,USD,2018.0,1-44,Income Taxes,TTM,2018-11-30,1372000000
+LOW,186050,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-11-30,3692000000
+LOW,186050,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-11-30,3692000000
+LOW,186050,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-11-30,1876000000
+LOW,186050,USD,2018.0,2-5,"Receivables, net",TTM,2018-11-30,0
+LOW,186050,USD,2018.0,2-21,Total Current Assets,TTM,2018-11-30,15138000000
+LOW,186050,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-11-30,18923000000
+LOW,186050,USD,2018.0,2-41,Total Assets,TTM,2018-11-30,36713000000
+LOW,186050,USD,2018.0,2-43,Accounts payable,TTM,2018-11-30,9283000000
+LOW,186050,USD,2018.0,2-47,Current Debt,TTM,2018-11-30,1117000000
+LOW,186050,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-11-30,15069000000
+LOW,186050,USD,2018.0,2-58,Non-current Debt,TTM,2018-11-30,14460000000
+LOW,186050,USD,2018.0,2-73,Total Liabilities,TTM,2018-11-30,31319000000
+LOW,186050,USD,2018.0,2-74,Preferred Equity,TTM,2018-11-30,0
+LOW,186050,USD,2018.0,2-76,Common Stock,TTM,2018-11-30,403000000
+LOW,186050,USD,2018.0,2-82,Equity before minorities,TTM,2018-11-30,5394000000
+LOW,186050,USD,2018.0,2-83,Minority Interest,TTM,2018-11-30,0
+LOW,186050,USD,2018.0,2-84,Total Equity,TTM,2018-11-30,5394000000
+LOW,186050,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-11-30,1598000000
+LOW,186050,USD,2018.0,3-7,Change in Working Capital,TTM,2018-11-30,640000000
+LOW,186050,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-11-30,6491000000
+LOW,186050,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-11-30,-1108000000
+LOW,186050,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-11-30,-1157000000
+LOW,186050,USD,2018.0,3-32,Dividends paid,TTM,2018-11-30,-1409000000
+LOW,186050,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-11-30,-4398000000
+LOW,186050,USD,2018.0,3-46,Net Change in Cash,TTM,2018-11-30,925000000
+LOW,186050,,nan,4-11,Market Capitalisation,TTM,,87899703556
+LOW,186050,,nan,4-10,EBITDA,TTM,,7282000000
+LOW,186050,,nan,4-6,Total Debt,TTM,,15577000000
+LOW,186050,,nan,4-25,Free Cash Flow,TTM,,5442000000
+LOW,186050,,nan,4-0,Gross Margin,TTM,,0.33870
+LOW,186050,,nan,4-1,Operating Margin,TTM,,0.07990
+LOW,186050,,nan,4-2,Net Profit Margin,TTM,,0.05190
+LOW,186050,,nan,4-7,Return on Equity,TTM,,0.68450
+LOW,186050,,nan,4-9,Return on Assets,TTM,,0.10060
+LOW,186050,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.47400
+LOW,186050,,nan,4-3,Current Ratio,TTM,,1.00460
+LOW,186050,,nan,4-4,Liabilities to Equity Ratio,TTM,,5.80630
+LOW,186050,,nan,4-5,Debt to Assets Ratio,TTM,,0.42430
+LOW,186050,,nan,4-12,"Earnings per Share, Basic",TTM,,4.51
+LOW,186050,,nan,4-13,"Earnings per Share, Diluted",TTM,,4.51
+LOW,186050,,nan,4-17,Sales per Share,TTM,,86.99
+LOW,186050,,nan,4-18,Book Value per Share,TTM,,6.59
+LOW,186050,,nan,4-26,Free Cash Flow per Share,TTM,,6.65
+LOW,186050,,nan,4-29,Dividends per Share,TTM,,1.72
+LOW,186050,,nan,4-14,Price to Earnings Ratio,TTM,,24.25
+LOW,186050,,nan,4-15,Price to Sales Ratio,TTM,,1.26
+LOW,186050,,nan,4-16,Price to Book Value,TTM,,16.60
+LOW,186050,,nan,4-27,Price to Free Cash Flow,TTM,,16.45
+LOW,186050,,nan,4-11,Market Capitalisation,TTM,,87899703556
+LOW,186050,,nan,4-20,Enterprise Value,TTM,,101600703556
+LOW,186050,,nan,4-21,EV/EBITDA,TTM,,13.95
+LOW,186050,,nan,4-22,EV/Sales,TTM,,1.43
+LOW,186050,,nan,4-31,EV/FCF,TTM,,18.67
+LOW,186050,,nan,4-23,Book to Market Value,TTM,,0.06
+LOW,186050,,nan,4-24,Operating Income/EV,TTM,,0.05590
+LOW,186050,,nan,4-30,Pietroski F-Score,TTM,,7.00
+CVS,256275,USD,nan,0-31,Last Closing Price,,2019-03-29,53.93
+CVS,256275,,nan,0-64,Common Shares Outstanding,,2018-10-31,1018799080
+CVS,256275,,nan,0-65,Preferred Shares Outstanding,,2008-12-31,3583000
+CVS,256275,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,1017250000
+CVS,256275,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,1017750000
+CVS,256275,USD,2018.0,1-1,Revenues,TTM,2018-09-30,188055000000
+CVS,256275,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-09-30,158736000000
+CVS,256275,USD,2018.0,1-4,Gross Profit,TTM,2018-09-30,29319000000
+CVS,256275,USD,2018.0,1-11,Operating Expenses,TTM,2018-09-30,23499000000
+CVS,256275,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-09-30,0
+CVS,256275,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-09-30,0
+CVS,256275,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,5820000000
+CVS,256275,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-09-30,1698000000
+CVS,256275,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,4113000000
+CVS,256275,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,4113000000
+CVS,256275,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,1000000000
+CVS,256275,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,3113000000
+CVS,256275,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,3112000000
+CVS,256275,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,41692000000
+CVS,256275,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,14837000000
+CVS,256275,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,71981000000
+CVS,256275,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,10419000000
+CVS,256275,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,131506000000
+CVS,256275,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,8813000000
+CVS,256275,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,2139000000
+CVS,256275,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,29460000000
+CVS,256275,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,60747000000
+CVS,256275,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,94884000000
+CVS,256275,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+CVS,256275,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+CVS,256275,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,36618000000
+CVS,256275,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,4000000
+CVS,256275,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,36622000000
+CVS,256275,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,0
+CVS,256275,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,0
+CVS,256275,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,6250000000
+CVS,256275,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-1934000000
+CVS,256275,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,-2305000000
+CVS,256275,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-2038000000
+CVS,256275,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,35151000000
+CVS,256275,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,39097000000
+CVS,256275,,nan,4-11,Market Capitalisation,TTM,,54943834384
+CVS,256275,,nan,4-10,EBITDA,TTM,,5820000000
+CVS,256275,,nan,4-6,Total Debt,TTM,,62886000000
+CVS,256275,,nan,4-25,Free Cash Flow,TTM,,2886000000
+CVS,256275,,nan,4-0,Gross Margin,TTM,,0.15590
+CVS,256275,,nan,4-1,Operating Margin,TTM,,0.03090
+CVS,256275,,nan,4-2,Net Profit Margin,TTM,,0.01650
+CVS,256275,,nan,4-7,Return on Equity,TTM,,0.08500
+CVS,256275,,nan,4-9,Return on Assets,TTM,,0.02370
+CVS,256275,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.92740
+CVS,256275,,nan,4-3,Current Ratio,TTM,,2.44330
+CVS,256275,,nan,4-4,Liabilities to Equity Ratio,TTM,,2.59090
+CVS,256275,,nan,4-5,Debt to Assets Ratio,TTM,,0.47820
+CVS,256275,,nan,4-12,"Earnings per Share, Basic",TTM,,3.06
+CVS,256275,,nan,4-13,"Earnings per Share, Diluted",TTM,,3.06
+CVS,256275,,nan,4-17,Sales per Share,TTM,,184.87
+CVS,256275,,nan,4-18,Book Value per Share,TTM,,36.00
+CVS,256275,,nan,4-26,Free Cash Flow per Share,TTM,,2.84
+CVS,256275,,nan,4-29,Dividends per Share,TTM,,2.00
+CVS,256275,,nan,4-14,Price to Earnings Ratio,TTM,,17.63
+CVS,256275,,nan,4-15,Price to Sales Ratio,TTM,,0.29
+CVS,256275,,nan,4-16,Price to Book Value,TTM,,1.50
+CVS,256275,,nan,4-27,Price to Free Cash Flow,TTM,,19.01
+CVS,256275,,nan,4-11,Market Capitalisation,TTM,,54943834384
+CVS,256275,,nan,4-20,Enterprise Value,TTM,,76141834384
+CVS,256275,,nan,4-21,EV/EBITDA,TTM,,13.08
+CVS,256275,,nan,4-22,EV/Sales,TTM,,0.40
+CVS,256275,,nan,4-31,EV/FCF,TTM,,26.38
+CVS,256275,,nan,4-23,Book to Market Value,TTM,,0.67
+CVS,256275,,nan,4-24,Operating Income/EV,TTM,,0.07640
+CVS,256275,,nan,4-30,Pietroski F-Score,TTM,,5.00
+QCOM,85758,USD,nan,0-31,Last Closing Price,,2019-03-29,57.03
+QCOM,85758,,nan,0-64,Common Shares Outstanding,,2019-01-28,1210305693
+QCOM,85758,,nan,0-65,Preferred Shares Outstanding,,,
+QCOM,85758,,2019.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,1397000000
+QCOM,85758,,2019.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,1399500000
+QCOM,85758,USD,2019.0,1-1,Revenues,TTM,2018-12-31,21539000000
+QCOM,85758,USD,2019.0,1-2,Cost of Goods Sold,TTM,2018-12-31,9769000000
+QCOM,85758,USD,2019.0,1-4,Gross Profit,TTM,2018-12-31,11770000000
+QCOM,85758,USD,2019.0,1-11,Operating Expenses,TTM,2018-12-31,10314000000
+QCOM,85758,USD,2019.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,2739000000
+QCOM,85758,USD,2019.0,1-15,Research & Development Expenses,TTM,2018-12-31,5474000000
+QCOM,85758,USD,2019.0,1-19,Operating Income (EBIT),TTM,2018-12-31,1456000000
+QCOM,85758,USD,2019.0,1-21,"Interest Expense, net",TTM,2018-12-31,754000000
+QCOM,85758,USD,2019.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,1132000000
+QCOM,85758,USD,2019.0,1-43,Pretax Income,TTM,2018-12-31,1132000000
+QCOM,85758,USD,2019.0,1-44,Income Taxes,TTM,2018-12-31,-1055000000
+QCOM,85758,USD,2019.0,1-49,Income from Continuing Operations,TTM,2018-12-31,2187000000
+QCOM,85758,USD,2019.0,1-58,Net Income (common shareholders),TTM,2018-12-31,2187000000
+QCOM,85758,USD,2019.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,10315000000
+QCOM,85758,USD,2019.0,2-5,"Receivables, net",TTM,2018-12-31,3426000000
+QCOM,85758,USD,2019.0,2-21,Total Current Assets,TTM,2018-12-31,16294000000
+QCOM,85758,USD,2019.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,2932000000
+QCOM,85758,USD,2019.0,2-41,Total Assets,TTM,2018-12-31,34246000000
+QCOM,85758,USD,2019.0,2-43,Accounts payable,TTM,2018-12-31,1422000000
+QCOM,85758,USD,2019.0,2-47,Current Debt,TTM,2018-12-31,998000000
+QCOM,85758,USD,2019.0,2-57,Total Current Liabilities,TTM,2018-12-31,12730000000
+QCOM,85758,USD,2019.0,2-58,Non-current Debt,TTM,2018-12-31,15388000000
+QCOM,85758,USD,2019.0,2-73,Total Liabilities,TTM,2018-12-31,30629000000
+QCOM,85758,USD,2019.0,2-74,Preferred Equity,TTM,2018-12-31,0
+QCOM,85758,USD,2019.0,2-76,Common Stock,TTM,2018-12-31,0
+QCOM,85758,USD,2019.0,2-82,Equity before minorities,TTM,2018-12-31,3617000000
+QCOM,85758,USD,2019.0,2-83,Minority Interest,TTM,2018-12-31,0
+QCOM,85758,USD,2019.0,2-84,Total Equity,TTM,2018-12-31,3617000000
+QCOM,85758,USD,2019.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,1551000000
+QCOM,85758,USD,2019.0,3-7,Change in Working Capital,TTM,2018-12-31,-811000000
+QCOM,85758,USD,2019.0,3-13,Operating Cash Flow,TTM,2018-12-31,2489000000
+QCOM,85758,USD,2019.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-488000000
+QCOM,85758,USD,2019.0,3-31,Investing Cash Flow,TTM,2018-12-31,7490000000
+QCOM,85758,USD,2019.0,3-32,Dividends paid,TTM,2018-12-31,-3372000000
+QCOM,85758,USD,2019.0,3-43,Financing Cash Flow,TTM,2018-12-31,-33209000000
+QCOM,85758,USD,2019.0,3-46,Net Change in Cash,TTM,2018-12-31,-23296000000
+QCOM,85758,,nan,4-11,Market Capitalisation,TTM,,69023733672
+QCOM,85758,,nan,4-10,EBITDA,TTM,,3007000000
+QCOM,85758,,nan,4-6,Total Debt,TTM,,16386000000
+QCOM,85758,,nan,4-25,Free Cash Flow,TTM,,2763000000
+QCOM,85758,,nan,4-0,Gross Margin,TTM,,0.54650
+QCOM,85758,,nan,4-1,Operating Margin,TTM,,0.06760
+QCOM,85758,,nan,4-2,Net Profit Margin,TTM,,0.10150
+QCOM,85758,,nan,4-7,Return on Equity,TTM,,0.60460
+QCOM,85758,,nan,4-9,Return on Assets,TTM,,0.06390
+QCOM,85758,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.26340
+QCOM,85758,,nan,4-3,Current Ratio,TTM,,1.28000
+QCOM,85758,,nan,4-4,Liabilities to Equity Ratio,TTM,,8.46810
+QCOM,85758,,nan,4-5,Debt to Assets Ratio,TTM,,0.47850
+QCOM,85758,,nan,4-12,"Earnings per Share, Basic",TTM,,1.57
+QCOM,85758,,nan,4-13,"Earnings per Share, Diluted",TTM,,1.56
+QCOM,85758,,nan,4-17,Sales per Share,TTM,,15.42
+QCOM,85758,,nan,4-18,Book Value per Share,TTM,,2.59
+QCOM,85758,,nan,4-26,Free Cash Flow per Share,TTM,,1.98
+QCOM,85758,,nan,4-29,Dividends per Share,TTM,,2.41
+QCOM,85758,,nan,4-14,Price to Earnings Ratio,TTM,,36.43
+QCOM,85758,,nan,4-15,Price to Sales Ratio,TTM,,3.70
+QCOM,85758,,nan,4-16,Price to Book Value,TTM,,22.03
+QCOM,85758,,nan,4-27,Price to Free Cash Flow,TTM,,28.83
+QCOM,85758,,nan,4-11,Market Capitalisation,TTM,,69023733672
+QCOM,85758,,nan,4-20,Enterprise Value,TTM,,75094733672
+QCOM,85758,,nan,4-21,EV/EBITDA,TTM,,24.97
+QCOM,85758,,nan,4-22,EV/Sales,TTM,,3.49
+QCOM,85758,,nan,4-31,EV/FCF,TTM,,27.18
+QCOM,85758,,nan,4-23,Book to Market Value,TTM,,0.05
+QCOM,85758,,nan,4-24,Operating Income/EV,TTM,,0.01940
+QCOM,85758,,nan,4-30,Pietroski F-Score,TTM,,5.00
+DVN,122079,USD,nan,0-31,Last Closing Price,,2019-03-29,31.56
+DVN,122079,,nan,0-64,Common Shares Outstanding,,2018-10-17,468200000
+DVN,122079,,nan,0-65,Preferred Shares Outstanding,,,
+DVN,122079,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,510500000
+DVN,122079,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,511250000
+DVN,122079,USD,2018.0,1-1,Revenues,TTM,2018-09-30,13326000000
+DVN,122079,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-09-30,2132000000
+DVN,122079,USD,2018.0,1-4,Gross Profit,TTM,2018-09-30,11194000000
+DVN,122079,USD,2018.0,1-11,Operating Expenses,TTM,2018-09-30,10609000000
+DVN,122079,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-09-30,8263000000
+DVN,122079,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-09-30,304000000
+DVN,122079,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,585000000
+DVN,122079,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-09-30,739000000
+DVN,122079,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,-153000000
+DVN,122079,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,-407000000
+DVN,122079,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,-377000000
+DVN,122079,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,-30000000
+DVN,122079,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,2098000000
+DVN,122079,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,3102000000
+DVN,122079,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,1226000000
+DVN,122079,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,4757000000
+DVN,122079,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,14202000000
+DVN,122079,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,20172000000
+DVN,122079,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,777000000
+DVN,122079,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,257000000
+DVN,122079,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,3224000000
+DVN,122079,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,5791000000
+DVN,122079,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,11274000000
+DVN,122079,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+DVN,122079,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+DVN,122079,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,8898000000
+DVN,122079,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,0
+DVN,122079,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,8898000000
+DVN,122079,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,2042000000
+DVN,122079,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,-304000000
+DVN,122079,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,2753000000
+DVN,122079,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-2372000000
+DVN,122079,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,-2372000000
+DVN,122079,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-144000000
+DVN,122079,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-3288000000
+DVN,122079,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,256000000
+DVN,122079,,nan,4-11,Market Capitalisation,TTM,,14776392000
+DVN,122079,,nan,4-10,EBITDA,TTM,,2627000000
+DVN,122079,,nan,4-6,Total Debt,TTM,,6048000000
+DVN,122079,,nan,4-25,Free Cash Flow,TTM,,328000000
+DVN,122079,,nan,4-0,Gross Margin,TTM,,0.84000
+DVN,122079,,nan,4-1,Operating Margin,TTM,,0.04390
+DVN,122079,,nan,4-2,Net Profit Margin,TTM,,0.17850
+DVN,122079,,nan,4-7,Return on Equity,TTM,,0.26740
+DVN,122079,,nan,4-9,Return on Assets,TTM,,0.11790
+DVN,122079,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.13790
+DVN,122079,,nan,4-3,Current Ratio,TTM,,1.47550
+DVN,122079,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.26700
+DVN,122079,,nan,4-5,Debt to Assets Ratio,TTM,,0.29980
+DVN,122079,,nan,4-12,"Earnings per Share, Basic",TTM,,4.11
+DVN,122079,,nan,4-13,"Earnings per Share, Diluted",TTM,,4.10
+DVN,122079,,nan,4-17,Sales per Share,TTM,,26.10
+DVN,122079,,nan,4-18,Book Value per Share,TTM,,17.43
+DVN,122079,,nan,4-26,Free Cash Flow per Share,TTM,,0.64
+DVN,122079,,nan,4-29,Dividends per Share,TTM,,0.28
+DVN,122079,,nan,4-14,Price to Earnings Ratio,TTM,,7.68
+DVN,122079,,nan,4-15,Price to Sales Ratio,TTM,,1.21
+DVN,122079,,nan,4-16,Price to Book Value,TTM,,1.81
+DVN,122079,,nan,4-27,Price to Free Cash Flow,TTM,,49.12
+DVN,122079,,nan,4-11,Market Capitalisation,TTM,,14776392000
+DVN,122079,,nan,4-20,Enterprise Value,TTM,,17722392000
+DVN,122079,,nan,4-21,EV/EBITDA,TTM,,6.75
+DVN,122079,,nan,4-22,EV/Sales,TTM,,1.33
+DVN,122079,,nan,4-31,EV/FCF,TTM,,54.03
+DVN,122079,,nan,4-23,Book to Market Value,TTM,,0.60
+DVN,122079,,nan,4-24,Operating Income/EV,TTM,,0.03300
+DVN,122079,,nan,4-30,Pietroski F-Score,TTM,,7.00
+WFC,58953,USD,nan,0-31,Last Closing Price,,2019-03-29,48.32
+WFC,58953,,nan,0-64,Common Shares Outstanding,,2018-10-24,4707244168
+WFC,58953,,nan,0-65,Preferred Shares Outstanding,,,
+WFC,58953,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,4861425000
+WFC,58953,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,4904825000
+WFC,58953,USD,2018.0,1-1,Revenues,TTM,2018-09-30,87478000000
+WFC,58953,,nan,1-2,Cost of Goods Sold,,,
+WFC,58953,,nan,1-4,Gross Profit,,,
+WFC,58953,,nan,1-11,Operating Expenses,,,
+WFC,58953,,nan,1-12,"Selling, General and Administrative",,,
+WFC,58953,,nan,1-15,Research & Development Expenses,,,
+WFC,58953,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,26017000000
+WFC,58953,,nan,1-21,"Interest Expense, net",,,
+WFC,58953,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,26017000000
+WFC,58953,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,26017000000
+WFC,58953,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,3054000000
+WFC,58953,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,22963000000
+WFC,58953,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,20718000000
+WFC,58953,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,18791000000
+WFC,58953,,nan,2-5,"Receivables, net",,,
+WFC,58953,,nan,2-21,Total Current Assets,,,
+WFC,58953,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,0
+WFC,58953,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,1872981000000
+WFC,58953,,nan,2-43,Accounts payable,,,
+WFC,58953,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,105451000000
+WFC,58953,,nan,2-57,Total Current Liabilities,,,
+WFC,58953,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,221323000000
+WFC,58953,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,1673302000000
+WFC,58953,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,23482000000
+WFC,58953,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+WFC,58953,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,198741000000
+WFC,58953,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,938000000
+WFC,58953,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,199679000000
+WFC,58953,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,5834000000
+WFC,58953,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,-129098000000
+WFC,58953,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,21417000000
+WFC,58953,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,3804000000
+WFC,58953,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,-9457000000
+WFC,58953,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-9219000000
+WFC,58953,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-69557000000
+WFC,58953,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,-57597000000
+WFC,58953,,nan,4-11,Market Capitalisation,TTM,,227454038198
+WFC,58953,,nan,4-10,EBITDA,TTM,,31851000000
+WFC,58953,,nan,4-6,Total Debt,TTM,,326774000000
+WFC,58953,,nan,4-25,Free Cash Flow,TTM,,-96497000000
+WFC,58953,,nan,4-0,Gross Margin,,,
+WFC,58953,,nan,4-1,Operating Margin,TTM,,0.29740
+WFC,58953,,nan,4-2,Net Profit Margin,TTM,,0.26250
+WFC,58953,,nan,4-7,Return on Equity,TTM,,0.11500
+WFC,58953,,nan,4-9,Return on Assets,TTM,,0.01230
+WFC,58953,,nan,4-28,Free Cash Flow to Net Income,TTM,,-4.20230
+WFC,58953,,nan,4-3,Current Ratio,,,
+WFC,58953,,nan,4-4,Liabilities to Equity Ratio,TTM,,8.38000
+WFC,58953,,nan,4-5,Debt to Assets Ratio,TTM,,0.17450
+WFC,58953,,nan,4-12,"Earnings per Share, Basic",TTM,,4.26
+WFC,58953,,nan,4-13,"Earnings per Share, Diluted",TTM,,4.22
+WFC,58953,,nan,4-17,Sales per Share,TTM,,17.99
+WFC,58953,,nan,4-18,Book Value per Share,TTM,,36.05
+WFC,58953,,nan,4-26,Free Cash Flow per Share,TTM,,-19.85
+WFC,58953,,nan,4-29,Dividends per Share,TTM,,1.90
+WFC,58953,,nan,4-14,Price to Earnings Ratio,TTM,,11.34
+WFC,58953,,nan,4-15,Price to Sales Ratio,TTM,,2.69
+WFC,58953,,nan,4-16,Price to Book Value,TTM,,1.18
+WFC,58953,,nan,4-27,Price to Free Cash Flow,TTM,,-2.43
+WFC,58953,,nan,4-11,Market Capitalisation,TTM,,227454038198
+WFC,58953,,nan,4-20,Enterprise Value,TTM,,536375038198
+WFC,58953,,nan,4-21,EV/EBITDA,TTM,,16.84
+WFC,58953,,nan,4-22,EV/Sales,TTM,,6.13
+WFC,58953,,nan,4-31,EV/FCF,TTM,,-5.56
+WFC,58953,,nan,4-23,Book to Market Value,TTM,,0.88
+WFC,58953,,nan,4-24,Operating Income/EV,TTM,,0.04850
+WFC,58953,,nan,4-30,Pietroski F-Score,,,
+BBBY,60362,USD,nan,0-31,Last Closing Price,,2019-03-29,16.99
+BBBY,60362,,nan,0-64,Common Shares Outstanding,,2018-12-01,137472453
+BBBY,60362,,nan,0-65,Preferred Shares Outstanding,,,
+BBBY,60362,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-11-30,135636250
+BBBY,60362,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-11-30,136022250
+BBBY,60362,USD,2018.0,1-1,Revenues,TTM,2018-11-30,12437180000
+BBBY,60362,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-11-30,8146781000
+BBBY,60362,USD,2018.0,1-4,Gross Profit,TTM,2018-11-30,4290399000
+BBBY,60362,USD,2018.0,1-11,Operating Expenses,TTM,2018-11-30,3743696000
+BBBY,60362,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-11-30,3743696000
+BBBY,60362,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-11-30,0
+BBBY,60362,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-11-30,546703000
+BBBY,60362,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-11-30,70328000
+BBBY,60362,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-11-30,476375000
+BBBY,60362,USD,2018.0,1-43,Pretax Income,TTM,2018-11-30,476375000
+BBBY,60362,USD,2018.0,1-44,Income Taxes,TTM,2018-11-30,165762000
+BBBY,60362,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-11-30,310613000
+BBBY,60362,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-11-30,310613000
+BBBY,60362,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-11-30,1000780000
+BBBY,60362,USD,2018.0,2-5,"Receivables, net",TTM,2018-11-30,0
+BBBY,60362,USD,2018.0,2-21,Total Current Assets,TTM,2018-11-30,4480613000
+BBBY,60362,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-11-30,1866086000
+BBBY,60362,USD,2018.0,2-41,Total Assets,TTM,2018-11-30,7536744000
+BBBY,60362,USD,2018.0,2-43,Accounts payable,TTM,2018-11-30,1554353000
+BBBY,60362,USD,2018.0,2-47,Current Debt,TTM,2018-11-30,0
+BBBY,60362,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-11-30,2679028000
+BBBY,60362,USD,2018.0,2-58,Non-current Debt,TTM,2018-11-30,1492427000
+BBBY,60362,USD,2018.0,2-73,Total Liabilities,TTM,2018-11-30,4633469000
+BBBY,60362,USD,2018.0,2-74,Preferred Equity,TTM,2018-11-30,0
+BBBY,60362,USD,2018.0,2-76,Common Stock,TTM,2018-11-30,3427000
+BBBY,60362,USD,2018.0,2-82,Equity before minorities,TTM,2018-11-30,2903275000
+BBBY,60362,USD,2018.0,2-83,Minority Interest,TTM,2018-11-30,0
+BBBY,60362,USD,2018.0,2-84,Total Equity,TTM,2018-11-30,2903275000
+BBBY,60362,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-11-30,332182000
+BBBY,60362,USD,2018.0,3-7,Change in Working Capital,TTM,2018-11-30,197167000
+BBBY,60362,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-11-30,1033282000
+BBBY,60362,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-11-30,-357137000
+BBBY,60362,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-11-30,-510959000
+BBBY,60362,USD,2018.0,3-32,Dividends paid,TTM,2018-11-30,-85696000
+BBBY,60362,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-11-30,-201162000
+BBBY,60362,USD,2018.0,3-46,Net Change in Cash,TTM,2018-11-30,309410000
+BBBY,60362,,nan,4-11,Market Capitalisation,TTM,,2335656976
+BBBY,60362,,nan,4-10,EBITDA,TTM,,878885000
+BBBY,60362,,nan,4-6,Total Debt,TTM,,1492427000
+BBBY,60362,,nan,4-25,Free Cash Flow,TTM,,553153000
+BBBY,60362,,nan,4-0,Gross Margin,TTM,,0.34500
+BBBY,60362,,nan,4-1,Operating Margin,TTM,,0.04400
+BBBY,60362,,nan,4-2,Net Profit Margin,TTM,,0.02500
+BBBY,60362,,nan,4-7,Return on Equity,TTM,,0.10700
+BBBY,60362,,nan,4-9,Return on Assets,TTM,,0.04120
+BBBY,60362,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.78080
+BBBY,60362,,nan,4-3,Current Ratio,TTM,,1.67250
+BBBY,60362,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.59590
+BBBY,60362,,nan,4-5,Debt to Assets Ratio,TTM,,0.19800
+BBBY,60362,,nan,4-12,"Earnings per Share, Basic",TTM,,2.29
+BBBY,60362,,nan,4-13,"Earnings per Share, Diluted",TTM,,2.28
+BBBY,60362,,nan,4-17,Sales per Share,TTM,,91.70
+BBBY,60362,,nan,4-18,Book Value per Share,TTM,,21.40
+BBBY,60362,,nan,4-26,Free Cash Flow per Share,TTM,,4.08
+BBBY,60362,,nan,4-29,Dividends per Share,TTM,,0.63
+BBBY,60362,,nan,4-14,Price to Earnings Ratio,TTM,,7.42
+BBBY,60362,,nan,4-15,Price to Sales Ratio,TTM,,0.19
+BBBY,60362,,nan,4-16,Price to Book Value,TTM,,0.79
+BBBY,60362,,nan,4-27,Price to Free Cash Flow,TTM,,4.17
+BBBY,60362,,nan,4-11,Market Capitalisation,TTM,,2335656976
+BBBY,60362,,nan,4-20,Enterprise Value,TTM,,2827303976
+BBBY,60362,,nan,4-21,EV/EBITDA,TTM,,3.22
+BBBY,60362,,nan,4-22,EV/Sales,TTM,,0.23
+BBBY,60362,,nan,4-31,EV/FCF,TTM,,5.11
+BBBY,60362,,nan,4-23,Book to Market Value,TTM,,1.24
+BBBY,60362,,nan,4-24,Operating Income/EV,TTM,,0.19340
+BBBY,60362,,nan,4-30,Pietroski F-Score,TTM,,7.00
+PEP,218222,USD,nan,0-31,Last Closing Price,,2019-03-29,122.55
+PEP,218222,,nan,0-64,Common Shares Outstanding,,2019-02-08,1404686108
+PEP,218222,,nan,0-65,Preferred Shares Outstanding,,2017-12-30,114753
+PEP,218222,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,1415000000
+PEP,218222,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,1425000000
+PEP,218222,USD,2018.0,1-1,Revenues,TTM,2018-12-31,64661000000
+PEP,218222,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,29381000000
+PEP,218222,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,35280000000
+PEP,218222,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,25170000000
+PEP,218222,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,25170000000
+PEP,218222,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+PEP,218222,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,10110000000
+PEP,218222,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,1219000000
+PEP,218222,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,8891000000
+PEP,218222,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,9189000000
+PEP,218222,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,-3370000000
+PEP,218222,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,12559000000
+PEP,218222,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,12515000000
+PEP,218222,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,8993000000
+PEP,218222,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,0
+PEP,218222,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,21893000000
+PEP,218222,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,17589000000
+PEP,218222,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,77648000000
+PEP,218222,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,18112000000
+PEP,218222,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,4026000000
+PEP,218222,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,22138000000
+PEP,218222,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,28295000000
+PEP,218222,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,63046000000
+PEP,218222,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+PEP,218222,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,23000000
+PEP,218222,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,14518000000
+PEP,218222,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,84000000
+PEP,218222,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,14602000000
+PEP,218222,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,2399000000
+PEP,218222,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,797000000
+PEP,218222,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,9415000000
+PEP,218222,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-3148000000
+PEP,218222,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,4564000000
+PEP,218222,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-4930000000
+PEP,218222,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-13769000000
+PEP,218222,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,112000000
+PEP,218222,,nan,4-11,Market Capitalisation,TTM,,172144282535
+PEP,218222,,nan,4-10,EBITDA,TTM,,12509000000
+PEP,218222,,nan,4-6,Total Debt,TTM,,32321000000
+PEP,218222,,nan,4-25,Free Cash Flow,TTM,,13528000000
+PEP,218222,,nan,4-0,Gross Margin,,,
+PEP,218222,,nan,4-1,Operating Margin,,,
+PEP,218222,,nan,4-2,Net Profit Margin,,,
+PEP,218222,,nan,4-7,Return on Equity,TTM,,0.86010
+PEP,218222,,nan,4-9,Return on Assets,TTM,,0.16170
+PEP,218222,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.07720
+PEP,218222,,nan,4-3,Current Ratio,TTM,,0.98890
+PEP,218222,,nan,4-4,Liabilities to Equity Ratio,TTM,,4.31760
+PEP,218222,,nan,4-5,Debt to Assets Ratio,TTM,,0.41630
+PEP,218222,,nan,4-12,"Earnings per Share, Basic",,,
+PEP,218222,,nan,4-13,"Earnings per Share, Diluted",,,
+PEP,218222,,nan,4-17,Sales per Share,,,
+PEP,218222,,nan,4-18,Book Value per Share,TTM,,10.26
+PEP,218222,,nan,4-26,Free Cash Flow per Share,TTM,,9.56
+PEP,218222,,nan,4-29,Dividends per Share,TTM,,3.48
+PEP,218222,,nan,4-14,Price to Earnings Ratio,TTM,,13.86
+PEP,218222,,nan,4-15,Price to Sales Ratio,TTM,,2.68
+PEP,218222,,nan,4-16,Price to Book Value,TTM,,11.88
+PEP,218222,,nan,4-27,Price to Free Cash Flow,TTM,,12.82
+PEP,218222,,nan,4-11,Market Capitalisation,TTM,,172144282535
+PEP,218222,,nan,4-20,Enterprise Value,TTM,,195556282535
+PEP,218222,,nan,4-21,EV/EBITDA,TTM,,15.63
+PEP,218222,,nan,4-22,EV/Sales,TTM,,3.02
+PEP,218222,,nan,4-31,EV/FCF,TTM,,14.46
+PEP,218222,,nan,4-23,Book to Market Value,TTM,,0.08
+PEP,218222,,nan,4-24,Operating Income/EV,TTM,,0.05170
+PEP,218222,,nan,4-30,Pietroski F-Score,TTM,,5.00
+BKS,763488,USD,nan,0-31,Last Closing Price,,2019-03-29,5.43
+BKS,763488,,nan,0-64,Common Shares Outstanding,,2018-10-31,73169887
+BKS,763488,,nan,0-65,Preferred Shares Outstanding,,,
+BKS,763488,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2017-10-31,72731000
+BKS,763488,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2017-10-31,72731000
+BKS,763488,,nan,1-1,Revenues,,,
+BKS,763488,,nan,1-2,Cost of Goods Sold,,,
+BKS,763488,,nan,1-4,Gross Profit,,,
+BKS,763488,,nan,1-11,Operating Expenses,,,
+BKS,763488,,nan,1-12,"Selling, General and Administrative",,,
+BKS,763488,,nan,1-15,Research & Development Expenses,,,
+BKS,763488,,nan,1-19,Operating Income (EBIT),,,
+BKS,763488,,nan,1-21,"Interest Expense, net",,,
+BKS,763488,,nan,1-28,Pretax Income (adjusted),,,
+BKS,763488,,nan,1-43,Pretax Income,,,
+BKS,763488,,nan,1-44,Income Taxes,,,
+BKS,763488,,nan,1-49,Income from Continuing Operations,,,
+BKS,763488,,nan,1-58,Net Income (common shareholders),,,
+BKS,763488,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2017-10-31,11192000
+BKS,763488,USD,2018.0,2-5,"Receivables, net",TTM,2017-10-31,63718000
+BKS,763488,USD,2018.0,2-21,Total Current Assets,TTM,2017-10-31,1298548000
+BKS,763488,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2017-10-31,259115000
+BKS,763488,USD,2018.0,2-41,Total Assets,TTM,2017-10-31,1956159000
+BKS,763488,USD,2018.0,2-43,Accounts payable,TTM,2017-10-31,621579000
+BKS,763488,USD,2018.0,2-47,Current Debt,TTM,2017-10-31,0
+BKS,763488,USD,2018.0,2-57,Total Current Liabilities,TTM,2017-10-31,1103410000
+BKS,763488,USD,2018.0,2-58,Non-current Debt,TTM,2017-10-31,278325000
+BKS,763488,USD,2018.0,2-73,Total Liabilities,TTM,2017-10-31,1539724000
+BKS,763488,USD,2018.0,2-74,Preferred Equity,TTM,2017-10-31,0
+BKS,763488,USD,2018.0,2-76,Common Stock,TTM,2017-10-31,0
+BKS,763488,USD,2018.0,2-82,Equity before minorities,TTM,2017-10-31,416435000
+BKS,763488,USD,2018.0,2-83,Minority Interest,TTM,2017-10-31,0
+BKS,763488,USD,2018.0,2-84,Total Equity,TTM,2017-10-31,416435000
+BKS,763488,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2017-10-31,103201000
+BKS,763488,USD,2018.0,3-7,Change in Working Capital,TTM,2017-10-31,19259000
+BKS,763488,USD,2018.0,3-13,Operating Cash Flow,TTM,2017-10-31,103826000
+BKS,763488,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2017-10-31,-89965000
+BKS,763488,USD,2018.0,3-31,Investing Cash Flow,TTM,2017-10-31,-89965000
+BKS,763488,USD,2018.0,3-32,Dividends paid,TTM,2017-10-31,-44226000
+BKS,763488,USD,2018.0,3-43,Financing Cash Flow,TTM,2017-10-31,-13993000
+BKS,763488,USD,2018.0,3-46,Net Change in Cash,TTM,2017-10-31,-132000
+BKS,763488,,nan,4-11,Market Capitalisation,TTM,,397312486
+BKS,763488,,nan,4-10,EBITDA,,,
+BKS,763488,,nan,4-6,Total Debt,TTM,,278325000
+BKS,763488,,nan,4-25,Free Cash Flow,,,
+BKS,763488,,nan,4-0,Gross Margin,,,
+BKS,763488,,nan,4-1,Operating Margin,,,
+BKS,763488,,nan,4-2,Net Profit Margin,,,
+BKS,763488,,nan,4-7,Return on Equity,,,
+BKS,763488,,nan,4-9,Return on Assets,,,
+BKS,763488,,nan,4-28,Free Cash Flow to Net Income,,,
+BKS,763488,,nan,4-3,Current Ratio,TTM,,1.17680
+BKS,763488,,nan,4-4,Liabilities to Equity Ratio,TTM,,3.69740
+BKS,763488,,nan,4-5,Debt to Assets Ratio,TTM,,0.14230
+BKS,763488,,nan,4-12,"Earnings per Share, Basic",,,
+BKS,763488,,nan,4-13,"Earnings per Share, Diluted",,,
+BKS,763488,,nan,4-17,Sales per Share,,,
+BKS,763488,,nan,4-18,Book Value per Share,TTM,,5.73
+BKS,763488,,nan,4-26,Free Cash Flow per Share,,,
+BKS,763488,,nan,4-29,Dividends per Share,TTM,,0.61
+BKS,763488,,nan,4-14,Price to Earnings Ratio,,,
+BKS,763488,,nan,4-15,Price to Sales Ratio,,,
+BKS,763488,,nan,4-16,Price to Book Value,TTM,,0.95
+BKS,763488,,nan,4-27,Price to Free Cash Flow,,,
+BKS,763488,,nan,4-11,Market Capitalisation,TTM,,397312486
+BKS,763488,,nan,4-20,Enterprise Value,TTM,,664445486
+BKS,763488,,nan,4-21,EV/EBITDA,,,
+BKS,763488,,nan,4-22,EV/Sales,,,
+BKS,763488,,nan,4-31,EV/FCF,,,
+BKS,763488,,nan,4-23,Book to Market Value,TTM,,1.05
+BKS,763488,,nan,4-24,Operating Income/EV,,,
+BKS,763488,,nan,4-30,Pietroski F-Score,,,
+CTL,373834,USD,nan,0-31,Last Closing Price,,2019-03-29,11.99
+CTL,373834,,nan,0-64,Common Shares Outstanding,,2018-11-02,1080659270
+CTL,373834,,nan,0-65,Preferred Shares Outstanding,,2018-09-30,7000
+CTL,373834,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,1021030500
+CTL,373834,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,1024578500
+CTL,373834,USD,2018.0,1-1,Revenues,TTM,2018-09-30,22988000000
+CTL,373834,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-09-30,10703000000
+CTL,373834,USD,2018.0,1-4,Gross Profit,TTM,2018-09-30,12285000000
+CTL,373834,USD,2018.0,1-11,Operating Expenses,TTM,2018-09-30,9350000000
+CTL,373834,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-09-30,4295000000
+CTL,373834,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-09-30,0
+CTL,373834,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,2935000000
+CTL,373834,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-09-30,2119000000
+CTL,373834,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,890000000
+CTL,373834,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,856000000
+CTL,373834,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,-940000000
+CTL,373834,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,1796000000
+CTL,373834,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,1796000000
+CTL,373834,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,390000000
+CTL,373834,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,2465000000
+CTL,373834,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,4114000000
+CTL,373834,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,26168000000
+CTL,373834,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,73371000000
+CTL,373834,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,1387000000
+CTL,373834,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,778000000
+CTL,373834,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,5286000000
+CTL,373834,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,35749000000
+CTL,373834,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,50568000000
+CTL,373834,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+CTL,373834,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,1081000000
+CTL,373834,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,22803000000
+CTL,373834,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,0
+CTL,373834,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,22803000000
+CTL,373834,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,5055000000
+CTL,373834,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,-427000000
+CTL,373834,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,6214000000
+CTL,373834,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-1400000000
+CTL,373834,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,-10217000000
+CTL,373834,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-2307000000
+CTL,373834,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-1739000000
+CTL,373834,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,-5744000000
+CTL,373834,,nan,4-11,Market Capitalisation,TTM,,12957104647
+CTL,373834,,nan,4-10,EBITDA,TTM,,7990000000
+CTL,373834,,nan,4-6,Total Debt,TTM,,36527000000
+CTL,373834,,nan,4-25,Free Cash Flow,TTM,,7103000000
+CTL,373834,,nan,4-0,Gross Margin,TTM,,0.53440
+CTL,373834,,nan,4-1,Operating Margin,TTM,,0.12770
+CTL,373834,,nan,4-2,Net Profit Margin,TTM,,0.07810
+CTL,373834,,nan,4-7,Return on Equity,TTM,,0.07880
+CTL,373834,,nan,4-9,Return on Assets,TTM,,0.02450
+CTL,373834,,nan,4-28,Free Cash Flow to Net Income,TTM,,3.95490
+CTL,373834,,nan,4-3,Current Ratio,TTM,,0.77830
+CTL,373834,,nan,4-4,Liabilities to Equity Ratio,TTM,,2.21760
+CTL,373834,,nan,4-5,Debt to Assets Ratio,TTM,,0.49780
+CTL,373834,,nan,4-12,"Earnings per Share, Basic",TTM,,1.76
+CTL,373834,,nan,4-13,"Earnings per Share, Diluted",TTM,,1.75
+CTL,373834,,nan,4-17,Sales per Share,TTM,,22.51
+CTL,373834,,nan,4-18,Book Value per Share,TTM,,22.33
+CTL,373834,,nan,4-26,Free Cash Flow per Share,TTM,,6.96
+CTL,373834,,nan,4-29,Dividends per Share,TTM,,2.26
+CTL,373834,,nan,4-14,Price to Earnings Ratio,TTM,,6.82
+CTL,373834,,nan,4-15,Price to Sales Ratio,TTM,,0.53
+CTL,373834,,nan,4-16,Price to Book Value,TTM,,0.54
+CTL,373834,,nan,4-27,Price to Free Cash Flow,TTM,,1.72
+CTL,373834,,nan,4-11,Market Capitalisation,TTM,,12957104647
+CTL,373834,,nan,4-20,Enterprise Value,TTM,,49094104647
+CTL,373834,,nan,4-21,EV/EBITDA,TTM,,6.14
+CTL,373834,,nan,4-22,EV/Sales,TTM,,2.14
+CTL,373834,,nan,4-31,EV/FCF,TTM,,6.91
+CTL,373834,,nan,4-23,Book to Market Value,TTM,,1.76
+CTL,373834,,nan,4-24,Operating Income/EV,TTM,,0.05980
+CTL,373834,,nan,4-30,Pietroski F-Score,TTM,,6.00
+HUM,234479,USD,nan,0-31,Last Closing Price,,2019-03-29,266.00
+HUM,234479,,nan,0-64,Common Shares Outstanding,,2018-09-30,137186880
+HUM,234479,,nan,0-65,Preferred Shares Outstanding,,,
+HUM,234479,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,138677250
+HUM,234479,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,139639750
+HUM,234479,USD,2018.0,1-1,Revenues,TTM,2018-09-30,55933000000
+HUM,234479,,nan,1-2,Cost of Goods Sold,,,
+HUM,234479,,nan,1-4,Gross Profit,,,
+HUM,234479,,nan,1-11,Operating Expenses,,,
+HUM,234479,,nan,1-12,"Selling, General and Administrative",,,
+HUM,234479,,nan,1-15,Research & Development Expenses,,,
+HUM,234479,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,3160000000
+HUM,234479,,nan,1-21,"Interest Expense, net",,,
+HUM,234479,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,2914000000
+HUM,234479,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,2126000000
+HUM,234479,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,614000000
+HUM,234479,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,1512000000
+HUM,234479,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,1512000000
+HUM,234479,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,4142000000
+HUM,234479,,nan,2-5,"Receivables, net",,,
+HUM,234479,,nan,2-21,Total Current Assets,,,
+HUM,234479,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,1685000000
+HUM,234479,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,27490000000
+HUM,234479,,nan,2-43,Accounts payable,,,
+HUM,234479,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,597000000
+HUM,234479,,nan,2-57,Total Current Liabilities,,,
+HUM,234479,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,4774000000
+HUM,234479,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,16897000000
+HUM,234479,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+HUM,234479,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+HUM,234479,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,10593000000
+HUM,234479,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,0
+HUM,234479,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,10593000000
+HUM,234479,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,453000000
+HUM,234479,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,-510000000
+HUM,234479,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,-1191000000
+HUM,234479,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,0
+HUM,234479,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,-3019000000
+HUM,234479,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-253000000
+HUM,234479,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-1513000000
+HUM,234479,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,-5723000000
+HUM,234479,,nan,4-11,Market Capitalisation,TTM,,36491710080
+HUM,234479,,nan,4-10,EBITDA,TTM,,3613000000
+HUM,234479,,nan,4-6,Total Debt,TTM,,5371000000
+HUM,234479,,nan,4-25,Free Cash Flow,TTM,,2489000000
+HUM,234479,,nan,4-0,Gross Margin,,,
+HUM,234479,,nan,4-1,Operating Margin,TTM,,0.05650
+HUM,234479,,nan,4-2,Net Profit Margin,TTM,,0.02700
+HUM,234479,,nan,4-7,Return on Equity,TTM,,0.14270
+HUM,234479,,nan,4-9,Return on Assets,TTM,,0.05500
+HUM,234479,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.64620
+HUM,234479,,nan,4-3,Current Ratio,,,
+HUM,234479,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.59510
+HUM,234479,,nan,4-5,Debt to Assets Ratio,TTM,,0.19540
+HUM,234479,,nan,4-12,"Earnings per Share, Basic",TTM,,10.90
+HUM,234479,,nan,4-13,"Earnings per Share, Diluted",TTM,,10.83
+HUM,234479,,nan,4-17,Sales per Share,TTM,,403.33
+HUM,234479,,nan,4-18,Book Value per Share,TTM,,76.39
+HUM,234479,,nan,4-26,Free Cash Flow per Share,TTM,,17.95
+HUM,234479,,nan,4-29,Dividends per Share,TTM,,1.82
+HUM,234479,,nan,4-14,Price to Earnings Ratio,TTM,,24.40
+HUM,234479,,nan,4-15,Price to Sales Ratio,TTM,,0.66
+HUM,234479,,nan,4-16,Price to Book Value,TTM,,3.48
+HUM,234479,,nan,4-27,Price to Free Cash Flow,TTM,,14.82
+HUM,234479,,nan,4-11,Market Capitalisation,TTM,,36491710080
+HUM,234479,,nan,4-20,Enterprise Value,TTM,,37720710080
+HUM,234479,,nan,4-21,EV/EBITDA,TTM,,10.44
+HUM,234479,,nan,4-22,EV/Sales,TTM,,0.67
+HUM,234479,,nan,4-31,EV/FCF,TTM,,15.16
+HUM,234479,,nan,4-23,Book to Market Value,TTM,,0.29
+HUM,234479,,nan,4-24,Operating Income/EV,TTM,,0.08380
+HUM,234479,,nan,4-30,Pietroski F-Score,,,
+IBM,69543,USD,nan,0-31,Last Closing Price,,2019-03-29,141.10
+IBM,69543,,nan,0-64,Common Shares Outstanding,,2019-02-08,889866256
+IBM,69543,,nan,0-65,Preferred Shares Outstanding,,,
+IBM,69543,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,912048072
+IBM,69543,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,916315714
+IBM,69543,USD,2018.0,1-1,Revenues,TTM,2018-12-31,79591000000
+IBM,69543,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,42655000000
+IBM,69543,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,36936000000
+IBM,69543,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,24745000000
+IBM,69543,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,19366000000
+IBM,69543,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,5379000000
+IBM,69543,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,12191000000
+IBM,69543,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,723000000
+IBM,69543,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,10316000000
+IBM,69543,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,11342000000
+IBM,69543,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,2619000000
+IBM,69543,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,8723000000
+IBM,69543,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,8728000000
+IBM,69543,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,11997000000
+IBM,69543,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,0
+IBM,69543,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,49145000000
+IBM,69543,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,10792000000
+IBM,69543,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,123381000000
+IBM,69543,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,6558000000
+IBM,69543,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,10207000000
+IBM,69543,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,38227000000
+IBM,69543,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,35605000000
+IBM,69543,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,106453000000
+IBM,69543,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+IBM,69543,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+IBM,69543,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,16796000000
+IBM,69543,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,134000000
+IBM,69543,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,16930000000
+IBM,69543,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,4480000000
+IBM,69543,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,554000000
+IBM,69543,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,15248000000
+IBM,69543,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-3147000000
+IBM,69543,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-4912000000
+IBM,69543,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-5666000000
+IBM,69543,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-10470000000
+IBM,69543,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,-629000000
+IBM,69543,,nan,4-11,Market Capitalisation,TTM,,125560128722
+IBM,69543,,nan,4-10,EBITDA,TTM,,16671000000
+IBM,69543,,nan,4-6,Total Debt,TTM,,45812000000
+IBM,69543,,nan,4-25,Free Cash Flow,TTM,,11459000000
+IBM,69543,,nan,4-0,Gross Margin,TTM,,0.46410
+IBM,69543,,nan,4-1,Operating Margin,TTM,,0.15320
+IBM,69543,,nan,4-2,Net Profit Margin,TTM,,0.10970
+IBM,69543,,nan,4-7,Return on Equity,TTM,,0.51550
+IBM,69543,,nan,4-9,Return on Assets,TTM,,0.07070
+IBM,69543,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.31290
+IBM,69543,,nan,4-3,Current Ratio,TTM,,1.28560
+IBM,69543,,nan,4-4,Liabilities to Equity Ratio,TTM,,6.28780
+IBM,69543,,nan,4-5,Debt to Assets Ratio,TTM,,0.37130
+IBM,69543,,nan,4-12,"Earnings per Share, Basic",TTM,,9.57
+IBM,69543,,nan,4-13,"Earnings per Share, Diluted",TTM,,9.53
+IBM,69543,,nan,4-17,Sales per Share,TTM,,87.27
+IBM,69543,,nan,4-18,Book Value per Share,TTM,,18.42
+IBM,69543,,nan,4-26,Free Cash Flow per Share,TTM,,12.56
+IBM,69543,,nan,4-29,Dividends per Share,TTM,,6.21
+IBM,69543,,nan,4-14,Price to Earnings Ratio,TTM,,14.74
+IBM,69543,,nan,4-15,Price to Sales Ratio,TTM,,1.62
+IBM,69543,,nan,4-16,Price to Book Value,TTM,,7.60
+IBM,69543,,nan,4-27,Price to Free Cash Flow,TTM,,11.23
+IBM,69543,,nan,4-11,Market Capitalisation,TTM,,125560128722
+IBM,69543,,nan,4-20,Enterprise Value,TTM,,159509128722
+IBM,69543,,nan,4-21,EV/EBITDA,TTM,,9.57
+IBM,69543,,nan,4-22,EV/Sales,TTM,,2.00
+IBM,69543,,nan,4-31,EV/FCF,TTM,,13.92
+IBM,69543,,nan,4-23,Book to Market Value,TTM,,0.13
+IBM,69543,,nan,4-24,Operating Income/EV,TTM,,0.07640
+IBM,69543,,nan,4-30,Pietroski F-Score,TTM,,5.00
+WFM,90839,USD,nan,0-31,Last Closing Price,,2017-08-29,41.99
+WFM,90839,,nan,0-64,Common Shares Outstanding,,2017-07-30,320251710
+WFM,90839,,nan,0-65,Preferred Shares Outstanding,,,
+WFM,90839,,2017.0,0-66,"Average Shares Outstanding, basic",TTM,2017-06-30,320300000
+WFM,90839,,2017.0,0-67,"Average Shares Outstanding, diluted",TTM,2017-06-30,320850000
+WFM,90839,USD,2017.0,1-1,Revenues,TTM,2017-09-30,16030000000
+WFM,90839,USD,2017.0,1-2,Cost of Goods Sold,TTM,2017-09-30,10633000000
+WFM,90839,USD,2017.0,1-4,Gross Profit,TTM,2017-09-30,5397000000
+WFM,90839,USD,2017.0,1-11,Operating Expenses,TTM,2017-09-30,4687000000
+WFM,90839,USD,2017.0,1-12,"Selling, General and Administrative",TTM,2017-09-30,4627000000
+WFM,90839,USD,2017.0,1-15,Research & Development Expenses,TTM,2017-09-30,0
+WFM,90839,USD,2017.0,1-19,Operating Income (EBIT),TTM,2017-09-30,710000000
+WFM,90839,USD,2017.0,1-21,"Interest Expense, net",TTM,2017-09-30,49000000
+WFM,90839,USD,2017.0,1-28,Pretax Income (adjusted),TTM,2017-09-30,668000000
+WFM,90839,USD,2017.0,1-43,Pretax Income,TTM,2017-09-30,417000000
+WFM,90839,USD,2017.0,1-44,Income Taxes,TTM,2017-09-30,172000000
+WFM,90839,USD,2017.0,1-49,Income from Continuing Operations,TTM,2017-09-30,245000000
+WFM,90839,USD,2017.0,1-58,Net Income (common shareholders),TTM,2017-09-30,245000000
+WFM,90839,USD,2017.0,2-1,Cash and Cash-equivalents,TTM,2017-09-30,826000000
+WFM,90839,USD,2017.0,2-5,"Receivables, net",TTM,2017-09-30,242000000
+WFM,90839,USD,2017.0,2-21,Total Current Assets,TTM,2017-09-30,2145000000
+WFM,90839,USD,2017.0,2-22,"Property, Plant and Equipment, net",TTM,2017-09-30,3514000000
+WFM,90839,USD,2017.0,2-41,Total Assets,TTM,2017-09-30,6676000000
+WFM,90839,USD,2017.0,2-43,Accounts payable,TTM,2017-09-30,371000000
+WFM,90839,USD,2017.0,2-47,Current Debt,TTM,2017-09-30,2000000
+WFM,90839,USD,2017.0,2-57,Total Current Liabilities,TTM,2017-09-30,1355000000
+WFM,90839,USD,2017.0,2-58,Non-current Debt,TTM,2017-09-30,1081000000
+WFM,90839,USD,2017.0,2-73,Total Liabilities,TTM,2017-09-30,3246000000
+WFM,90839,USD,2017.0,2-74,Preferred Equity,TTM,2017-09-30,0
+WFM,90839,USD,2017.0,2-76,Common Stock,TTM,2017-09-30,0
+WFM,90839,USD,2017.0,2-82,Equity before minorities,TTM,2017-09-30,3430000000
+WFM,90839,USD,2017.0,2-83,Minority Interest,TTM,2017-09-30,0
+WFM,90839,USD,2017.0,2-84,Total Equity,TTM,2017-09-30,3430000000
+WFM,90839,USD,2017.0,3-2,Depreciation & Amortisation,TTM,2017-09-30,495000000
+WFM,90839,USD,2017.0,3-7,Change in Working Capital,TTM,2017-09-30,181000000
+WFM,90839,USD,2017.0,3-13,Operating Cash Flow,TTM,2017-09-30,1138000000
+WFM,90839,USD,2017.0,3-14,Net Change in PP&E & Intangibles,TTM,2017-09-30,-646000000
+WFM,90839,USD,2017.0,3-31,Investing Cash Flow,TTM,2017-09-30,-906000000
+WFM,90839,USD,2017.0,3-32,Dividends paid,TTM,2017-09-30,-190000000
+WFM,90839,USD,2017.0,3-43,Financing Cash Flow,TTM,2017-09-30,-265000000
+WFM,90839,USD,2017.0,3-46,Net Change in Cash,TTM,2017-09-30,-27000000
+WFM,90839,,nan,4-11,Market Capitalisation,TTM,,13447369303
+WFM,90839,,nan,4-10,EBITDA,TTM,,1205000000
+WFM,90839,,nan,4-6,Total Debt,TTM,,1083000000
+WFM,90839,,nan,4-25,Free Cash Flow,TTM,,568000000
+WFM,90839,,nan,4-0,Gross Margin,TTM,,0.33670
+WFM,90839,,nan,4-1,Operating Margin,TTM,,0.04430
+WFM,90839,,nan,4-2,Net Profit Margin,TTM,,0.01530
+WFM,90839,,nan,4-7,Return on Equity,TTM,,0.07140
+WFM,90839,,nan,4-9,Return on Assets,TTM,,0.03670
+WFM,90839,,nan,4-28,Free Cash Flow to Net Income,TTM,,2.31840
+WFM,90839,,nan,4-3,Current Ratio,TTM,,1.58300
+WFM,90839,,nan,4-4,Liabilities to Equity Ratio,TTM,,0.94640
+WFM,90839,,nan,4-5,Debt to Assets Ratio,TTM,,0.16220
+WFM,90839,,nan,4-12,"Earnings per Share, Basic",,,
+WFM,90839,,nan,4-13,"Earnings per Share, Diluted",,,
+WFM,90839,,nan,4-17,Sales per Share,,,
+WFM,90839,,nan,4-18,Book Value per Share,,,
+WFM,90839,,nan,4-26,Free Cash Flow per Share,,,
+WFM,90839,,nan,4-29,Dividends per Share,,,
+WFM,90839,,nan,4-14,Price to Earnings Ratio,,,
+WFM,90839,,nan,4-15,Price to Sales Ratio,,,
+WFM,90839,,nan,4-16,Price to Book Value,,,
+WFM,90839,,nan,4-27,Price to Free Cash Flow,,,
+WFM,90839,,nan,4-11,Market Capitalisation,TTM,,13447369303
+WFM,90839,,nan,4-20,Enterprise Value,TTM,,13704369303
+WFM,90839,,nan,4-21,EV/EBITDA,TTM,,11.37
+WFM,90839,,nan,4-22,EV/Sales,TTM,,0.85
+WFM,90839,,nan,4-31,EV/FCF,TTM,,24.13
+WFM,90839,,nan,4-23,Book to Market Value,TTM,,0.26
+WFM,90839,,nan,4-24,Operating Income/EV,TTM,,0.05180
+WFM,90839,,nan,4-30,Pietroski F-Score,,,
+RAD,84515,USD,nan,0-31,Last Closing Price,,2019-03-29,0.64
+RAD,84515,,nan,0-64,Common Shares Outstanding,,2018-12-20,1066879495
+RAD,84515,,nan,0-65,Preferred Shares Outstanding,,,
+RAD,84515,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,1056025000
+RAD,84515,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,1049516250
+RAD,84515,USD,2018.0,1-1,Revenues,TTM,2018-12-31,21654176000
+RAD,84515,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,16872422000
+RAD,84515,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,4781754000
+RAD,84515,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,4631137000
+RAD,84515,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,4631137000
+RAD,84515,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+RAD,84515,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,150617000
+RAD,84515,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,225636000
+RAD,84515,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,-75019000
+RAD,84515,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,-795806000
+RAD,84515,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,99192000
+RAD,84515,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,-894998000
+RAD,84515,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,617838000
+RAD,84515,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,410043000
+RAD,84515,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,1717830000
+RAD,84515,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,4330478000
+RAD,84515,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,1335740000
+RAD,84515,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,8082958000
+RAD,84515,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,1707242000
+RAD,84515,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,16066000
+RAD,84515,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,2720325000
+RAD,84515,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,3420666000
+RAD,84515,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,6629544000
+RAD,84515,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+RAD,84515,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+RAD,84515,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,1453414000
+RAD,84515,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,0
+RAD,84515,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,1453414000
+RAD,84515,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,364566000
+RAD,84515,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,-38013000
+RAD,84515,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,137239000
+RAD,84515,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-224538000
+RAD,84515,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-197206000
+RAD,84515,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,0
+RAD,84515,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,797182000
+RAD,84515,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,240243000
+RAD,84515,,nan,4-11,Market Capitalisation,TTM,,682802877
+RAD,84515,,nan,4-10,EBITDA,TTM,,515183000
+RAD,84515,,nan,4-6,Total Debt,TTM,,3436732000
+RAD,84515,,nan,4-25,Free Cash Flow,TTM,,153440000
+RAD,84515,,nan,4-0,Gross Margin,TTM,,0.22080
+RAD,84515,,nan,4-1,Operating Margin,TTM,,0.00700
+RAD,84515,,nan,4-2,Net Profit Margin,TTM,,0.02850
+RAD,84515,,nan,4-7,Return on Equity,TTM,,0.42510
+RAD,84515,,nan,4-9,Return on Assets,TTM,,0.07640
+RAD,84515,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.24830
+RAD,84515,,nan,4-3,Current Ratio,TTM,,1.59190
+RAD,84515,,nan,4-4,Liabilities to Equity Ratio,TTM,,4.56140
+RAD,84515,,nan,4-5,Debt to Assets Ratio,TTM,,0.42520
+RAD,84515,,nan,4-12,"Earnings per Share, Basic",TTM,,0.59
+RAD,84515,,nan,4-13,"Earnings per Share, Diluted",TTM,,0.59
+RAD,84515,,nan,4-17,Sales per Share,TTM,,20.51
+RAD,84515,,nan,4-18,Book Value per Share,TTM,,1.38
+RAD,84515,,nan,4-26,Free Cash Flow per Share,TTM,,0.15
+RAD,84515,,nan,4-29,Dividends per Share,TTM,,0.00
+RAD,84515,,nan,4-14,Price to Earnings Ratio,TTM,,1.09
+RAD,84515,,nan,4-15,Price to Sales Ratio,TTM,,0.03
+RAD,84515,,nan,4-16,Price to Book Value,TTM,,0.47
+RAD,84515,,nan,4-27,Price to Free Cash Flow,TTM,,4.40
+RAD,84515,,nan,4-11,Market Capitalisation,TTM,,682802877
+RAD,84515,,nan,4-20,Enterprise Value,TTM,,3709491877
+RAD,84515,,nan,4-21,EV/EBITDA,TTM,,7.20
+RAD,84515,,nan,4-22,EV/Sales,TTM,,0.17
+RAD,84515,,nan,4-31,EV/FCF,TTM,,24.18
+RAD,84515,,nan,4-23,Book to Market Value,TTM,,2.13
+RAD,84515,,nan,4-24,Operating Income/EV,TTM,,0.04060
+RAD,84515,,nan,4-30,Pietroski F-Score,,,
+CSCO,82202,USD,nan,0-31,Last Closing Price,,2019-03-29,53.99
+CSCO,82202,,nan,0-64,Common Shares Outstanding,,2018-11-15,4495961730
+CSCO,82202,,nan,0-65,Preferred Shares Outstanding,,,
+CSCO,82202,,2019.0,0-66,"Average Shares Outstanding, basic",TTM,2018-10-31,4738500000
+CSCO,82202,,2019.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-10-31,4786000000
+CSCO,82202,USD,2019.0,1-1,Revenues,TTM,2018-10-31,50266000000
+CSCO,82202,USD,2019.0,1-2,Cost of Goods Sold,TTM,2018-10-31,18941000000
+CSCO,82202,USD,2019.0,1-4,Gross Profit,TTM,2018-10-31,31325000000
+CSCO,82202,USD,2019.0,1-11,Operating Expenses,TTM,2018-10-31,17683000000
+CSCO,82202,USD,2019.0,1-12,"Selling, General and Administrative",TTM,2018-10-31,11116000000
+CSCO,82202,USD,2019.0,1-15,Research & Development Expenses,TTM,2018-10-31,6373000000
+CSCO,82202,USD,2019.0,1-19,Operating Income (EBIT),TTM,2018-10-31,13642000000
+CSCO,82202,USD,2019.0,1-21,"Interest Expense, net",TTM,2018-10-31,-544000000
+CSCO,82202,USD,2019.0,1-28,Pretax Income (adjusted),TTM,2018-10-31,14270000000
+CSCO,82202,USD,2019.0,1-43,Pretax Income,TTM,2018-10-31,13986000000
+CSCO,82202,USD,2019.0,1-44,Income Taxes,TTM,2018-10-31,12721000000
+CSCO,82202,USD,2019.0,1-49,Income from Continuing Operations,TTM,2018-10-31,1265000000
+CSCO,82202,USD,2019.0,1-58,Net Income (common shareholders),TTM,2018-10-31,1265000000
+CSCO,82202,USD,2019.0,2-1,Cash and Cash-equivalents,TTM,2018-10-31,42593000000
+CSCO,82202,USD,2019.0,2-5,"Receivables, net",TTM,2018-10-31,4536000000
+CSCO,82202,USD,2019.0,2-21,Total Current Assets,TTM,2018-10-31,55686000000
+CSCO,82202,USD,2019.0,2-22,"Property, Plant and Equipment, net",TTM,2018-10-31,2956000000
+CSCO,82202,USD,2019.0,2-41,Total Assets,TTM,2018-10-31,105429000000
+CSCO,82202,USD,2019.0,2-43,Accounts payable,TTM,2018-10-31,1805000000
+CSCO,82202,USD,2019.0,2-47,Current Debt,TTM,2018-10-31,7241000000
+CSCO,82202,USD,2019.0,2-57,Total Current Liabilities,TTM,2018-10-31,26414000000
+CSCO,82202,USD,2019.0,2-58,Non-current Debt,TTM,2018-10-31,18323000000
+CSCO,82202,USD,2019.0,2-73,Total Liabilities,TTM,2018-10-31,61581000000
+CSCO,82202,USD,2019.0,2-74,Preferred Equity,TTM,2018-10-31,0
+CSCO,82202,USD,2019.0,2-76,Common Stock,TTM,2018-10-31,0
+CSCO,82202,USD,2019.0,2-82,Equity before minorities,TTM,2018-10-31,43848000000
+CSCO,82202,USD,2019.0,2-83,Minority Interest,TTM,2018-10-31,0
+CSCO,82202,USD,2019.0,2-84,Total Equity,TTM,2018-10-31,43848000000
+CSCO,82202,USD,2019.0,3-2,Depreciation & Amortisation,TTM,2018-10-31,0
+CSCO,82202,USD,2019.0,3-7,Change in Working Capital,TTM,2018-10-31,9124000000
+CSCO,82202,USD,2019.0,3-13,Operating Cash Flow,TTM,2018-10-31,14349000000
+CSCO,82202,USD,2019.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-10-31,-818000000
+CSCO,82202,USD,2019.0,3-31,Investing Cash Flow,TTM,2018-10-31,20504000000
+CSCO,82202,USD,2019.0,3-32,Dividends paid,TTM,2018-10-31,-6032000000
+CSCO,82202,USD,2019.0,3-43,Financing Cash Flow,TTM,2018-10-31,-37459000000
+CSCO,82202,USD,2019.0,3-46,Net Change in Cash,TTM,2018-10-31,-2606000000
+CSCO,82202,,nan,4-11,Market Capitalisation,TTM,,242736973803
+CSCO,82202,,nan,4-10,EBITDA,TTM,,13642000000
+CSCO,82202,,nan,4-6,Total Debt,TTM,,25564000000
+CSCO,82202,,nan,4-25,Free Cash Flow,TTM,,9227000000
+CSCO,82202,,nan,4-0,Gross Margin,TTM,,0.62320
+CSCO,82202,,nan,4-1,Operating Margin,TTM,,0.27140
+CSCO,82202,,nan,4-2,Net Profit Margin,TTM,,0.02520
+CSCO,82202,,nan,4-7,Return on Equity,TTM,,0.02880
+CSCO,82202,,nan,4-9,Return on Assets,TTM,,0.01200
+CSCO,82202,,nan,4-28,Free Cash Flow to Net Income,TTM,,7.29410
+CSCO,82202,,nan,4-3,Current Ratio,TTM,,2.10820
+CSCO,82202,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.40440
+CSCO,82202,,nan,4-5,Debt to Assets Ratio,TTM,,0.24250
+CSCO,82202,,nan,4-12,"Earnings per Share, Basic",TTM,,0.27
+CSCO,82202,,nan,4-13,"Earnings per Share, Diluted",TTM,,0.26
+CSCO,82202,,nan,4-17,Sales per Share,TTM,,10.61
+CSCO,82202,,nan,4-18,Book Value per Share,TTM,,9.25
+CSCO,82202,,nan,4-26,Free Cash Flow per Share,TTM,,1.95
+CSCO,82202,,nan,4-29,Dividends per Share,TTM,,1.27
+CSCO,82202,,nan,4-14,Price to Earnings Ratio,TTM,,202.24
+CSCO,82202,,nan,4-15,Price to Sales Ratio,TTM,,5.09
+CSCO,82202,,nan,4-16,Price to Book Value,TTM,,5.83
+CSCO,82202,,nan,4-27,Price to Free Cash Flow,TTM,,27.73
+CSCO,82202,,nan,4-11,Market Capitalisation,TTM,,242736973803
+CSCO,82202,,nan,4-20,Enterprise Value,TTM,,225707973803
+CSCO,82202,,nan,4-21,EV/EBITDA,TTM,,16.55
+CSCO,82202,,nan,4-22,EV/Sales,TTM,,4.49
+CSCO,82202,,nan,4-31,EV/FCF,TTM,,24.46
+CSCO,82202,,nan,4-23,Book to Market Value,TTM,,0.18
+CSCO,82202,,nan,4-24,Operating Income/EV,TTM,,0.06040
+CSCO,82202,,nan,4-30,Pietroski F-Score,TTM,,7.00
+PYPL,109664,USD,nan,0-31,Last Closing Price,,2019-03-29,103.84
+PYPL,109664,,nan,0-64,Common Shares Outstanding,,2019-01-31,1173209367
+PYPL,109664,,nan,0-65,Preferred Shares Outstanding,,,
+PYPL,109664,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,1184000000
+PYPL,109664,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,1203000000
+PYPL,109664,USD,2018.0,1-1,Revenues,TTM,2018-12-31,15451000000
+PYPL,109664,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,0
+PYPL,109664,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,15451000000
+PYPL,109664,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,12948000000
+PYPL,109664,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,4246000000
+PYPL,109664,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,1071000000
+PYPL,109664,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,2503000000
+PYPL,109664,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,0
+PYPL,109664,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,2685000000
+PYPL,109664,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,2376000000
+PYPL,109664,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,319000000
+PYPL,109664,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,2057000000
+PYPL,109664,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,2057000000
+PYPL,109664,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,9109000000
+PYPL,109664,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,313000000
+PYPL,109664,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,32963000000
+PYPL,109664,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,1724000000
+PYPL,109664,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,43332000000
+PYPL,109664,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,281000000
+PYPL,109664,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,0
+PYPL,109664,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,25904000000
+PYPL,109664,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,0
+PYPL,109664,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,27946000000
+PYPL,109664,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+PYPL,109664,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+PYPL,109664,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,15386000000
+PYPL,109664,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,0
+PYPL,109664,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,15386000000
+PYPL,109664,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,776000000
+PYPL,109664,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,1668000000
+PYPL,109664,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,5483000000
+PYPL,109664,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-820000000
+PYPL,109664,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,840000000
+PYPL,109664,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,0
+PYPL,109664,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-1262000000
+PYPL,109664,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,4948000000
+PYPL,109664,,nan,4-11,Market Capitalisation,TTM,,121826060669
+PYPL,109664,,nan,4-10,EBITDA,TTM,,3279000000
+PYPL,109664,,nan,4-6,Total Debt,TTM,,0
+PYPL,109664,,nan,4-25,Free Cash Flow,TTM,,3808000000
+PYPL,109664,,nan,4-0,Gross Margin,TTM,,1.00000
+PYPL,109664,,nan,4-1,Operating Margin,TTM,,0.16200
+PYPL,109664,,nan,4-2,Net Profit Margin,TTM,,0.13310
+PYPL,109664,,nan,4-7,Return on Equity,TTM,,0.13370
+PYPL,109664,,nan,4-9,Return on Assets,TTM,,0.04750
+PYPL,109664,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.85120
+PYPL,109664,,nan,4-3,Current Ratio,TTM,,1.27250
+PYPL,109664,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.81630
+PYPL,109664,,nan,4-5,Debt to Assets Ratio,TTM,,0.00000
+PYPL,109664,,nan,4-12,"Earnings per Share, Basic",TTM,,1.74
+PYPL,109664,,nan,4-13,"Earnings per Share, Diluted",TTM,,1.71
+PYPL,109664,,nan,4-17,Sales per Share,TTM,,13.05
+PYPL,109664,,nan,4-18,Book Value per Share,TTM,,12.99
+PYPL,109664,,nan,4-26,Free Cash Flow per Share,TTM,,3.22
+PYPL,109664,,nan,4-29,Dividends per Share,TTM,,0.00
+PYPL,109664,,nan,4-14,Price to Earnings Ratio,TTM,,59.77
+PYPL,109664,,nan,4-15,Price to Sales Ratio,TTM,,7.96
+PYPL,109664,,nan,4-16,Price to Book Value,TTM,,7.99
+PYPL,109664,,nan,4-27,Price to Free Cash Flow,TTM,,32.29
+PYPL,109664,,nan,4-11,Market Capitalisation,TTM,,121826060669
+PYPL,109664,,nan,4-20,Enterprise Value,TTM,,112717060669
+PYPL,109664,,nan,4-21,EV/EBITDA,TTM,,34.38
+PYPL,109664,,nan,4-22,EV/Sales,TTM,,7.30
+PYPL,109664,,nan,4-31,EV/FCF,TTM,,29.60
+PYPL,109664,,nan,4-23,Book to Market Value,TTM,,0.13
+PYPL,109664,,nan,4-24,Operating Income/EV,TTM,,0.02220
+PYPL,109664,,nan,4-30,Pietroski F-Score,TTM,,6.00
+MAT,378187,USD,nan,0-31,Last Closing Price,,2019-03-29,13.00
+MAT,378187,,nan,0-64,Common Shares Outstanding,,2019-02-08,345396232
+MAT,378187,,nan,0-65,Preferred Shares Outstanding,,,
+MAT,378187,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,345012000
+MAT,378187,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,345012000
+MAT,378187,USD,2018.0,1-1,Revenues,TTM,2018-12-31,4510852000
+MAT,378187,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,2716127000
+MAT,378187,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,1794725000
+MAT,378187,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,2031232000
+MAT,378187,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,2031232000
+MAT,378187,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+MAT,378187,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,-236507000
+MAT,378187,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,175423000
+MAT,378187,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,-419261000
+MAT,378187,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,-419261000
+MAT,378187,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,111732000
+MAT,378187,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,-530993000
+MAT,378187,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,-530993000
+MAT,378187,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,594481000
+MAT,378187,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,970083000
+MAT,378187,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,2352440000
+MAT,378187,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,657595000
+MAT,378187,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,5243465000
+MAT,378187,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,537965000
+MAT,378187,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,4176000
+MAT,378187,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,1252608000
+MAT,378187,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,2851723000
+MAT,378187,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,4574000000
+MAT,378187,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+MAT,378187,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+MAT,378187,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,669465000
+MAT,378187,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,0
+MAT,378187,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,669465000
+MAT,378187,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,271932000
+MAT,378187,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,18124000
+MAT,378187,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,-27317000
+MAT,378187,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-152414000
+MAT,378187,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-160758000
+MAT,378187,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,0
+MAT,378187,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-285157000
+MAT,378187,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,-484740000
+MAT,378187,,nan,4-11,Market Capitalisation,TTM,,4490151016
+MAT,378187,,nan,4-10,EBITDA,TTM,,35425000
+MAT,378187,,nan,4-6,Total Debt,TTM,,2855899000
+MAT,378187,,nan,4-25,Free Cash Flow,TTM,,-210597000
+MAT,378187,,nan,4-0,Gross Margin,TTM,,0.39790
+MAT,378187,,nan,4-1,Operating Margin,TTM,,-0.05240
+MAT,378187,,nan,4-2,Net Profit Margin,TTM,,-0.11770
+MAT,378187,,nan,4-7,Return on Equity,TTM,,-0.79320
+MAT,378187,,nan,4-9,Return on Assets,TTM,,-0.10130
+MAT,378187,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.39660
+MAT,378187,,nan,4-3,Current Ratio,TTM,,1.87800
+MAT,378187,,nan,4-4,Liabilities to Equity Ratio,TTM,,6.83230
+MAT,378187,,nan,4-5,Debt to Assets Ratio,TTM,,0.54470
+MAT,378187,,nan,4-12,"Earnings per Share, Basic",TTM,,-1.54
+MAT,378187,,nan,4-13,"Earnings per Share, Diluted",TTM,,-1.54
+MAT,378187,,nan,4-17,Sales per Share,TTM,,13.07
+MAT,378187,,nan,4-18,Book Value per Share,TTM,,1.94
+MAT,378187,,nan,4-26,Free Cash Flow per Share,TTM,,-0.61
+MAT,378187,,nan,4-29,Dividends per Share,TTM,,0.00
+MAT,378187,,nan,4-14,Price to Earnings Ratio,TTM,,-8.45
+MAT,378187,,nan,4-15,Price to Sales Ratio,TTM,,0.99
+MAT,378187,,nan,4-16,Price to Book Value,TTM,,6.70
+MAT,378187,,nan,4-27,Price to Free Cash Flow,TTM,,-21.30
+MAT,378187,,nan,4-11,Market Capitalisation,TTM,,4490151016
+MAT,378187,,nan,4-20,Enterprise Value,TTM,,6751569016
+MAT,378187,,nan,4-21,EV/EBITDA,TTM,,190.59
+MAT,378187,,nan,4-22,EV/Sales,TTM,,1.50
+MAT,378187,,nan,4-31,EV/FCF,TTM,,-32.06
+MAT,378187,,nan,4-23,Book to Market Value,TTM,,0.15
+MAT,378187,,nan,4-24,Operating Income/EV,TTM,,-0.03500
+MAT,378187,,nan,4-30,Pietroski F-Score,TTM,,3.00
+SPLS,166539,USD,nan,0-31,Last Closing Price,,2017-09-28,10.25
+SPLS,166539,,nan,0-64,Common Shares Outstanding,,2017-07-29,656713321
+SPLS,166539,,nan,0-65,Preferred Shares Outstanding,,,
+SPLS,166539,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-03-31,650750000
+SPLS,166539,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-03-31,651000000
+SPLS,166539,USD,2017.0,1-1,Revenues,TTM,2017-12-31,18247000000
+SPLS,166539,USD,2017.0,1-2,Cost of Goods Sold,TTM,2017-12-31,13489000000
+SPLS,166539,USD,2017.0,1-4,Gross Profit,TTM,2017-12-31,4758000000
+SPLS,166539,USD,2017.0,1-11,Operating Expenses,TTM,2017-12-31,3896000000
+SPLS,166539,USD,2017.0,1-12,"Selling, General and Administrative",TTM,2017-12-31,3845000000
+SPLS,166539,USD,2017.0,1-15,Research & Development Expenses,TTM,2017-12-31,0
+SPLS,166539,USD,2017.0,1-19,Operating Income (EBIT),TTM,2017-12-31,862000000
+SPLS,166539,USD,2017.0,1-21,"Interest Expense, net",TTM,2017-12-31,75000000
+SPLS,166539,USD,2017.0,1-28,Pretax Income (adjusted),TTM,2017-12-31,800000000
+SPLS,166539,USD,2017.0,1-43,Pretax Income,TTM,2017-12-31,-352000000
+SPLS,166539,USD,2017.0,1-44,Income Taxes,TTM,2017-12-31,107000000
+SPLS,166539,USD,2017.0,1-49,Income from Continuing Operations,TTM,2017-12-31,-459000000
+SPLS,166539,USD,2017.0,1-58,Net Income (common shareholders),TTM,2017-12-31,-1497000000
+SPLS,166539,USD,2017.0,2-1,Cash and Cash-equivalents,TTM,2017-12-31,1137000000
+SPLS,166539,USD,2017.0,2-5,"Receivables, net",TTM,2017-12-31,1538000000
+SPLS,166539,USD,2017.0,2-21,Total Current Assets,TTM,2017-12-31,5231000000
+SPLS,166539,USD,2017.0,2-22,"Property, Plant and Equipment, net",TTM,2017-12-31,1147000000
+SPLS,166539,USD,2017.0,2-41,Total Assets,TTM,2017-12-31,8271000000
+SPLS,166539,USD,2017.0,2-43,Accounts payable,TTM,2017-12-31,1706000000
+SPLS,166539,USD,2017.0,2-47,Current Debt,TTM,2017-12-31,519000000
+SPLS,166539,USD,2017.0,2-57,Total Current Liabilities,TTM,2017-12-31,3650000000
+SPLS,166539,USD,2017.0,2-58,Non-current Debt,TTM,2017-12-31,529000000
+SPLS,166539,USD,2017.0,2-73,Total Liabilities,TTM,2017-12-31,4575000000
+SPLS,166539,USD,2017.0,2-74,Preferred Equity,TTM,2017-12-31,0
+SPLS,166539,USD,2017.0,2-76,Common Stock,TTM,2017-12-31,0
+SPLS,166539,USD,2017.0,2-82,Equity before minorities,TTM,2017-12-31,3688000000
+SPLS,166539,USD,2017.0,2-83,Minority Interest,TTM,2017-12-31,8000000
+SPLS,166539,USD,2017.0,2-84,Total Equity,TTM,2017-12-31,3696000000
+SPLS,166539,USD,2017.0,3-2,Depreciation & Amortisation,TTM,2017-12-31,436000000
+SPLS,166539,USD,2017.0,3-7,Change in Working Capital,TTM,2017-12-31,-76000000
+SPLS,166539,USD,2017.0,3-13,Operating Cash Flow,TTM,2017-12-31,934000000
+SPLS,166539,USD,2017.0,3-14,Net Change in PP&E & Intangibles,TTM,2017-12-31,-241000000
+SPLS,166539,USD,2017.0,3-31,Investing Cash Flow,TTM,2017-12-31,-311000000
+SPLS,166539,USD,2017.0,3-32,Dividends paid,TTM,2017-12-31,-311000000
+SPLS,166539,USD,2017.0,3-43,Financing Cash Flow,TTM,2017-12-31,-318000000
+SPLS,166539,USD,2017.0,3-46,Net Change in Cash,TTM,2017-12-31,312000000
+SPLS,166539,,nan,4-11,Market Capitalisation,TTM,,6731311540
+SPLS,166539,,nan,4-10,EBITDA,TTM,,1298000000
+SPLS,166539,,nan,4-6,Total Debt,TTM,,1048000000
+SPLS,166539,,nan,4-25,Free Cash Flow,TTM,,874000000
+SPLS,166539,,nan,4-0,Gross Margin,TTM,,0.26080
+SPLS,166539,,nan,4-1,Operating Margin,TTM,,0.04720
+SPLS,166539,,nan,4-2,Net Profit Margin,TTM,,-0.08200
+SPLS,166539,,nan,4-7,Return on Equity,TTM,,-0.40500
+SPLS,166539,,nan,4-9,Return on Assets,TTM,,-0.18100
+SPLS,166539,,nan,4-28,Free Cash Flow to Net Income,TTM,,-0.58380
+SPLS,166539,,nan,4-3,Current Ratio,TTM,,1.43320
+SPLS,166539,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.23780
+SPLS,166539,,nan,4-5,Debt to Assets Ratio,TTM,,0.12670
+SPLS,166539,,nan,4-12,"Earnings per Share, Basic",,,
+SPLS,166539,,nan,4-13,"Earnings per Share, Diluted",,,
+SPLS,166539,,nan,4-17,Sales per Share,,,
+SPLS,166539,,nan,4-18,Book Value per Share,,,
+SPLS,166539,,nan,4-26,Free Cash Flow per Share,,,
+SPLS,166539,,nan,4-29,Dividends per Share,,,
+SPLS,166539,,nan,4-14,Price to Earnings Ratio,,,
+SPLS,166539,,nan,4-15,Price to Sales Ratio,,,
+SPLS,166539,,nan,4-16,Price to Book Value,,,
+SPLS,166539,,nan,4-27,Price to Free Cash Flow,,,
+SPLS,166539,,nan,4-11,Market Capitalisation,TTM,,6731311540
+SPLS,166539,,nan,4-20,Enterprise Value,TTM,,6650311540
+SPLS,166539,,nan,4-21,EV/EBITDA,TTM,,5.12
+SPLS,166539,,nan,4-22,EV/Sales,TTM,,0.36
+SPLS,166539,,nan,4-31,EV/FCF,TTM,,7.61
+SPLS,166539,,nan,4-23,Book to Market Value,TTM,,0.55
+SPLS,166539,,nan,4-24,Operating Income/EV,TTM,,0.12960
+SPLS,166539,,nan,4-30,Pietroski F-Score,,,
+DRQ,113753,USD,nan,0-31,Last Closing Price,,2019-03-29,45.85
+DRQ,113753,,nan,0-64,Common Shares Outstanding,,2018-10-24,35777241
+DRQ,113753,,nan,0-65,Preferred Shares Outstanding,,,
+DRQ,113753,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,37323913
+DRQ,113753,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,37234000
+DRQ,113753,USD,2018.0,1-1,Revenues,TTM,2018-09-30,395264000
+DRQ,113753,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-09-30,275179000
+DRQ,113753,USD,2018.0,1-4,Gross Profit,TTM,2018-09-30,120085000
+DRQ,113753,USD,2018.0,1-11,Operating Expenses,TTM,2018-09-30,114382000
+DRQ,113753,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-09-30,114382000
+DRQ,113753,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-09-30,0
+DRQ,113753,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,5703000
+DRQ,113753,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-09-30,-5993000
+DRQ,113753,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,11696000
+DRQ,113753,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,-23026000
+DRQ,113753,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,69245000
+DRQ,113753,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,-92271000
+DRQ,113753,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,-92271000
+DRQ,113753,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,424053000
+DRQ,113753,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,190437000
+DRQ,113753,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,897450000
+DRQ,113753,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,292667000
+DRQ,113753,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,1292759000
+DRQ,113753,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,21155000
+DRQ,113753,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,0
+DRQ,113753,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,68262000
+DRQ,113753,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,0
+DRQ,113753,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,101503000
+DRQ,113753,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+DRQ,113753,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+DRQ,113753,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,1191256000
+DRQ,113753,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,0
+DRQ,113753,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,1191256000
+DRQ,113753,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,34709000
+DRQ,113753,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,67042000
+DRQ,113753,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,65865000
+DRQ,113753,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-21488000
+DRQ,113753,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,-20639000
+DRQ,113753,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,0
+DRQ,113753,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-80541000
+DRQ,113753,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,-48992000
+DRQ,113753,,nan,4-11,Market Capitalisation,TTM,,1640386500
+DRQ,113753,,nan,4-10,EBITDA,TTM,,40412000
+DRQ,113753,,nan,4-6,Total Debt,TTM,,0
+DRQ,113753,,nan,4-25,Free Cash Flow,TTM,,16721000
+DRQ,113753,,nan,4-0,Gross Margin,TTM,,0.30380
+DRQ,113753,,nan,4-1,Operating Margin,TTM,,0.01440
+DRQ,113753,,nan,4-2,Net Profit Margin,TTM,,-0.23340
+DRQ,113753,,nan,4-7,Return on Equity,TTM,,-0.07750
+DRQ,113753,,nan,4-9,Return on Assets,TTM,,-0.07140
+DRQ,113753,,nan,4-28,Free Cash Flow to Net Income,TTM,,-0.18120
+DRQ,113753,,nan,4-3,Current Ratio,TTM,,13.14710
+DRQ,113753,,nan,4-4,Liabilities to Equity Ratio,TTM,,0.08520
+DRQ,113753,,nan,4-5,Debt to Assets Ratio,TTM,,0.00000
+DRQ,113753,,nan,4-12,"Earnings per Share, Basic",TTM,,-2.47
+DRQ,113753,,nan,4-13,"Earnings per Share, Diluted",TTM,,-2.48
+DRQ,113753,,nan,4-17,Sales per Share,TTM,,10.59
+DRQ,113753,,nan,4-18,Book Value per Share,TTM,,31.92
+DRQ,113753,,nan,4-26,Free Cash Flow per Share,TTM,,0.45
+DRQ,113753,,nan,4-29,Dividends per Share,TTM,,0.00
+DRQ,113753,,nan,4-14,Price to Earnings Ratio,TTM,,-18.55
+DRQ,113753,,nan,4-15,Price to Sales Ratio,TTM,,4.33
+DRQ,113753,,nan,4-16,Price to Book Value,TTM,,1.44
+DRQ,113753,,nan,4-27,Price to Free Cash Flow,TTM,,102.34
+DRQ,113753,,nan,4-11,Market Capitalisation,TTM,,1640386500
+DRQ,113753,,nan,4-20,Enterprise Value,TTM,,1216333500
+DRQ,113753,,nan,4-21,EV/EBITDA,TTM,,30.10
+DRQ,113753,,nan,4-22,EV/Sales,TTM,,3.08
+DRQ,113753,,nan,4-31,EV/FCF,TTM,,72.74
+DRQ,113753,,nan,4-23,Book to Market Value,TTM,,0.73
+DRQ,113753,,nan,4-24,Operating Income/EV,TTM,,0.00470
+DRQ,113753,,nan,4-30,Pietroski F-Score,TTM,,2.00
+COP,378120,USD,nan,0-31,Last Closing Price,,2019-03-29,66.74
+COP,378120,,nan,0-64,Common Shares Outstanding,,2019-01-31,1134404094
+COP,378120,,nan,0-65,Preferred Shares Outstanding,,,
+COP,378120,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,1166499000
+COP,378120,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,1175538000
+COP,378120,USD,2018.0,1-1,Revenues,TTM,2018-12-31,36417000000
+COP,378120,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,14294000000
+COP,378120,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,22123000000
+COP,378120,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,12987000000
+COP,378120,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,401000000
+COP,378120,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,369000000
+COP,378120,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,9136000000
+COP,378120,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,735000000
+COP,378120,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,9648000000
+COP,378120,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,9973000000
+COP,378120,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,3668000000
+COP,378120,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,6305000000
+COP,378120,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,6257000000
+COP,378120,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,7625000000
+COP,378120,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,0
+COP,378120,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,13274000000
+COP,378120,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,45698000000
+COP,378120,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,69980000000
+COP,378120,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,3863000000
+COP,378120,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,112000000
+COP,378120,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,7395000000
+COP,378120,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,14856000000
+COP,378120,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,37916000000
+COP,378120,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+COP,378120,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,18000000
+COP,378120,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,31939000000
+COP,378120,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,125000000
+COP,378120,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,32064000000
+COP,378120,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,5956000000
+COP,378120,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,635000000
+COP,378120,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,12934000000
+COP,378120,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-5668000000
+COP,378120,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-3843000000
+COP,378120,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-1363000000
+COP,378120,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-9359000000
+COP,378120,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,-385000000
+COP,378120,,nan,4-11,Market Capitalisation,TTM,,75710129234
+COP,378120,,nan,4-10,EBITDA,TTM,,15092000000
+COP,378120,,nan,4-6,Total Debt,TTM,,14968000000
+COP,378120,,nan,4-25,Free Cash Flow,TTM,,6391000000
+COP,378120,,nan,4-0,Gross Margin,TTM,,0.60750
+COP,378120,,nan,4-1,Operating Margin,TTM,,0.25090
+COP,378120,,nan,4-2,Net Profit Margin,TTM,,0.17310
+COP,378120,,nan,4-7,Return on Equity,TTM,,0.19660
+COP,378120,,nan,4-9,Return on Assets,TTM,,0.09010
+COP,378120,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.01360
+COP,378120,,nan,4-3,Current Ratio,TTM,,1.79500
+COP,378120,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.18250
+COP,378120,,nan,4-5,Debt to Assets Ratio,TTM,,0.21390
+COP,378120,,nan,4-12,"Earnings per Share, Basic",TTM,,5.36
+COP,378120,,nan,4-13,"Earnings per Share, Diluted",TTM,,5.32
+COP,378120,,nan,4-17,Sales per Share,TTM,,31.22
+COP,378120,,nan,4-18,Book Value per Share,TTM,,27.38
+COP,378120,,nan,4-26,Free Cash Flow per Share,TTM,,5.48
+COP,378120,,nan,4-29,Dividends per Share,TTM,,1.17
+COP,378120,,nan,4-14,Price to Earnings Ratio,TTM,,12.44
+COP,378120,,nan,4-15,Price to Sales Ratio,TTM,,2.14
+COP,378120,,nan,4-16,Price to Book Value,TTM,,2.43
+COP,378120,,nan,4-27,Price to Free Cash Flow,TTM,,12.18
+COP,378120,,nan,4-11,Market Capitalisation,TTM,,75710129234
+COP,378120,,nan,4-20,Enterprise Value,TTM,,83178129234
+COP,378120,,nan,4-21,EV/EBITDA,TTM,,5.51
+COP,378120,,nan,4-22,EV/Sales,TTM,,2.28
+COP,378120,,nan,4-31,EV/FCF,TTM,,13.01
+COP,378120,,nan,4-23,Book to Market Value,TTM,,0.42
+COP,378120,,nan,4-24,Operating Income/EV,TTM,,0.10980
+COP,378120,,nan,4-30,Pietroski F-Score,TTM,,9.00
+WDC,250582,USD,nan,0-31,Last Closing Price,,2019-03-29,48.06
+WDC,250582,,nan,0-64,Common Shares Outstanding,,2019-01-29,290850938
+WDC,250582,,nan,0-65,Preferred Shares Outstanding,,,
+WDC,250582,,2019.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,294750000
+WDC,250582,,2019.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,304500000
+WDC,250582,USD,2019.0,1-1,Revenues,TTM,2018-12-31,19391000000
+WDC,250582,USD,2019.0,1-2,Cost of Goods Sold,TTM,2018-12-31,12904000000
+WDC,250582,USD,2019.0,1-4,Gross Profit,TTM,2018-12-31,6487000000
+WDC,250582,USD,2019.0,1-11,Operating Expenses,TTM,2018-12-31,3687000000
+WDC,250582,USD,2019.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,1393000000
+WDC,250582,USD,2019.0,1-15,Research & Development Expenses,TTM,2018-12-31,2294000000
+WDC,250582,USD,2019.0,1-19,Operating Income (EBIT),TTM,2018-12-31,2800000000
+WDC,250582,USD,2019.0,1-21,"Interest Expense, net",TTM,2018-12-31,448000000
+WDC,250582,USD,2019.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,1446000000
+WDC,250582,USD,2019.0,1-43,Pretax Income,TTM,2018-12-31,1265000000
+WDC,250582,USD,2019.0,1-44,Income Taxes,TTM,2018-12-31,424000000
+WDC,250582,USD,2019.0,1-49,Income from Continuing Operations,TTM,2018-12-31,841000000
+WDC,250582,USD,2019.0,1-58,Net Income (common shareholders),TTM,2018-12-31,841000000
+WDC,250582,USD,2019.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,4013000000
+WDC,250582,USD,2019.0,2-5,"Receivables, net",TTM,2018-12-31,1715000000
+WDC,250582,USD,2019.0,2-21,Total Current Assets,TTM,2018-12-31,9742000000
+WDC,250582,USD,2019.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,3077000000
+WDC,250582,USD,2019.0,2-41,Total Assets,TTM,2018-12-31,27939000000
+WDC,250582,USD,2019.0,2-43,Accounts payable,TTM,2018-12-31,1925000000
+WDC,250582,USD,2019.0,2-47,Current Debt,TTM,2018-12-31,244000000
+WDC,250582,USD,2019.0,2-57,Total Current Liabilities,TTM,2018-12-31,4350000000
+WDC,250582,USD,2019.0,2-58,Non-current Debt,TTM,2018-12-31,10370000000
+WDC,250582,USD,2019.0,2-73,Total Liabilities,TTM,2018-12-31,17027000000
+WDC,250582,USD,2019.0,2-74,Preferred Equity,TTM,2018-12-31,0
+WDC,250582,USD,2019.0,2-76,Common Stock,TTM,2018-12-31,0
+WDC,250582,USD,2019.0,2-82,Equity before minorities,TTM,2018-12-31,10912000000
+WDC,250582,USD,2019.0,2-83,Minority Interest,TTM,2018-12-31,0
+WDC,250582,USD,2019.0,2-84,Total Equity,TTM,2018-12-31,10912000000
+WDC,250582,USD,2019.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,1940000000
+WDC,250582,USD,2019.0,3-7,Change in Working Capital,TTM,2018-12-31,-1083000000
+WDC,250582,USD,2019.0,3-13,Operating Cash Flow,TTM,2018-12-31,3064000000
+WDC,250582,USD,2019.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-900000000
+WDC,250582,USD,2019.0,3-31,Investing Cash Flow,TTM,2018-12-31,-1373000000
+WDC,250582,USD,2019.0,3-32,Dividends paid,TTM,2018-12-31,-590000000
+WDC,250582,USD,2019.0,3-43,Financing Cash Flow,TTM,2018-12-31,-3947000000
+WDC,250582,USD,2019.0,3-46,Net Change in Cash,TTM,2018-12-31,-2259000000
+WDC,250582,,nan,4-11,Market Capitalisation,TTM,,13978296080
+WDC,250582,,nan,4-10,EBITDA,TTM,,4740000000
+WDC,250582,,nan,4-6,Total Debt,TTM,,10614000000
+WDC,250582,,nan,4-25,Free Cash Flow,TTM,,2333000000
+WDC,250582,,nan,4-0,Gross Margin,TTM,,0.33450
+WDC,250582,,nan,4-1,Operating Margin,TTM,,0.14440
+WDC,250582,,nan,4-2,Net Profit Margin,TTM,,0.04340
+WDC,250582,,nan,4-7,Return on Equity,TTM,,0.07710
+WDC,250582,,nan,4-9,Return on Assets,TTM,,0.03010
+WDC,250582,,nan,4-28,Free Cash Flow to Net Income,TTM,,2.77410
+WDC,250582,,nan,4-3,Current Ratio,TTM,,2.23950
+WDC,250582,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.56040
+WDC,250582,,nan,4-5,Debt to Assets Ratio,TTM,,0.37990
+WDC,250582,,nan,4-12,"Earnings per Share, Basic",TTM,,2.85
+WDC,250582,,nan,4-13,"Earnings per Share, Diluted",TTM,,2.76
+WDC,250582,,nan,4-17,Sales per Share,TTM,,65.79
+WDC,250582,,nan,4-18,Book Value per Share,TTM,,37.02
+WDC,250582,,nan,4-26,Free Cash Flow per Share,TTM,,7.92
+WDC,250582,,nan,4-29,Dividends per Share,TTM,,2.00
+WDC,250582,,nan,4-14,Price to Earnings Ratio,TTM,,16.84
+WDC,250582,,nan,4-15,Price to Sales Ratio,TTM,,0.73
+WDC,250582,,nan,4-16,Price to Book Value,TTM,,1.30
+WDC,250582,,nan,4-27,Price to Free Cash Flow,TTM,,6.07
+WDC,250582,,nan,4-11,Market Capitalisation,TTM,,13978296080
+WDC,250582,,nan,4-20,Enterprise Value,TTM,,20579296080
+WDC,250582,,nan,4-21,EV/EBITDA,TTM,,4.34
+WDC,250582,,nan,4-22,EV/Sales,TTM,,1.06
+WDC,250582,,nan,4-31,EV/FCF,TTM,,8.82
+WDC,250582,,nan,4-23,Book to Market Value,TTM,,0.78
+WDC,250582,,nan,4-24,Operating Income/EV,TTM,,0.13610
+WDC,250582,,nan,4-30,Pietroski F-Score,TTM,,4.00
+HON,105257,USD,nan,0-31,Last Closing Price,,2019-03-29,158.92
+HON,105257,,nan,0-64,Common Shares Outstanding,,2019-01-25,729085890
+HON,105257,,nan,0-65,Preferred Shares Outstanding,,,
+HON,105257,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,743000000
+HON,105257,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,753000000
+HON,105257,USD,2018.0,1-1,Revenues,TTM,2018-12-31,41802000000
+HON,105257,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,29046000000
+HON,105257,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,12756000000
+HON,105257,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,6051000000
+HON,105257,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,6051000000
+HON,105257,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+HON,105257,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,6705000000
+HON,105257,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,367000000
+HON,105257,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,7487000000
+HON,105257,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,7487000000
+HON,105257,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,659000000
+HON,105257,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,6828000000
+HON,105257,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,6765000000
+HON,105257,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,10910000000
+HON,105257,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,0
+HON,105257,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,24362000000
+HON,105257,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,5296000000
+HON,105257,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,57773000000
+HON,105257,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,5607000000
+HON,105257,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,6458000000
+HON,105257,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,18924000000
+HON,105257,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,9756000000
+HON,105257,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,39408000000
+HON,105257,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+HON,105257,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+HON,105257,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,18180000000
+HON,105257,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,185000000
+HON,105257,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,18365000000
+HON,105257,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,1116000000
+HON,105257,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,286000000
+HON,105257,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,6434000000
+HON,105257,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-813000000
+HON,105257,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,1027000000
+HON,105257,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-2451000000
+HON,105257,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,-5032000000
+HON,105257,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,2228000000
+HON,105257,,nan,4-11,Market Capitalisation,TTM,,115866329639
+HON,105257,,nan,4-10,EBITDA,TTM,,7821000000
+HON,105257,,nan,4-6,Total Debt,TTM,,16214000000
+HON,105257,,nan,4-25,Free Cash Flow,TTM,,6635000000
+HON,105257,,nan,4-0,Gross Margin,TTM,,0.30520
+HON,105257,,nan,4-1,Operating Margin,TTM,,0.16040
+HON,105257,,nan,4-2,Net Profit Margin,TTM,,0.16330
+HON,105257,,nan,4-7,Return on Equity,TTM,,0.37180
+HON,105257,,nan,4-9,Return on Assets,TTM,,0.11820
+HON,105257,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.97170
+HON,105257,,nan,4-3,Current Ratio,TTM,,1.28740
+HON,105257,,nan,4-4,Liabilities to Equity Ratio,TTM,,2.14580
+HON,105257,,nan,4-5,Debt to Assets Ratio,TTM,,0.28070
+HON,105257,,nan,4-12,"Earnings per Share, Basic",TTM,,9.11
+HON,105257,,nan,4-13,"Earnings per Share, Diluted",TTM,,8.98
+HON,105257,,nan,4-17,Sales per Share,TTM,,56.26
+HON,105257,,nan,4-18,Book Value per Share,TTM,,24.47
+HON,105257,,nan,4-26,Free Cash Flow per Share,TTM,,8.93
+HON,105257,,nan,4-29,Dividends per Share,TTM,,3.30
+HON,105257,,nan,4-14,Price to Earnings Ratio,TTM,,17.45
+HON,105257,,nan,4-15,Price to Sales Ratio,TTM,,2.82
+HON,105257,,nan,4-16,Price to Book Value,TTM,,6.43
+HON,105257,,nan,4-27,Price to Free Cash Flow,TTM,,17.80
+HON,105257,,nan,4-11,Market Capitalisation,TTM,,115866329639
+HON,105257,,nan,4-20,Enterprise Value,TTM,,121355329639
+HON,105257,,nan,4-21,EV/EBITDA,TTM,,15.52
+HON,105257,,nan,4-22,EV/Sales,TTM,,2.90
+HON,105257,,nan,4-31,EV/FCF,TTM,,18.29
+HON,105257,,nan,4-23,Book to Market Value,TTM,,0.16
+HON,105257,,nan,4-24,Operating Income/EV,TTM,,0.05530
+HON,105257,,nan,4-30,Pietroski F-Score,TTM,,6.00
+JNPR,385619,USD,nan,0-31,Last Closing Price,,2019-03-29,26.47
+JNPR,385619,,nan,0-64,Common Shares Outstanding,,2018-11-02,345154400
+JNPR,385619,,nan,0-65,Preferred Shares Outstanding,,,
+JNPR,385619,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,355375000
+JNPR,385619,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,361525000
+JNPR,385619,USD,2018.0,1-1,Revenues,TTM,2018-09-30,4706000000
+JNPR,385619,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-09-30,1924500000
+JNPR,385619,USD,2018.0,1-4,Gross Profit,TTM,2018-09-30,2781500000
+JNPR,385619,USD,2018.0,1-11,Operating Expenses,TTM,2018-09-30,2164900000
+JNPR,385619,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-09-30,1165000000
+JNPR,385619,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-09-30,999900000
+JNPR,385619,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,616600000
+JNPR,385619,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-09-30,0
+JNPR,385619,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,583000000
+JNPR,385619,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,544500000
+JNPR,385619,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,317900000
+JNPR,385619,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,226600000
+JNPR,385619,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,226600000
+JNPR,385619,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,3389000000
+JNPR,385619,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,648300000
+JNPR,385619,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,4290700000
+JNPR,385619,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,967600000
+JNPR,385619,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,9100300000
+JNPR,385619,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,184700000
+JNPR,385619,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,349700000
+JNPR,385619,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,1740500000
+JNPR,385619,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,1788600000
+JNPR,385619,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,4449400000
+JNPR,385619,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+JNPR,385619,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+JNPR,385619,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,4650900000
+JNPR,385619,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,0
+JNPR,385619,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,4650900000
+JNPR,385619,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,215100000
+JNPR,385619,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,347700000
+JNPR,385619,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,862100000
+JNPR,385619,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-164500000
+JNPR,385619,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,499100000
+JNPR,385619,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-223900000
+JNPR,385619,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-1254300000
+JNPR,385619,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,99700000
+JNPR,385619,,nan,4-11,Market Capitalisation,TTM,,9136236968
+JNPR,385619,,nan,4-10,EBITDA,TTM,,831700000
+JNPR,385619,,nan,4-6,Total Debt,TTM,,2138300000
+JNPR,385619,,nan,4-25,Free Cash Flow,TTM,,697000000
+JNPR,385619,,nan,4-0,Gross Margin,TTM,,0.59110
+JNPR,385619,,nan,4-1,Operating Margin,TTM,,0.13100
+JNPR,385619,,nan,4-2,Net Profit Margin,TTM,,0.04820
+JNPR,385619,,nan,4-7,Return on Equity,TTM,,0.04870
+JNPR,385619,,nan,4-9,Return on Assets,TTM,,0.02490
+JNPR,385619,,nan,4-28,Free Cash Flow to Net Income,TTM,,3.07590
+JNPR,385619,,nan,4-3,Current Ratio,TTM,,2.46520
+JNPR,385619,,nan,4-4,Liabilities to Equity Ratio,TTM,,0.95670
+JNPR,385619,,nan,4-5,Debt to Assets Ratio,TTM,,0.23500
+JNPR,385619,,nan,4-12,"Earnings per Share, Basic",TTM,,0.64
+JNPR,385619,,nan,4-13,"Earnings per Share, Diluted",TTM,,0.63
+JNPR,385619,,nan,4-17,Sales per Share,TTM,,13.24
+JNPR,385619,,nan,4-18,Book Value per Share,TTM,,13.09
+JNPR,385619,,nan,4-26,Free Cash Flow per Share,TTM,,1.96
+JNPR,385619,,nan,4-29,Dividends per Share,TTM,,0.63
+JNPR,385619,,nan,4-14,Price to Earnings Ratio,TTM,,41.51
+JNPR,385619,,nan,4-15,Price to Sales Ratio,TTM,,2.00
+JNPR,385619,,nan,4-16,Price to Book Value,TTM,,2.02
+JNPR,385619,,nan,4-27,Price to Free Cash Flow,TTM,,13.50
+JNPR,385619,,nan,4-11,Market Capitalisation,TTM,,9136236968
+JNPR,385619,,nan,4-20,Enterprise Value,TTM,,7885536968
+JNPR,385619,,nan,4-21,EV/EBITDA,TTM,,9.48
+JNPR,385619,,nan,4-22,EV/Sales,TTM,,1.68
+JNPR,385619,,nan,4-31,EV/FCF,TTM,,11.31
+JNPR,385619,,nan,4-23,Book to Market Value,TTM,,0.51
+JNPR,385619,,nan,4-24,Operating Income/EV,TTM,,0.07820
+JNPR,385619,,nan,4-30,Pietroski F-Score,TTM,,4.00
+CTXS,131663,USD,nan,0-31,Last Closing Price,,2019-03-29,99.66
+CTXS,131663,,nan,0-64,Common Shares Outstanding,,2018-10-26,134761787
+CTXS,131663,,nan,0-65,Preferred Shares Outstanding,,,
+CTXS,131663,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,139439250
+CTXS,131663,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,148160500
+CTXS,131663,USD,2018.0,1-1,Revenues,TTM,2018-09-30,2949890000
+CTXS,131663,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-09-30,442891000
+CTXS,131663,USD,2018.0,1-4,Gross Profit,TTM,2018-09-30,2506999000
+CTXS,131663,USD,2018.0,1-11,Operating Expenses,TTM,2018-09-30,1772438000
+CTXS,131663,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-09-30,1334736000
+CTXS,131663,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-09-30,422373000
+CTXS,131663,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,734561000
+CTXS,131663,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-09-30,39371000
+CTXS,131663,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,693327000
+CTXS,131663,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,623954000
+CTXS,131663,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,497894000
+CTXS,131663,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,126060000
+CTXS,131663,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,126060000
+CTXS,131663,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,1833878000
+CTXS,131663,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,413509000
+CTXS,131663,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,2497961000
+CTXS,131663,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,247544000
+CTXS,131663,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,5436527000
+CTXS,131663,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,71110000
+CTXS,131663,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,0
+CTXS,131663,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,1607191000
+CTXS,131663,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,2157521000
+CTXS,131663,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,4683307000
+CTXS,131663,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+CTXS,131663,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,308000
+CTXS,131663,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,753220000
+CTXS,131663,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,0
+CTXS,131663,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,753220000
+CTXS,131663,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,87137000
+CTXS,131663,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,474528000
+CTXS,131663,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,1082694000
+CTXS,131663,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-77174000
+CTXS,131663,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,183009000
+CTXS,131663,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,0
+CTXS,131663,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-998054000
+CTXS,131663,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,264313000
+CTXS,131663,,nan,4-11,Market Capitalisation,TTM,,13430359692
+CTXS,131663,,nan,4-10,EBITDA,TTM,,821698000
+CTXS,131663,,nan,4-6,Total Debt,TTM,,2157521000
+CTXS,131663,,nan,4-25,Free Cash Flow,TTM,,721158000
+CTXS,131663,,nan,4-0,Gross Margin,TTM,,0.84990
+CTXS,131663,,nan,4-1,Operating Margin,TTM,,0.24900
+CTXS,131663,,nan,4-2,Net Profit Margin,TTM,,0.04270
+CTXS,131663,,nan,4-7,Return on Equity,TTM,,0.16740
+CTXS,131663,,nan,4-9,Return on Assets,TTM,,0.02320
+CTXS,131663,,nan,4-28,Free Cash Flow to Net Income,TTM,,5.72080
+CTXS,131663,,nan,4-3,Current Ratio,TTM,,1.55420
+CTXS,131663,,nan,4-4,Liabilities to Equity Ratio,TTM,,6.21770
+CTXS,131663,,nan,4-5,Debt to Assets Ratio,TTM,,0.39690
+CTXS,131663,,nan,4-12,"Earnings per Share, Basic",TTM,,0.90
+CTXS,131663,,nan,4-13,"Earnings per Share, Diluted",TTM,,0.85
+CTXS,131663,,nan,4-17,Sales per Share,TTM,,21.16
+CTXS,131663,,nan,4-18,Book Value per Share,TTM,,5.40
+CTXS,131663,,nan,4-26,Free Cash Flow per Share,TTM,,5.17
+CTXS,131663,,nan,4-29,Dividends per Share,TTM,,0.00
+CTXS,131663,,nan,4-14,Price to Earnings Ratio,TTM,,110.24
+CTXS,131663,,nan,4-15,Price to Sales Ratio,TTM,,4.71
+CTXS,131663,,nan,4-16,Price to Book Value,TTM,,18.45
+CTXS,131663,,nan,4-27,Price to Free Cash Flow,TTM,,19.27
+CTXS,131663,,nan,4-11,Market Capitalisation,TTM,,13430359692
+CTXS,131663,,nan,4-20,Enterprise Value,TTM,,13754002692
+CTXS,131663,,nan,4-21,EV/EBITDA,TTM,,16.74
+CTXS,131663,,nan,4-22,EV/Sales,TTM,,4.66
+CTXS,131663,,nan,4-31,EV/FCF,TTM,,19.07
+CTXS,131663,,nan,4-23,Book to Market Value,TTM,,0.06
+CTXS,131663,,nan,4-24,Operating Income/EV,TTM,,0.05340
+CTXS,131663,,nan,4-30,Pietroski F-Score,TTM,,6.00
+TSLA,56317,USD,nan,0-31,Last Closing Price,,2019-03-29,279.86
+TSLA,56317,,nan,0-64,Common Shares Outstanding,,2019-02-12,172721487
+TSLA,56317,,nan,0-65,Preferred Shares Outstanding,,,
+TSLA,56317,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,170525000
+TSLA,56317,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,170525000
+TSLA,56317,USD,2018.0,1-1,Revenues,TTM,2018-12-31,21461268000
+TSLA,56317,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-12-31,17419247000
+TSLA,56317,USD,2018.0,1-4,Gross Profit,TTM,2018-12-31,4042021000
+TSLA,56317,USD,2018.0,1-11,Operating Expenses,TTM,2018-12-31,4294861000
+TSLA,56317,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,2834491000
+TSLA,56317,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-12-31,1460370000
+TSLA,56317,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-12-31,-252840000
+TSLA,56317,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-12-31,638538000
+TSLA,56317,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,-869512000
+TSLA,56317,USD,2018.0,1-43,Pretax Income,TTM,2018-12-31,-1004745000
+TSLA,56317,USD,2018.0,1-44,Income Taxes,TTM,2018-12-31,57837000
+TSLA,56317,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-12-31,-1062582000
+TSLA,56317,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-12-31,-976091000
+TSLA,56317,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,3685618000
+TSLA,56317,USD,2018.0,2-5,"Receivables, net",TTM,2018-12-31,949022000
+TSLA,56317,USD,2018.0,2-21,Total Current Assets,TTM,2018-12-31,8306308000
+TSLA,56317,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,11330077000
+TSLA,56317,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,29739614000
+TSLA,56317,USD,2018.0,2-43,Accounts payable,TTM,2018-12-31,3404451000
+TSLA,56317,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,2567699000
+TSLA,56317,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-12-31,9992136000
+TSLA,56317,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,9959636000
+TSLA,56317,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,23981974000
+TSLA,56317,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,0
+TSLA,56317,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,173000
+TSLA,56317,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,4923243000
+TSLA,56317,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,834397000
+TSLA,56317,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,5757640000
+TSLA,56317,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,1901050000
+TSLA,56317,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,57951000
+TSLA,56317,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,2097802000
+TSLA,56317,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-2319516000
+TSLA,56317,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-2337428000
+TSLA,56317,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,0
+TSLA,56317,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,573755000
+TSLA,56317,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,311429000
+TSLA,56317,,nan,4-11,Market Capitalisation,TTM,,48337835352
+TSLA,56317,,nan,4-10,EBITDA,TTM,,1648210000
+TSLA,56317,,nan,4-6,Total Debt,TTM,,12527335000
+TSLA,56317,,nan,4-25,Free Cash Flow,TTM,,-671192000
+TSLA,56317,,nan,4-0,Gross Margin,TTM,,0.18830
+TSLA,56317,,nan,4-1,Operating Margin,TTM,,-0.01180
+TSLA,56317,,nan,4-2,Net Profit Margin,TTM,,-0.04950
+TSLA,56317,,nan,4-7,Return on Equity,TTM,,-0.18460
+TSLA,56317,,nan,4-9,Return on Assets,TTM,,-0.03570
+TSLA,56317,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.63170
+TSLA,56317,,nan,4-3,Current Ratio,TTM,,0.83130
+TSLA,56317,,nan,4-4,Liabilities to Equity Ratio,TTM,,4.16520
+TSLA,56317,,nan,4-5,Debt to Assets Ratio,TTM,,0.42120
+TSLA,56317,,nan,4-12,"Earnings per Share, Basic",TTM,,-5.72
+TSLA,56317,,nan,4-13,"Earnings per Share, Diluted",TTM,,-5.72
+TSLA,56317,,nan,4-17,Sales per Share,TTM,,125.85
+TSLA,56317,,nan,4-18,Book Value per Share,TTM,,28.87
+TSLA,56317,,nan,4-26,Free Cash Flow per Share,TTM,,-3.94
+TSLA,56317,,nan,4-29,Dividends per Share,TTM,,0.00
+TSLA,56317,,nan,4-14,Price to Earnings Ratio,TTM,,-48.89
+TSLA,56317,,nan,4-15,Price to Sales Ratio,TTM,,2.22
+TSLA,56317,,nan,4-16,Price to Book Value,TTM,,8.29
+TSLA,56317,,nan,4-27,Price to Free Cash Flow,TTM,,-71.10
+TSLA,56317,,nan,4-11,Market Capitalisation,TTM,,48337835352
+TSLA,56317,,nan,4-20,Enterprise Value,TTM,,58013949352
+TSLA,56317,,nan,4-21,EV/EBITDA,TTM,,35.20
+TSLA,56317,,nan,4-22,EV/Sales,TTM,,2.70
+TSLA,56317,,nan,4-31,EV/FCF,TTM,,-86.43
+TSLA,56317,,nan,4-23,Book to Market Value,TTM,,0.12
+TSLA,56317,,nan,4-24,Operating Income/EV,TTM,,-0.00440
+TSLA,56317,,nan,4-30,Pietroski F-Score,TTM,,5.00
+WFT,449193,USD,nan,0-31,Last Closing Price,,2019-03-29,0.70
+WFT,449193,,nan,0-64,Common Shares Outstanding,,2014-04-14,772632153
+WFT,449193,,nan,0-65,Preferred Shares Outstanding,,,
+WFT,449193,,2014.0,0-66,"Average Shares Outstanding, basic",TTM,2014-03-31,773750000
+WFT,449193,,2014.0,0-67,"Average Shares Outstanding, diluted",TTM,2014-03-31,772750000
+WFT,449193,USD,2014.0,1-1,Revenues,TTM,2014-03-31,15022000000
+WFT,449193,USD,2014.0,1-2,Cost of Goods Sold,TTM,2014-03-31,12135000000
+WFT,449193,USD,2014.0,1-4,Gross Profit,TTM,2014-03-31,2887000000
+WFT,449193,USD,2014.0,1-11,Operating Expenses,TTM,2014-03-31,2308000000
+WFT,449193,USD,2014.0,1-12,"Selling, General and Administrative",TTM,2014-03-31,2041000000
+WFT,449193,USD,2014.0,1-15,Research & Development Expenses,TTM,2014-03-31,267000000
+WFT,449193,USD,2014.0,1-19,Operating Income (EBIT),TTM,2014-03-31,579000000
+WFT,449193,USD,2014.0,1-21,"Interest Expense, net",TTM,2014-03-31,511000000
+WFT,449193,USD,2014.0,1-28,Pretax Income (adjusted),TTM,2014-03-31,-5000000
+WFT,449193,USD,2014.0,1-43,Pretax Income,TTM,2014-03-31,-210000000
+WFT,449193,USD,2014.0,1-44,Income Taxes,TTM,2014-03-31,166000000
+WFT,449193,USD,2014.0,1-49,Income from Continuing Operations,TTM,2014-03-31,-376000000
+WFT,449193,USD,2014.0,1-58,Net Income (common shareholders),TTM,2014-03-31,-408000000
+WFT,449193,USD,2014.0,2-1,Cash and Cash-equivalents,TTM,2014-03-31,367000000
+WFT,449193,USD,2014.0,2-5,"Receivables, net",TTM,2014-03-31,3723000000
+WFT,449193,USD,2014.0,2-21,Total Current Assets,TTM,2014-03-31,8860000000
+WFT,449193,USD,2014.0,2-22,"Property, Plant and Equipment, net",TTM,2014-03-31,8213000000
+WFT,449193,USD,2014.0,2-41,Total Assets,TTM,2014-03-31,21830000000
+WFT,449193,USD,2014.0,2-43,Accounts payable,TTM,2014-03-31,2012000000
+WFT,449193,USD,2014.0,2-47,Current Debt,TTM,2014-03-31,2293000000
+WFT,449193,USD,2014.0,2-57,Total Current Liabilities,TTM,2014-03-31,5817000000
+WFT,449193,USD,2014.0,2-58,Non-current Debt,TTM,2014-03-31,7039000000
+WFT,449193,USD,2014.0,2-73,Total Liabilities,TTM,2014-03-31,13859000000
+WFT,449193,USD,2014.0,2-74,Preferred Equity,TTM,2014-03-31,0
+WFT,449193,USD,2014.0,2-76,Common Stock,TTM,2014-03-31,0
+WFT,449193,USD,2014.0,2-82,Equity before minorities,TTM,2014-03-31,7927000000
+WFT,449193,USD,2014.0,2-83,Minority Interest,TTM,2014-03-31,44000000
+WFT,449193,USD,2014.0,2-84,Total Equity,TTM,2014-03-31,7971000000
+WFT,449193,USD,2014.0,3-2,Depreciation & Amortisation,TTM,2014-03-31,1407000000
+WFT,449193,USD,2014.0,3-7,Change in Working Capital,TTM,2014-03-31,-594000000
+WFT,449193,USD,2014.0,3-13,Operating Cash Flow,TTM,2014-03-31,834000000
+WFT,449193,USD,2014.0,3-14,Net Change in PP&E & Intangibles,TTM,2014-03-31,-1471000000
+WFT,449193,USD,2014.0,3-31,Investing Cash Flow,TTM,2014-03-31,-1058000000
+WFT,449193,USD,2014.0,3-32,Dividends paid,TTM,2014-03-31,0
+WFT,449193,USD,2014.0,3-43,Financing Cash Flow,TTM,2014-03-31,293000000
+WFT,449193,USD,2014.0,3-46,Net Change in Cash,TTM,2014-03-31,81000000
+WFT,449193,,nan,4-11,Market Capitalisation,TTM,,540842507
+WFT,449193,,nan,4-10,EBITDA,TTM,,1986000000
+WFT,449193,,nan,4-6,Total Debt,TTM,,9332000000
+WFT,449193,,nan,4-25,Free Cash Flow,TTM,,-245000000
+WFT,449193,,nan,4-0,Gross Margin,TTM,,0.19220
+WFT,449193,,nan,4-1,Operating Margin,TTM,,0.03850
+WFT,449193,,nan,4-2,Net Profit Margin,TTM,,-0.02500
+WFT,449193,,nan,4-7,Return on Equity,TTM,,-0.04720
+WFT,449193,,nan,4-9,Return on Assets,TTM,,-0.01720
+WFT,449193,,nan,4-28,Free Cash Flow to Net Income,TTM,,0.65160
+WFT,449193,,nan,4-3,Current Ratio,TTM,,1.52310
+WFT,449193,,nan,4-4,Liabilities to Equity Ratio,TTM,,1.73870
+WFT,449193,,nan,4-5,Debt to Assets Ratio,TTM,,0.42750
+WFT,449193,,nan,4-12,"Earnings per Share, Basic",TTM,,-0.53
+WFT,449193,,nan,4-13,"Earnings per Share, Diluted",TTM,,-0.53
+WFT,449193,,nan,4-17,Sales per Share,TTM,,19.41
+WFT,449193,,nan,4-18,Book Value per Share,TTM,,10.24
+WFT,449193,,nan,4-26,Free Cash Flow per Share,TTM,,-0.32
+WFT,449193,,nan,4-29,Dividends per Share,TTM,,0.00
+WFT,449193,,nan,4-14,Price to Earnings Ratio,TTM,,-1.33
+WFT,449193,,nan,4-15,Price to Sales Ratio,TTM,,0.04
+WFT,449193,,nan,4-16,Price to Book Value,TTM,,0.07
+WFT,449193,,nan,4-27,Price to Free Cash Flow,TTM,,-2.21
+WFT,449193,,nan,4-11,Market Capitalisation,TTM,,540842507
+WFT,449193,,nan,4-20,Enterprise Value,TTM,,9549842507
+WFT,449193,,nan,4-21,EV/EBITDA,TTM,,4.81
+WFT,449193,,nan,4-22,EV/Sales,TTM,,0.64
+WFT,449193,,nan,4-31,EV/FCF,TTM,,-38.98
+WFT,449193,,nan,4-23,Book to Market Value,TTM,,14.74
+WFT,449193,,nan,4-24,Operating Income/EV,TTM,,0.06060
+WFT,449193,,nan,4-30,Pietroski F-Score,TTM,,2.00
+CVX,248396,USD,nan,0-31,Last Closing Price,,2019-03-29,123.18
+CVX,248396,,nan,0-64,Common Shares Outstanding,,2018-09-30,1910774369
+CVX,248396,,nan,0-65,Preferred Shares Outstanding,,,
+CVX,248396,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-09-30,1896522750
+CVX,248396,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-09-30,1914350000
+CVX,248396,USD,2018.0,1-1,Revenues,TTM,2018-09-30,154945000000
+CVX,248396,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-09-30,111985000000
+CVX,248396,USD,2018.0,1-4,Gross Profit,TTM,2018-09-30,42960000000
+CVX,248396,USD,2018.0,1-11,Operating Expenses,TTM,2018-09-30,31729000000
+CVX,248396,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-09-30,4238000000
+CVX,248396,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-09-30,0
+CVX,248396,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,11231000000
+CVX,248396,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-09-30,731000000
+CVX,248396,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,17158000000
+CVX,248396,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,17158000000
+CVX,248396,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,2903000000
+CVX,248396,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,14255000000
+CVX,248396,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,14205000000
+CVX,248396,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-09-30,9746000000
+CVX,248396,USD,2018.0,2-5,"Receivables, net",TTM,2018-09-30,0
+CVX,248396,USD,2018.0,2-21,Total Current Assets,TTM,2018-09-30,35583000000
+CVX,248396,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-09-30,171645000000
+CVX,248396,USD,2018.0,2-41,Total Assets,TTM,2018-09-30,256606000000
+CVX,248396,USD,2018.0,2-43,Accounts payable,TTM,2018-09-30,15335000000
+CVX,248396,USD,2018.0,2-47,Current Debt,TTM,2018-09-30,6121000000
+CVX,248396,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-09-30,29183000000
+CVX,248396,USD,2018.0,2-58,Non-current Debt,TTM,2018-09-30,29989000000
+CVX,248396,USD,2018.0,2-73,Total Liabilities,TTM,2018-09-30,101933000000
+CVX,248396,USD,2018.0,2-74,Preferred Equity,TTM,2018-09-30,0
+CVX,248396,USD,2018.0,2-76,Common Stock,TTM,2018-09-30,0
+CVX,248396,USD,2018.0,2-82,Equity before minorities,TTM,2018-09-30,153575000000
+CVX,248396,USD,2018.0,2-83,Minority Interest,TTM,2018-09-30,1098000000
+CVX,248396,USD,2018.0,2-84,Total Equity,TTM,2018-09-30,154673000000
+CVX,248396,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-09-30,18902000000
+CVX,248396,USD,2018.0,3-7,Change in Working Capital,TTM,2018-09-30,-1599000000
+CVX,248396,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-09-30,27737000000
+CVX,248396,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-09-30,-10844000000
+CVX,248396,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-09-30,-10825000000
+CVX,248396,USD,2018.0,3-32,Dividends paid,TTM,2018-09-30,-8421000000
+CVX,248396,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-09-30,-13765000000
+CVX,248396,USD,2018.0,3-46,Net Change in Cash,TTM,2018-09-30,3082000000
+CVX,248396,,nan,4-11,Market Capitalisation,TTM,,235369186773
+CVX,248396,,nan,4-10,EBITDA,TTM,,30133000000
+CVX,248396,,nan,4-6,Total Debt,TTM,,36110000000
+CVX,248396,,nan,4-25,Free Cash Flow,TTM,,14787000000
+CVX,248396,,nan,4-0,Gross Margin,TTM,,0.27730
+CVX,248396,,nan,4-1,Operating Margin,TTM,,0.07250
+CVX,248396,,nan,4-2,Net Profit Margin,TTM,,0.09200
+CVX,248396,,nan,4-7,Return on Equity,TTM,,0.09220
+CVX,248396,,nan,4-9,Return on Assets,TTM,,0.05560
+CVX,248396,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.03730
+CVX,248396,,nan,4-3,Current Ratio,TTM,,1.21930
+CVX,248396,,nan,4-4,Liabilities to Equity Ratio,TTM,,0.65900
+CVX,248396,,nan,4-5,Debt to Assets Ratio,TTM,,0.14070
+CVX,248396,,nan,4-12,"Earnings per Share, Basic",TTM,,7.49
+CVX,248396,,nan,4-13,"Earnings per Share, Diluted",TTM,,7.42
+CVX,248396,,nan,4-17,Sales per Share,TTM,,81.70
+CVX,248396,,nan,4-18,Book Value per Share,TTM,,80.98
+CVX,248396,,nan,4-26,Free Cash Flow per Share,TTM,,7.80
+CVX,248396,,nan,4-29,Dividends per Share,TTM,,4.44
+CVX,248396,,nan,4-14,Price to Earnings Ratio,TTM,,16.45
+CVX,248396,,nan,4-15,Price to Sales Ratio,TTM,,1.51
+CVX,248396,,nan,4-16,Price to Book Value,TTM,,1.51
+CVX,248396,,nan,4-27,Price to Free Cash Flow,TTM,,15.80
+CVX,248396,,nan,4-11,Market Capitalisation,TTM,,235369186773
+CVX,248396,,nan,4-20,Enterprise Value,TTM,,262831186773
+CVX,248396,,nan,4-21,EV/EBITDA,TTM,,8.72
+CVX,248396,,nan,4-22,EV/Sales,TTM,,1.70
+CVX,248396,,nan,4-31,EV/FCF,TTM,,17.77
+CVX,248396,,nan,4-23,Book to Market Value,TTM,,0.66
+CVX,248396,,nan,4-24,Operating Income/EV,TTM,,0.04270
+CVX,248396,,nan,4-30,Pietroski F-Score,TTM,,7.00
+BAC,71941,USD,nan,0-31,Last Closing Price,,2019-03-29,27.59
+BAC,71941,,nan,0-64,Common Shares Outstanding,,2019-02-25,9658759764
+BAC,71941,,nan,0-65,Preferred Shares Outstanding,,2018-12-31,3843140
+BAC,71941,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,10096500000
+BAC,71941,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,10236900000
+BAC,71941,USD,2018.0,1-1,Revenues,TTM,2018-09-30,88947000000
+BAC,71941,,nan,1-2,Cost of Goods Sold,,,
+BAC,71941,,nan,1-4,Gross Profit,,,
+BAC,71941,,nan,1-11,Operating Expenses,,,
+BAC,71941,,nan,1-12,"Selling, General and Administrative",,,
+BAC,71941,,nan,1-15,Research & Development Expenses,,,
+BAC,71941,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-09-30,32546000000
+BAC,71941,,nan,1-21,"Interest Expense, net",,,
+BAC,71941,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-09-30,32546000000
+BAC,71941,USD,2018.0,1-43,Pretax Income,TTM,2018-09-30,32546000000
+BAC,71941,USD,2018.0,1-44,Income Taxes,TTM,2018-09-30,8994000000
+BAC,71941,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-09-30,23552000000
+BAC,71941,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-09-30,22054000000
+BAC,71941,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,177404000000
+BAC,71941,,nan,2-5,"Receivables, net",,,
+BAC,71941,,nan,2-21,Total Current Assets,,,
+BAC,71941,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,9906000000
+BAC,71941,USD,2018.0,2-41,Total Assets,TTM,2018-12-31,2354507000000
+BAC,71941,,nan,2-43,Accounts payable,,,
+BAC,71941,USD,2018.0,2-47,Current Debt,TTM,2018-12-31,275397000000
+BAC,71941,,nan,2-57,Total Current Liabilities,,,
+BAC,71941,USD,2018.0,2-58,Non-current Debt,TTM,2018-12-31,229340000000
+BAC,71941,USD,2018.0,2-73,Total Liabilities,TTM,2018-12-31,2089182000000
+BAC,71941,USD,2018.0,2-74,Preferred Equity,TTM,2018-12-31,22326000000
+BAC,71941,USD,2018.0,2-76,Common Stock,TTM,2018-12-31,0
+BAC,71941,USD,2018.0,2-82,Equity before minorities,TTM,2018-12-31,265325000000
+BAC,71941,USD,2018.0,2-83,Minority Interest,TTM,2018-12-31,0
+BAC,71941,USD,2018.0,2-84,Total Equity,TTM,2018-12-31,265325000000
+BAC,71941,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,3887000000
+BAC,71941,USD,2018.0,3-7,Change in Working Capital,TTM,2018-12-31,-29384000000
+BAC,71941,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-12-31,39520000000
+BAC,71941,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,0
+BAC,71941,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-12-31,-71468000000
+BAC,71941,USD,2018.0,3-32,Dividends paid,TTM,2018-12-31,-11407000000
+BAC,71941,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-12-31,53118000000
+BAC,71941,USD,2018.0,3-46,Net Change in Cash,TTM,2018-12-31,19970000000
+BAC,71941,,nan,4-11,Market Capitalisation,TTM,,266485181889
+BAC,71941,,nan,4-10,EBITDA,,,
+BAC,71941,,nan,4-6,Total Debt,TTM,,504737000000
+BAC,71941,,nan,4-25,Free Cash Flow,,,
+BAC,71941,,nan,4-0,Gross Margin,,,
+BAC,71941,,nan,4-1,Operating Margin,TTM,,0.36590
+BAC,71941,,nan,4-2,Net Profit Margin,TTM,,0.26480
+BAC,71941,,nan,4-7,Return on Equity,,,
+BAC,71941,,nan,4-9,Return on Assets,,,
+BAC,71941,,nan,4-28,Free Cash Flow to Net Income,,,
+BAC,71941,,nan,4-3,Current Ratio,,,
+BAC,71941,,nan,4-4,Liabilities to Equity Ratio,TTM,,7.87400
+BAC,71941,,nan,4-5,Debt to Assets Ratio,TTM,,0.21440
+BAC,71941,,nan,4-12,"Earnings per Share, Basic",,,
+BAC,71941,,nan,4-13,"Earnings per Share, Diluted",,,
+BAC,71941,,nan,4-17,Sales per Share,,,
+BAC,71941,,nan,4-18,Book Value per Share,TTM,,24.07
+BAC,71941,,nan,4-26,Free Cash Flow per Share,,,
+BAC,71941,,nan,4-29,Dividends per Share,TTM,,1.13
+BAC,71941,,nan,4-14,Price to Earnings Ratio,,,
+BAC,71941,,nan,4-15,Price to Sales Ratio,,,
+BAC,71941,,nan,4-16,Price to Book Value,TTM,,1.05
+BAC,71941,,nan,4-27,Price to Free Cash Flow,,,
+BAC,71941,,nan,4-11,Market Capitalisation,TTM,,266485181889
+BAC,71941,,nan,4-20,Enterprise Value,TTM,,593926865888
+BAC,71941,,nan,4-21,EV/EBITDA,,,
+BAC,71941,,nan,4-22,EV/Sales,,,
+BAC,71941,,nan,4-31,EV/FCF,,,
+BAC,71941,,nan,4-23,Book to Market Value,TTM,,1.00
+BAC,71941,,nan,4-24,Operating Income/EV,,,
+BAC,71941,,nan,4-30,Pietroski F-Score,,,
+JWN,184768,USD,nan,0-31,Last Closing Price,,2019-03-29,44.38
+JWN,184768,,nan,0-64,Common Shares Outstanding,,2018-11-28,167323864
+JWN,184768,,nan,0-65,Preferred Shares Outstanding,,,
+JWN,184768,,2018.0,0-66,"Average Shares Outstanding, basic",TTM,2018-11-30,167800000
+JWN,184768,,2018.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-11-30,170550000
+JWN,184768,USD,2018.0,1-1,Revenues,TTM,2018-11-30,16079000000
+JWN,184768,USD,2018.0,1-2,Cost of Goods Sold,TTM,2018-11-30,10280000000
+JWN,184768,USD,2018.0,1-4,Gross Profit,TTM,2018-11-30,5799000000
+JWN,184768,USD,2018.0,1-11,Operating Expenses,TTM,2018-11-30,4945000000
+JWN,184768,USD,2018.0,1-12,"Selling, General and Administrative",TTM,2018-11-30,4945000000
+JWN,184768,USD,2018.0,1-15,Research & Development Expenses,TTM,2018-11-30,0
+JWN,184768,USD,2018.0,1-19,Operating Income (EBIT),TTM,2018-11-30,854000000
+JWN,184768,USD,2018.0,1-21,"Interest Expense, net",TTM,2018-11-30,112000000
+JWN,184768,USD,2018.0,1-28,Pretax Income (adjusted),TTM,2018-11-30,742000000
+JWN,184768,USD,2018.0,1-43,Pretax Income,TTM,2018-11-30,742000000
+JWN,184768,USD,2018.0,1-44,Income Taxes,TTM,2018-11-30,276000000
+JWN,184768,USD,2018.0,1-49,Income from Continuing Operations,TTM,2018-11-30,466000000
+JWN,184768,USD,2018.0,1-58,Net Income (common shareholders),TTM,2018-11-30,466000000
+JWN,184768,USD,2018.0,2-1,Cash and Cash-equivalents,TTM,2018-11-30,1127000000
+JWN,184768,USD,2018.0,2-5,"Receivables, net",TTM,2018-11-30,190000000
+JWN,184768,USD,2018.0,2-21,Total Current Assets,TTM,2018-11-30,4297000000
+JWN,184768,USD,2018.0,2-22,"Property, Plant and Equipment, net",TTM,2018-11-30,3858000000
+JWN,184768,USD,2018.0,2-41,Total Assets,TTM,2018-11-30,8709000000
+JWN,184768,USD,2018.0,2-43,Accounts payable,TTM,2018-11-30,2106000000
+JWN,184768,USD,2018.0,2-47,Current Debt,TTM,2018-11-30,8000000
+JWN,184768,USD,2018.0,2-57,Total Current Liabilities,TTM,2018-11-30,3842000000
+JWN,184768,USD,2018.0,2-58,Non-current Debt,TTM,2018-11-30,2678000000
+JWN,184768,USD,2018.0,2-73,Total Liabilities,TTM,2018-11-30,7506000000
+JWN,184768,USD,2018.0,2-74,Preferred Equity,TTM,2018-11-30,0
+JWN,184768,USD,2018.0,2-76,Common Stock,TTM,2018-11-30,3029000000
+JWN,184768,USD,2018.0,2-82,Equity before minorities,TTM,2018-11-30,1203000000
+JWN,184768,USD,2018.0,2-83,Minority Interest,TTM,2018-11-30,0
+JWN,184768,USD,2018.0,2-84,Total Equity,TTM,2018-11-30,1203000000
+JWN,184768,USD,2018.0,3-2,Depreciation & Amortisation,TTM,2018-11-30,685000000
+JWN,184768,USD,2018.0,3-7,Change in Working Capital,TTM,2018-11-30,129000000
+JWN,184768,USD,2018.0,3-13,Operating Cash Flow,TTM,2018-11-30,1445000000
+JWN,184768,USD,2018.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-11-30,-624000000
+JWN,184768,USD,2018.0,3-31,Investing Cash Flow,TTM,2018-11-30,-625000000
+JWN,184768,USD,2018.0,3-32,Dividends paid,TTM,2018-11-30,-248000000
+JWN,184768,USD,2018.0,3-43,Financing Cash Flow,TTM,2018-11-30,-365000000
+JWN,184768,USD,2018.0,3-46,Net Change in Cash,TTM,2018-11-30,455000000
+JWN,184768,,nan,4-11,Market Capitalisation,TTM,,7425833084
+JWN,184768,,nan,4-10,EBITDA,TTM,,1539000000
+JWN,184768,,nan,4-6,Total Debt,TTM,,2686000000
+JWN,184768,,nan,4-25,Free Cash Flow,TTM,,768000000
+JWN,184768,,nan,4-0,Gross Margin,TTM,,0.36070
+JWN,184768,,nan,4-1,Operating Margin,TTM,,0.05310
+JWN,184768,,nan,4-2,Net Profit Margin,TTM,,0.02900
+JWN,184768,,nan,4-7,Return on Equity,TTM,,0.38740
+JWN,184768,,nan,4-9,Return on Assets,TTM,,0.05350
+JWN,184768,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.64810
+JWN,184768,,nan,4-3,Current Ratio,TTM,,1.11840
+JWN,184768,,nan,4-4,Liabilities to Equity Ratio,TTM,,6.23940
+JWN,184768,,nan,4-5,Debt to Assets Ratio,TTM,,0.30840
+JWN,184768,,nan,4-12,"Earnings per Share, Basic",TTM,,2.78
+JWN,184768,,nan,4-13,"Earnings per Share, Diluted",TTM,,2.73
+JWN,184768,,nan,4-17,Sales per Share,TTM,,95.82
+JWN,184768,,nan,4-18,Book Value per Share,TTM,,7.17
+JWN,184768,,nan,4-26,Free Cash Flow per Share,TTM,,4.58
+JWN,184768,,nan,4-29,Dividends per Share,TTM,,1.48
+JWN,184768,,nan,4-14,Price to Earnings Ratio,TTM,,15.98
+JWN,184768,,nan,4-15,Price to Sales Ratio,TTM,,0.46
+JWN,184768,,nan,4-16,Price to Book Value,TTM,,6.19
+JWN,184768,,nan,4-27,Price to Free Cash Flow,TTM,,9.70
+JWN,184768,,nan,4-11,Market Capitalisation,TTM,,7425833084
+JWN,184768,,nan,4-20,Enterprise Value,TTM,,8984833084
+JWN,184768,,nan,4-21,EV/EBITDA,TTM,,5.84
+JWN,184768,,nan,4-22,EV/Sales,TTM,,0.56
+JWN,184768,,nan,4-31,EV/FCF,TTM,,11.70
+JWN,184768,,nan,4-23,Book to Market Value,TTM,,0.16
+JWN,184768,,nan,4-24,Operating Income/EV,TTM,,0.09500
+JWN,184768,,nan,4-30,Pietroski F-Score,,,
+ADP,591496,USD,nan,0-31,Last Closing Price,,2019-03-29,159.74
+ADP,591496,,nan,0-64,Common Shares Outstanding,,2019-01-25,435629656
+ADP,591496,,nan,0-65,Preferred Shares Outstanding,,,
+ADP,591496,,2019.0,0-66,"Average Shares Outstanding, basic",TTM,2018-12-31,437825000
+ADP,591496,,2019.0,0-67,"Average Shares Outstanding, diluted",TTM,2018-12-31,440575000
+ADP,591496,USD,2019.0,1-1,Revenues,TTM,2018-12-31,13839400000
+ADP,591496,USD,2019.0,1-2,Cost of Goods Sold,TTM,2018-12-31,8007500000
+ADP,591496,USD,2019.0,1-4,Gross Profit,TTM,2018-12-31,5831900000
+ADP,591496,USD,2019.0,1-11,Operating Expenses,TTM,2018-12-31,3031500000
+ADP,591496,USD,2019.0,1-12,"Selling, General and Administrative",TTM,2018-12-31,3031500000
+ADP,591496,USD,2019.0,1-15,Research & Development Expenses,TTM,2018-12-31,0
+ADP,591496,USD,2019.0,1-19,Operating Income (EBIT),TTM,2018-12-31,2800400000
+ADP,591496,USD,2019.0,1-21,"Interest Expense, net",TTM,2018-12-31,121700000
+ADP,591496,USD,2019.0,1-28,Pretax Income (adjusted),TTM,2018-12-31,2406500000
+ADP,591496,USD,2019.0,1-43,Pretax Income,TTM,2018-12-31,2406500000
+ADP,591496,USD,2019.0,1-44,Income Taxes,TTM,2018-12-31,805100000
+ADP,591496,USD,2019.0,1-49,Income from Continuing Operations,TTM,2018-12-31,1601400000
+ADP,591496,USD,2019.0,1-58,Net Income (common shareholders),TTM,2018-12-31,1601400000
+ADP,591496,USD,2019.0,2-1,Cash and Cash-equivalents,TTM,2018-12-31,2785600000
+ADP,591496,USD,2019.0,2-5,"Receivables, net",TTM,2018-12-31,2638100000
+ADP,591496,USD,2019.0,2-21,Total Current Assets,TTM,2018-12-31,31682600000
+ADP,591496,USD,2019.0,2-22,"Property, Plant and Equipment, net",TTM,2018-12-31,772700000
+ADP,591496,USD,2019.0,2-41,Total Assets,TTM,2018-12-31,38806300000
+ADP,591496,USD,2019.0,2-43,Accounts payable,TTM,2018-12-31,151300000
+ADP,591496,USD,2019.0,2-47,Current Debt,TTM,2018-12-31,1206000000
+ADP,591496,USD,2019.0,2-57,Total Current Liabilities,TTM,2018-12-31,30296900000
+ADP,591496,USD,2019.0,2-58,Non-current Debt,TTM,2018-12-31,2002300000
+ADP,591496,USD,2019.0,2-73,Total Liabilities,TTM,2018-12-31,34042400000
+ADP,591496,USD,2019.0,2-74,Preferred Equity,TTM,2018-12-31,0
+ADP,591496,USD,2019.0,2-76,Common Stock,TTM,2018-12-31,0
+ADP,591496,USD,2019.0,2-82,Equity before minorities,TTM,2018-12-31,4763900000
+ADP,591496,USD,2019.0,2-83,Minority Interest,TTM,2018-12-31,0
+ADP,591496,USD,2019.0,2-84,Total Equity,TTM,2018-12-31,4763900000
+ADP,591496,USD,2019.0,3-2,Depreciation & Amortisation,TTM,2018-12-31,392100000
+ADP,591496,USD,2019.0,3-7,Change in Working Capital,TTM,2018-12-31,-75400000
+ADP,591496,USD,2019.0,3-13,Operating Cash Flow,TTM,2018-12-31,2771600000
+ADP,591496,USD,2019.0,3-14,Net Change in PP&E & Intangibles,TTM,2018-12-31,-431100000
+ADP,591496,USD,2019.0,3-31,Investing Cash Flow,TTM,2018-12-31,-1647500000
+ADP,591496,USD,2019.0,3-32,Dividends paid,TTM,2018-12-31,-1162000000
+ADP,591496,USD,2019.0,3-43,Financing Cash Flow,TTM,2018-12-31,-9424500000
+ADP,591496,USD,2019.0,3-46,Net Change in Cash,TTM,2018-12-31,-8375800000
+ADP,591496,,nan,4-11,Market Capitalisation,TTM,,69587481249
+ADP,591496,,nan,4-10,EBITDA,TTM,,3192500000
+ADP,591496,,nan,4-6,Total Debt,TTM,,3208300000
+ADP,591496,,nan,4-25,Free Cash Flow,TTM,,1880900000
+ADP,591496,,nan,4-0,Gross Margin,TTM,,0.42140
+ADP,591496,,nan,4-1,Operating Margin,TTM,,0.20230
+ADP,591496,,nan,4-2,Net Profit Margin,TTM,,0.11570
+ADP,591496,,nan,4-7,Return on Equity,TTM,,0.33620
+ADP,591496,,nan,4-9,Return on Assets,TTM,,0.04130
+ADP,591496,,nan,4-28,Free Cash Flow to Net Income,TTM,,1.17450
+ADP,591496,,nan,4-3,Current Ratio,TTM,,1.04570
+ADP,591496,,nan,4-4,Liabilities to Equity Ratio,TTM,,7.14590
+ADP,591496,,nan,4-5,Debt to Assets Ratio,TTM,,0.08270
+ADP,591496,,nan,4-12,"Earnings per Share, Basic",TTM,,3.66
+ADP,591496,,nan,4-13,"Earnings per Share, Diluted",TTM,,3.63
+ADP,591496,,nan,4-17,Sales per Share,TTM,,31.61
+ADP,591496,,nan,4-18,Book Value per Share,TTM,,10.88
+ADP,591496,,nan,4-26,Free Cash Flow per Share,TTM,,4.30
+ADP,591496,,nan,4-29,Dividends per Share,TTM,,2.65
+ADP,591496,,nan,4-14,Price to Earnings Ratio,TTM,,43.67
+ADP,591496,,nan,4-15,Price to Sales Ratio,TTM,,5.05
+ADP,591496,,nan,4-16,Price to Book Value,TTM,,14.68
+ADP,591496,,nan,4-27,Price to Free Cash Flow,TTM,,37.18
+ADP,591496,,nan,4-11,Market Capitalisation,TTM,,69587481249
+ADP,591496,,nan,4-20,Enterprise Value,TTM,,70010181249
+ADP,591496,,nan,4-21,EV/EBITDA,TTM,,21.93
+ADP,591496,,nan,4-22,EV/Sales,TTM,,5.06
+ADP,591496,,nan,4-31,EV/FCF,TTM,,37.22
+ADP,591496,,nan,4-23,Book to Market Value,TTM,,0.07
+ADP,591496,,nan,4-24,Operating Income/EV,TTM,,0.04000
+ADP,591496,,nan,4-30,Pietroski F-Score,TTM,,6.00
