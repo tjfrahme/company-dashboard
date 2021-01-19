@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "company-dashboard-tf",
+  "private_key_id": "6d7ebd5fc25aa09129c8d7edda6ed720147750d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCS+2b8VZ9nyIA7\nG88UvNNdxnNSbhMdNiuYimp7Oq0Y8Ar6sPrJmL+dWZwNW/nh65/4RFxOQKahr5dV\ns3pLlEKEiTzRF9/Lx2ZqNy+9vYVqKmaB6laDgZ8m+IO8Bo9oxu0IiM8dIuN+oF7l\nttjFDLEIC8HgzAy1hThG4ocLHexNRYUjq8iphocjY1HUaa1kTLHwcE7u+M+v4+e/\nO2hSf5PRjpp1x41oOyLjTUTzm31L7BEbjcaLN+rSHFKDKNStGNGhihaPWIl/0Aur\njbZ4B2Byr2Mb55KiUMDXL/T2faAaz8Y7S845UK45yhh2SxA4S5KXr8scB9inatBe\npWjuwUGlAgMBAAECggEAAJ6/6fugfwsZA2bUIlXDnIcsUGI3gW2LlIqs9VUjitHk\ncfdSL4yN7meE4YeMT9gzJhR/wTLDoTYA8PMfZnc7Kpz7nTQ5FP6D35nZATdt+ysv\noIexEr/2wG7W+3GZpEsGj/0nxosxo4Sgsd5qHra1fn+yMzUZLqDfwmjNQg4/w3mw\neV6+O6AVCuj3gjaAitSaHdelFW8SIlrGsd+A3Svv4XfmFbcF1rB1fvCwAuvX7eu8\ny+4nz8z6oiZettmqfkUn/XhoU6cqCVSnLtAHDfamMaMtSfOSgYwgilllDRjOboCT\nCI4gC6JA7+Jo/nQDpvbS7s7wDUaRKhwKw9gW6NelAQKBgQDIWgFW2Rvozbjme8gm\npDG93TjGTEbhhdjipM69UK/BPkaW3GunzRn+V9ApmaO/feTLaWsuMoCOE/Q3t0YD\niCO8zHHINlViN+F7Ck5gzCwe/RwQzTu8Zkci2Bvy0AhYBNpnnuzeI1Y8htQhsE6c\nu5L7ToH7QRaTQnK1buGhdBrtJQKBgQC7zo6Szc9hsrSt13azWL0HG06/prfiqPf+\ne+tKjkOBpncvAlgk1LhZaYZpBdlTjJnRzuGPl2fMpwHOrA4Dqa4DH7iq4Ki08TBJ\n1V0Vy5wmzpPaSiulDZ8P5iPXGwRM5GtiMcAPU0VfhFiuOFJ1W+AJC0Qpd01zD5lS\nIW7UCpIagQKBgBYi46z91fiV6k0E9itWzuwkaiZ2vQoj6L+55+HA7XpTcCcw+XAT\n2EBi4WwHPrFkrofPAPmcuNl52OzjAghX3WL5z8SIREzS0cXvcJN/W4yc+KHemzAI\nuOlfqU7dr15SQvNZ+t/cVaXgW8XRHg5xJx8/IFtraJwiplvngWR+WI9FAoGBALd9\nAfMQPZN4Y+qM3p4vDtAIsBGzM2myKElsjN/UysO6/irhoXiqlEpXPUkSu9hTQF2q\nQNpn1LQwXyWrGC4f87F9ppDc2jeehc09Nqr6uV946R+W47lo64U/Frks3jC54uiX\nLsxKUTcXOQVOZdHfp61uYnQY6YSHMwb5PyzP/xsBAoGAT9F/ufZ7/kPYOQwcVj3h\nFgHClzJ2bLk8Mv+csRrCWTsMZH2cFMCZfwfBiWVpEYwGwVPHP4BoJ33e6eW0scqN\nk8ZAmGkFzAAyRBElu2ng9QzOh1p0usNHtPUFLJwJDy6hKfOPrntzLkvJS0eCtAuZ\ngc+1eLeY+oDZLBwX25Eane8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-tim-personal@company-dashboard-tf.iam.gserviceaccount.com",
+  "client_id": "104903797256306636887",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-tim-personal%40company-dashboard-tf.iam.gserviceaccount.com"
+}
